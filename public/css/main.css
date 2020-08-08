@@ -125,7 +125,6 @@
 }
 @media all and (max-width: 500px) {
   .header-navegacion .logo {
-    background-color: yellowgreen;
     width: 70%;
   }
   .header-navegacion .logo img {
