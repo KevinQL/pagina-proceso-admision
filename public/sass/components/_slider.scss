@@ -1,0 +1,43 @@
+.slider{
+    height: 80vh;
+    width: 100%;
+    background-color: rgba(19, 8, 1, 0.048);
+    overflow: hidden;
+    display: block;
+    position: relative;
+
+    @media all and ( max-width:500px ){
+        height: 60vh;
+        transform: translateY(17px); //ESTO MINIMIZA EL ESPACIO INFERIOR QUE QUEDA SIN CUBRIR
+    }
+    .sle{
+        height: 100%;
+    }
+    img{
+        min-height: 80vh;
+        min-width: 100%;
+    }
+    .texto-slider{
+        position: absolute;
+        display: block;
+        width: 100vw;
+        height: 100%;
+        top: 0px;
+        // left: 0px;
+        background-color: rgba(54, 36, 1, 0.404);
+        color: white;
+        z-index: 1000;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        @media all and (max-width:500px) {
+            /*
+            // para centrar el texto en modo resposivo
+            Este valor viene dado por el vh del slider en modo responsive
+            */
+            height: 60vh; 
+        }
+    }
+}

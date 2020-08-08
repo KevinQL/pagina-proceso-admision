@@ -1,0 +1,14 @@
+//cinta menu 
+.cinta-menu{
+    // height: 50px;
+    width: 100%;
+    background-color: $color-primario;
+    .icono-d{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        // align-items: center;
+        align-content: center;
+    }
+}

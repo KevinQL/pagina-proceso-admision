@@ -1,0 +1,15 @@
+.cuerpo-pagina{
+    display: block;
+    position: relative;
+    // height: 80vh;
+    height: auto;
+    // background-color: yellowgreen;
+    padding: 15px 0px;
+    
+    overflow: hidden;
+
+
+    @media all and (max-width:500px){
+        height: auto;
+    }
+}

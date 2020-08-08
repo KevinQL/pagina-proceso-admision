@@ -1,0 +1,19 @@
+
+//sección noticia
+.seccion-noticias{
+    height: 100%;
+    overflow: hidden;
+    .sle2{
+        max-height: 100%;
+        // background-color: tomato;
+    }
+    img{
+        width: 100%;
+    }
+    .noticia-parrafo{
+        height: 150px;
+        display: block;
+        overflow: hidden;
+        // background-color: cyan;
+    }
+}
