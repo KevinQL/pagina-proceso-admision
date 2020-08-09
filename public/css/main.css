@@ -1,3 +1,22 @@
+.header-navegacion {
+  position: sticky;
+  top: 0px;
+  z-index: 3000;
+  background-color: white;
+  -webkit-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
+  -moz-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
+  box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
+}
+.header-navegacion .fondo-linea {
+  background-color: rgba(5, 31, 66, 0.801);
+  display: block;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  min-height: 100.2%;
+  z-index: -100;
+  clip-path: polygon(30% 20%, 100% 0%, 100% 100%, 20% 100%);
+}
 .header-navegacion .container {
   display: flex;
   flex-wrap: wrap;
