@@ -37,6 +37,7 @@
 }
 .header-navegacion .container .menu-bar {
   display: none;
+  color: #ca8a08;
   margin-right: 10px;
 }
 @media all and (max-width: 500px) {
