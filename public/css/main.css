@@ -195,9 +195,109 @@
   }
 }
 
+.seccion-admision {
+  background-image: url(../img/facu.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 90vh;
+  position: relative;
+  overflow: hidden;
+}
+.seccion-admision .container a {
+  text-decoration: none;
+  border: none;
+  border-radius: 50px;
+  display: block;
+  text-align: center;
+  color: white;
+}
+@media all and (max-width: 500px) {
+  .seccion-admision .container a {
+    border-radius: 10px;
+  }
+}
+.seccion-admision .container .seccion-1 {
+  position: relative;
+  height: 30vh;
+  padding-top: 15px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.seccion-admision .container .seccion-1 a {
+  background-color: saddlebrown;
+  font-size: 1.3rem;
+  padding: 0% 5%;
+  height: 20vh;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media all and (max-width: 500px) {
+  .seccion-admision .container .seccion-1 a {
+    width: 100%;
+  }
+}
+.seccion-admision .container .seccion-2 {
+  height: 30vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.seccion-admision .container .seccion-2 a {
+  background-color: salmon;
+  font-size: 1.3rem;
+  padding: 0% 5%;
+  height: 20vh;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media all and (max-width: 500px) {
+  .seccion-admision .container .seccion-2 {
+    align-items: center;
+  }
+  .seccion-admision .container .seccion-2 a {
+    width: 100%;
+  }
+}
+.seccion-admision .container .seccion-3 {
+  height: 30vh;
+  overflow: hidden;
+}
+.seccion-admision .container .seccion-3 div {
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.seccion-admision .container .seccion-3 div a {
+  background-color: seagreen;
+  font-size: 1.3rem;
+  padding: 0% 5%;
+  height: 20vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media all and (max-width: 500px) {
+  .seccion-admision .container .seccion-3 div {
+    align-items: center;
+    margin: 0px;
+    padding: 0px 2px;
+  }
+}
+
 .cinta-menu {
   width: 100%;
-  background-color: rgba(5, 31, 66, 0.801);
+  background-color: #ca8a08;
 }
 .cinta-menu .icono-d {
   display: flex;
