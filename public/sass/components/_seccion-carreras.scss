@@ -1,0 +1,7 @@
+.seccion-carreras{
+    background-color: whitesmoke;
+
+    @media all and ( max-width:500px){
+        display:none;
+    }
+}
