@@ -206,6 +206,27 @@
   }
 }
 
+.seccion-carreras {
+  background-color: whitesmoke;
+}
+@media all and (max-width: 500px) {
+  .seccion-carreras {
+    display: none;
+  }
+}
+
+.cinta-menu {
+  width: 100%;
+  background-color: rgba(5, 31, 66, 0.801);
+}
+.cinta-menu .icono-d {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
 .seccion-admision {
   background-image: url(../img/facu.jpg);
   background-position: center;
@@ -304,18 +325,6 @@
     margin: 0px;
     padding: 0px 2px;
   }
-}
-
-.cinta-menu {
-  width: 100%;
-  background-color: #ca8a08;
-}
-.cinta-menu .icono-d {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  flex-wrap: wrap;
-  align-content: center;
 }
 
 .cuerpo-pagina {
