@@ -2,7 +2,7 @@
   position: sticky;
   top: 0px;
   z-index: 3000;
-  background-color: rgb(202, 138, 8);
+  background-color: #ca8a08;
   -webkit-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
   -moz-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
   box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
@@ -52,14 +52,14 @@
 }
 @media all and (max-width: 500px) {
   .header-navegacion .container .navegacion {
-    background-color: yellow;
+    background-color: #ca8a08;
     display: none;
     position: relative;
     width: 100%;
     z-index: 1000;
   }
   .header-navegacion .container .navegacion .ul-menu {
-    background-color: rgb(202, 138, 8);
+    background-color: #051f42;
     position: absolute;
     display: block;
     width: 100%;
@@ -112,7 +112,7 @@
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu .sub-menu {
   position: absolute;
-  background-color: rgba(202, 137, 8, 0.808);
+  background-color: #ca8a08;
   display: none;
   padding: 0px;
   width: 200px;
@@ -134,7 +134,7 @@
   padding: 10px 20px;
   margin-bottom: 1.2px;
   color: white;
-  background-color: rgba(5, 31, 66, 0.966);
+  background-color: #051f42;
   font-size: 13px;
 }
 @media all and (max-width: 500px) {
