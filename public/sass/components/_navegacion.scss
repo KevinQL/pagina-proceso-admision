@@ -112,11 +112,18 @@ box-shadow: 0px 3px 5px 3px $color-primario;
                             border: 1px solid $c-btn-borde-hover;
                         }
                     }
+                    .subm-t0{
+                        max-width: 100%;
+                    }
                     .subm-t1{
                         max-width: 200px;
                     }
                     .subm-t2{
                         max-width: 150px;
+                    }
+                    .subm-t3{
+                        max-width: 120;
+                        right: 0px;
                     }
 
                     &:hover >.sub-menu{
@@ -137,7 +144,7 @@ box-shadow: 0px 3px 5px 3px $color-primario;
                         li{
                             // padding: 0px;
                             // margin: 0px;
-                            background-color: brown;
+                            background-color: $color-secundario;
                             list-style: none;
                             a{
                                 text-decoration: none;
@@ -149,8 +156,10 @@ box-shadow: 0px 3px 5px 3px $color-primario;
                                 font-size: 13px;
 
                                 @media all and (max-width:500px){
-                                    background-color: red;
-
+                                    background-color: $color-primario;
+                                }
+                                &:hover{
+                                    background-color: $c-nav-fondo-secundario;
                                 }
                             }
                         }

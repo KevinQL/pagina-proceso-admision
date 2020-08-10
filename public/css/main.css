@@ -102,11 +102,18 @@
   background-color: rgba(5, 31, 66, 0.924);
   border: 1px solid rgba(202, 137, 8, 0.842);
 }
+.header-navegacion .container .navegacion .ul-menu .li-menu .subm-t0 {
+  max-width: 100%;
+}
 .header-navegacion .container .navegacion .ul-menu .li-menu .subm-t1 {
   max-width: 200px;
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu .subm-t2 {
   max-width: 150px;
+}
+.header-navegacion .container .navegacion .ul-menu .li-menu .subm-t3 {
+  max-width: 120;
+  right: 0px;
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu:hover > .sub-menu {
   display: block;
@@ -126,7 +133,7 @@
   }
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu .sub-menu li {
-  background-color: brown;
+  background-color: #ca8a08;
   list-style: none;
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu .sub-menu li a {
@@ -140,8 +147,11 @@
 }
 @media all and (max-width: 500px) {
   .header-navegacion .container .navegacion .ul-menu .li-menu .sub-menu li a {
-    background-color: red;
+    background-color: rgba(5, 31, 66, 0.801);
   }
+}
+.header-navegacion .container .navegacion .ul-menu .li-menu .sub-menu li a:hover {
+  background-color: rgba(5, 31, 66, 0.925);
 }
 @media all and (max-width: 500px) {
   .header-navegacion .logo {
