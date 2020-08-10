@@ -1,0 +1,15 @@
+.seccion-footer{
+    background-color: $c-nav-fondo-secundario;
+
+    .ubicacion{
+        background-color: rgba(110, 20, 20, 0.335);
+        border-radius: 5px;
+        padding: 0px;
+        height: 350px;
+        overflow: hidden;
+        @media all and ( max-width:500px ){
+            padding: 5px 5px;
+            border-radius: 0px;
+        }
+    }
+}

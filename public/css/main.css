@@ -366,4 +366,21 @@
   padding: 0px auto;
 }
 
+.seccion-footer {
+  background-color: rgba(5, 31, 66, 0.925);
+}
+.seccion-footer .ubicacion {
+  background-color: rgba(110, 20, 20, 0.335);
+  border-radius: 5px;
+  padding: 0px;
+  height: 350px;
+  overflow: hidden;
+}
+@media all and (max-width: 500px) {
+  .seccion-footer .ubicacion {
+    padding: 5px 5px;
+    border-radius: 0px;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
