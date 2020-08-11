@@ -4,4 +4,22 @@
     @media all and ( max-width:500px){
         display:block;
     }
+
+    .sle-carrera{
+        position: relative;
+        // height: 150px;
+        overflow: hidden;
+        a{
+            display: block;            
+            img{
+                width: 74%;
+                transition: all .3s;
+                &:hover{
+                    width: 72%;
+                }
+            }
+        }
+
+        
+    }
 }
