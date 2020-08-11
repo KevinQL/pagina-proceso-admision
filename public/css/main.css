@@ -230,6 +230,20 @@
     display: block;
   }
 }
+.seccion-carreras .sle-carrera {
+  position: relative;
+  overflow: hidden;
+}
+.seccion-carreras .sle-carrera a {
+  display: block;
+}
+.seccion-carreras .sle-carrera a img {
+  width: 74%;
+  transition: all 0.3s;
+}
+.seccion-carreras .sle-carrera a img:hover {
+  width: 72%;
+}
 
 .cinta-menu {
   width: 100%;
