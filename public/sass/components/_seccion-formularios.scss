@@ -1,13 +1,23 @@
 
-.avisos{
+.seccion-avisos{
     width: 100%;
     background-color: whitesmoke;
     overflow: hidden;
     padding: 30px 0px;
 
-    .material-icons{
-        font-size: 150px;
-        color: $color-primario;
+    a{
+        text-decoration: none;
+
+        .material-icons{
+            font-size: 150px;
+            color: $color-primario;
+        }
+        .texto-a{
+            font-size: 20px;
+            color: $color-secundario;
+        }
     }
+
+
 
 }

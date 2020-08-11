@@ -1,0 +1,14 @@
+.color-primario{
+    background-color: $color-primario;
+    color: white;
+    &:hover{
+        background-color: $color-secundario;
+    }   
+}
+.color-secundario{
+    background-color: $color-secundario;
+    color: white;
+    &:hover{
+        background-color: $color-primario;
+    }   
+}

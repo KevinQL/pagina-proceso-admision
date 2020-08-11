@@ -1,0 +1,27 @@
+.seccion-noticias{
+
+    .btn-comunicado{
+        background-color: $color-primario;
+        color:white;
+        &:hover{
+            background-color: $c-nav-fondo-secundario;
+        }
+    }
+
+    .comunicados{
+        img{
+            width: 100%;
+            height: 250px;
+            @media all and ( max-width:500px ){
+                height: 200px;
+            }
+        }
+        .noticia-parrafo{
+            height: 150px;
+            display: block;
+            overflow: hidden;
+            // background-color: cyan;
+        }
+    }
+
+}

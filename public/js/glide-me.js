@@ -9,7 +9,7 @@ if(div_slider){
         focusAt:'center',
         perView: 1,
         gap:2,
-        autoplay: 2600,
+        autoplay: 3600,
         hoverpause: true,
         breakpoints: { //para el tamaño de pantalla
             480:{perView: 1},
@@ -17,6 +17,26 @@ if(div_slider){
         }   
     });
     b.mount()
+}
+
+// Para las carreras logo
+
+let div_carreras = document.querySelector(".glide-carreras");
+if(div_carreras){
+    let d = new Glide('.glide-carreras', {
+        type: 'carousel',
+        startAt: 0,
+        focusAt:'center',
+        perView: 6,
+        gap:1,
+        autoplay: 5000,
+        hoverpause: true,
+        breakpoints: { //para el tamaño de pantalla
+            480:{perView: 2},
+            800:{perView:3}
+        }   
+    });
+    d.mount()
 }
 
 //para el slider la seccion de noticias

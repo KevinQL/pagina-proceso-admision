@@ -1,5 +1,5 @@
 .seccion-admision{
-    background-image: url(../img/facu.jpg);
+    background-image: url(../img/slider/pabellon-comedor.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -10,7 +10,8 @@
 
     overflow: hidden;
     .container{
-
+        position: relative;
+        z-index: 5;
         a{
             // background-color: rebeccapurple;
             text-decoration: none;
@@ -117,6 +118,16 @@
                 }
             }
         }
+    }
+
+    .opaco-admision{
+        background-color: $c-fondo-opaco;
+        position: absolute;
+        display: block;
+        height: 100%;
+        width: 100%;
+        top: 0px;
+        z-index: 0;
     }
 
 }
