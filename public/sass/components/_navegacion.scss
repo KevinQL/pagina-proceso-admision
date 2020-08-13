@@ -3,7 +3,7 @@
     position: sticky;
     top:0px;
     // overflow: hidden;
-    z-index: 3000;
+    z-index: 500;
     // background-color: rgb(231, 231, 231);
     background-color: $color-terciario1;
     // border-color: black;
@@ -37,8 +37,11 @@
         }
         .logo{
             // background-color: red;
-            display: block;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             width: 200px;
+            height: 77px;
             img{
                 width: 100%;
             }
