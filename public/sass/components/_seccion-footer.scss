@@ -2,7 +2,7 @@
     background-color: $color-primario1;
 
     .ubicacion{
-        background-color: rgba(110, 20, 20, 0.335);
+        // background-color: rgba(110, 20, 20, 0.335);
         border-radius: 5px;
         padding: 0px;
         height: 350px;
@@ -12,4 +12,26 @@
             border-radius: 0px;
         }
     }
+
+    div[class*="links"]{
+        // background-color: saddlebrown;
+        h4{
+            // color:red;
+            color: $color-terciario1;
+        }
+        li{
+            list-style: none;
+            a{
+                // background-color: rgba(250, 128, 114, 0.185);
+                display: block;
+                padding:1px 0px;
+                text-decoration: none;
+                color: $color-secundario;
+                &:hover{
+                    color: $color-secundario1;
+                }
+            }
+        }
+    }
+
 }
