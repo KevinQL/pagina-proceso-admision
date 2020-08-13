@@ -1,6 +1,7 @@
 .seccion-carreras{
     background-color: whitesmoke;
 
+
     @media all and ( max-width:500px){
         display:block;
     }
@@ -9,13 +10,35 @@
         position: relative;
         // height: 150px;
         overflow: hidden;
-        a{
-            display: block;            
+        .img-a{
+            // display: block; 
+            // background-color: green;
+            width: 170px;
+            height: 110px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             img{
-                width: 74%;
-                transition: all .3s;
-                &:hover{
-                    width: 72%;
+                width: 60%;
+                transition: all .5s;
+                // &:hover{
+                //     transform: rotateX(180deg);
+                //     width: 48%;
+                // }
+            }
+
+            &:hover{
+                .img-ani1{
+                    transform: rotateZ(360deg);
+                    // width: 58%;
+                }
+                .img-ani2{
+                    transform: rotateX(360deg);
+                    // width: 58%;
+                }
+                .img-ani3{
+                    transform: rotateY(360deg);
+                    // width: 58%;
                 }
             }
         }
