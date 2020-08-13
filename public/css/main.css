@@ -18,7 +18,7 @@
   position: sticky;
   top: 0px;
   z-index: 3000;
-  background-color: #ca8a08;
+  background-color: rgba(237, 238, 238, 0.965);
   -webkit-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
   -moz-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
   box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
@@ -53,7 +53,7 @@
 }
 .header-navegacion .container .menu-bar {
   display: none;
-  color: #ca8a08;
+  color: rgba(237, 238, 238, 0.965);
   margin-right: 10px;
 }
 @media all and (max-width: 500px) {
@@ -69,14 +69,14 @@
 }
 @media all and (max-width: 500px) {
   .header-navegacion .container .navegacion {
-    background-color: #ca8a08;
+    background-color: rgba(237, 238, 238, 0.698);
     display: none;
     position: relative;
     width: 100%;
     z-index: 1000;
   }
   .header-navegacion .container .navegacion .ul-menu {
-    background-color: #051f42;
+    background-color: rgba(237, 238, 238, 0.698);
     position: absolute;
     display: block;
     width: 100%;
@@ -109,14 +109,14 @@
   color: white;
   padding: 10px 8px;
   margin: 0px 0px 0px 0px;
-  background-color: rgba(5, 31, 66, 0.801);
+  background-color: #0e315f;
   font-size: 12px;
-  border: 1px solid rgba(255, 166, 0, 0.246);
+  border: 1px solid rgba(237, 238, 238, 0.472);
   border-radius: 4px;
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu .a-menu:hover {
-  background-color: rgba(5, 31, 66, 0.924);
-  border: 1px solid rgba(202, 137, 8, 0.842);
+  background-color: rgba(5, 31, 66, 0.925);
+  border: 1px solid rgba(237, 238, 238, 0.698);
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu .subm-t0 {
   max-width: 100%;
@@ -136,7 +136,7 @@
 }
 .header-navegacion .container .navegacion .ul-menu .li-menu .sub-menu {
   position: absolute;
-  background-color: #ca8a08;
+  background-color: rgba(237, 238, 238, 0.698);
   display: none;
   padding: 0px;
   width: 200px;
@@ -234,15 +234,25 @@
   position: relative;
   overflow: hidden;
 }
-.seccion-carreras .sle-carrera a {
-  display: block;
+.seccion-carreras .sle-carrera .img-a {
+  width: 170px;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.seccion-carreras .sle-carrera a img {
-  width: 74%;
-  transition: all 0.3s;
+.seccion-carreras .sle-carrera .img-a img {
+  width: 60%;
+  transition: all 0.5s;
 }
-.seccion-carreras .sle-carrera a img:hover {
-  width: 72%;
+.seccion-carreras .sle-carrera .img-a:hover .img-ani1 {
+  transform: rotateZ(360deg);
+}
+.seccion-carreras .sle-carrera .img-a:hover .img-ani2 {
+  transform: rotateX(360deg);
+}
+.seccion-carreras .sle-carrera .img-a:hover .img-ani3 {
+  transform: rotateY(360deg);
 }
 
 .cinta-menu {

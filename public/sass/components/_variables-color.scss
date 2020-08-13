@@ -1,6 +1,17 @@
 //colores generales
-$color-primario : rgba(5, 31, 66, 0.801);
+$color-primario : rgba(5, 31, 66, 0.801); // borde-shadow , 
+$color-primario1 : rgba(5, 31, 66, 0.925); // fondo-clipart , btn-hover ,
+$color-primario2 : rgb(14, 49, 95); //btn-normal ,
+
 $color-secundario : rgb(202, 138, 8);
+$color-secundario1 : rgba(255, 166, 0, 0.246);
+$color-secundario2 : rgba(202, 137, 8, 0.842);
+
+$color-terciario : rgba(255, 255, 255, 0.965);
+$color-terciario1 : rgba(237, 238, 238, 0.965); // fondo-cabecera , menu-bar , 
+$color-terciario3 : rgba(237, 238, 238, 0.472); //btn-borde-normal ,
+$color-terciario4 : rgba(237, 238, 238, 0.698); //btn-borde-hover , fondo-submenu
+
 //colores navegacion
 $c-nav-fondo-primario : rgb(202, 138, 8);
 $c-nav-fondo-secundario : rgba(5, 31, 66, 0.925);
