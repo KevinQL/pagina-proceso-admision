@@ -538,5 +538,26 @@
 .seccion-footer div[class*=links] li a:hover {
   color: rgba(255, 166, 0, 0.246);
 }
+.seccion-footer .footer-logo {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: auto;
+  overflow: hidden;
+  background-color: rgba(5, 31, 66, 0.925);
+  border-radius: 4px;
+  padding: 10px 2px;
+}
+.seccion-footer .footer-logo img {
+  max-width: 100%;
+  max-height: 100px;
+}
+@media all and (max-width: 500px) {
+  .seccion-footer .footer-logo {
+    margin: 10px 0px;
+    padding: 20px 2px;
+  }
+}
 
 /*# sourceMappingURL=main.css.map */

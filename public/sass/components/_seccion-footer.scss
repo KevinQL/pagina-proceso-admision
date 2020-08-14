@@ -34,4 +34,27 @@
         }
     }
 
+    .footer-logo{
+        // height: 100px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: auto;
+        overflow: hidden;
+        background-color: $color-primario1; //saddlebrown
+        border-radius: 4px;
+        padding: 10px 2px;
+        img{
+            // position: absolute;
+            max-width: 100%;
+            max-height: 100px;
+        }
+
+        @media all and ( max-width: 500px ){
+            margin: 10px 0px;
+            padding: 20px 2px;
+        }
+    }
+
 }
