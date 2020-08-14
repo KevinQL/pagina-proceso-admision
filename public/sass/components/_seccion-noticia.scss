@@ -45,11 +45,33 @@
 
 
 // MODAL NOTICIAS 
-.img-modal{
-    // background-color: brown;
-    display: block;
-    max-width: 100px;
-    min-height: 100px;
-    height: 100px;
-    max-height: 100px;
+
+.noti-modal{
+    margin-bottom: 20px;    
+    .titulo{
+        display: inline-block;
+        color:$color-primario1;
+        border-bottom: 1px solid $color-secundario;
+        padding-left: 50px;
+    }
+    .lat-izquierdo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .img-modal{
+            // background-color: brown;
+            display: block;
+            max-width: 100px;
+            min-height: 100px;
+            height: 100px;
+            max-height: 100px;
+        }
+    }
+
+    .lat-derecho{
+        display: flex;
+        align-items: center;
+    }
+
+
 }
