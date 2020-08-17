@@ -20,7 +20,7 @@
         
         <div class="container py-4">
             
-            <h1 class="text-lead py-3">ESCUELA PROFESIONAL INGENIERÍA DE SISTEMAS</h1>
+            <h1 class="text-lead py-3">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</h1>
             <p>                
                 <img src="public/img/epis_pag.jpg" class="img img-fluid" alt="">
             </p>

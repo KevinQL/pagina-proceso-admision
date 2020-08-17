@@ -9,6 +9,7 @@
 
         <title>Unajma admisión 2020 </title>
     </head>
+    
     <body>
 
         <!-- NAVEGACIÓN -->
@@ -26,25 +27,25 @@
                     <li class="glide__slide">
                         <img src="public/img/slider/epis.jpg" class="" alt="...">
                         <div class="texto-slider text-center">
-                            <h1>EXAMEN VIRTUAL 2020</h1>
+                            <h1>PABELLÓN DE INGENIERÍA DE SISTEMAS</h1>
                         </div>  
                     </li>
                     <li class="glide__slide">
                         <img src="public/img/slider/administracion.JPG" class="" alt="...">
                         <div class="texto-slider text-center">
-                            <h1>EXAMEN VIRTUAL 2020 1</h1>
+                            <h1>PABELLÓN DE ADMINISTRACIÓN DE EMPRESAS</h1>
                         </div> 
                     </li>
                     <li class="glide__slide">
                         <img src="public/img/slider/agro.JPG" class="" alt="...">
                         <div class="texto-slider text-center">
-                            <h1>EXAMEN VIRTUAL 2020 2</h1>
+                            <h1>PABELLÓN DE INGENIERÍA AGROINDUSTRIAL</h1>
                         </div> 
                     </li>
                     <li class="glide__slide">
                         <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
                         <div class="texto-slider text-center">
-                            <h1>EXAMEN VIRTUAL 2020 3</h1>
+                            <h1>EXAMEN DE ADMISIÓN VIRTUAL 2020 II</h1>
                         </div> 
                     </li>
 
@@ -153,8 +154,9 @@
             <div class="container text-white">
                 <div class="row text-center">
                     <div class="col-md-6">
-                        <h3 class="py-2">Examen Virtual 2020 - 2</h3>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati, assumenda expedita. Quo repudiandae laudantium doloribus optio fugiat quisquam? Natus possimus iusto maiores, placeat et totam!</p>                        
+                        <h3 class="py-2">EL ÉXITO DEPENDE DE TI</h3>
+                        <p>Cualquier persona que deja de aprender es viejo, ya sea a los veinte u ochenta. Cualquier persona que sigue aprendiendo se mantiene joven. La cosa más grande en la vida es mantener la mente joven.</p>
+                        <br><p>Henry Ford</p>                        
                     </div>
                     <div class="col-md-6 icono-d">
                         <i class="fas fa-laptop fa-6x"></i>
@@ -181,7 +183,7 @@
                             <a href="#">GUIAS DE INSCRIPCIÓN</a>
                         </div>
                         <div class="col-6">
-                            <a href="#">GUÍ DE PAGO EN AGENTE BCP</a>
+                            <a href="#">GUÍA DE PAGO EN AGENTE BCP</a>
                         </div>
                     </div>
                 </div>
