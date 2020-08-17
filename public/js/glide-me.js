@@ -60,7 +60,7 @@ if(div_noticia){
 
 //para el slider la seccion de COMUNICADOS
 let div_comunicados = document.querySelector(".seccion-comunicados");
-if(div_noticia){
+if(div_comunicados){
     let c = new Glide('.glide3', {
         type: 'carousel',
         startAt: 0,
@@ -75,4 +75,24 @@ if(div_noticia){
         }   
     });
     c.mount()
+}
+
+
+// PARA LAS ESCUELAS PROFESIONALES - CADA CARRERA ES UNA PÁGINA DITINTA
+let escuelas_galeria = document.querySelector(".escuelas-galeria");
+if(escuelas_galeria){
+    let nombre = new Glide('.glide-nombre', {
+        type: 'carousel',
+        startAt: 0,
+        focusAt:'center',
+        perView: 3,
+        gap:5,
+        autoplay: 10 * 1000,
+        hoverpause: true,
+        breakpoints: { //para el tamaño de pantalla
+            480:{perView: 1},
+            800:{perView:2}
+        }   
+    });
+    nombre.mount()
 }

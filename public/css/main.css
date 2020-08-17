@@ -545,7 +545,6 @@
   align-items: center;
   max-width: auto;
   overflow: hidden;
-  background-color: rgba(5, 31, 66, 0.925);
   border-radius: 4px;
   padding: 10px 2px;
 }
@@ -558,6 +557,57 @@
     margin: 10px 0px;
     padding: 20px 2px;
   }
+}
+
+.seccion-escuelas .escuela-titulo {
+  text-align: center;
+  background-color: rgba(237, 238, 238, 0.472);
+  color: #0e315f;
+  border-bottom: 1px solid yellowgreen;
+  padding-left: 10px;
+}
+.seccion-escuelas .escuela-parrafo-1 {
+  text-align: justify;
+}
+
+.titulo-galeria {
+  border-bottom: 0.1px solid #ced6e031;
+}
+
+.escuelas-galeria {
+  background-color: #ced6e0;
+  position: relative;
+  padding: 20px 10px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.escuelas-galeria .glide-escuelas {
+  padding: 5px 3px;
+  height: 285px;
+  border: none;
+}
+.escuelas-galeria .glide-escuelas .galeria-detalle {
+  background-color: rgba(255, 255, 255, 0.965);
+  max-height: auto;
+  border: none;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.escuelas-galeria .glide-escuelas .galeria-detalle img {
+  width: 100%;
+  height: 210px;
+}
+.escuelas-galeria .glide-escuelas .galeria-detalle .titulo-img {
+  color: #0e315f;
+  font-family: cursive;
+  font-size: 1.2em;
+}
+
+.titulo-temario {
+  color: rgba(5, 31, 66, 0.801);
+  display: inline-block;
+  border-bottom: 1px solid darkgoldenrod;
+  padding-left: 100px;
 }
 
 /*# sourceMappingURL=main.css.map */
