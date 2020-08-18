@@ -235,17 +235,18 @@
 }
 .seccion-carreras .sle-carrera {
   position: relative;
+  height: 185px;
   overflow: hidden;
 }
 .seccion-carreras .sle-carrera .img-a {
-  width: 170px;
-  height: 110px;
+  padding: 20px;
+  height: 185px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .seccion-carreras .sle-carrera .img-a img {
-  width: 60%;
+  width: 100%;
   transition: all 0.5s;
 }
 .seccion-carreras .sle-carrera .img-a:hover .img-ani1 {

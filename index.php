@@ -68,8 +68,8 @@
         </section>
 
         <!-- ESCUELAS PROFESIONALES -->
-        <section class="seccion-carreras pt-2" id="carreras">
-            <div class="container">
+        <section class="seccion-carreras" id="carreras">
+            <div class="">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="glide-carreras sle-carrera">
@@ -80,11 +80,7 @@
                                             <img src="public/img/escuelas/sistmas.png" alt="" class="img-ani1">
                                         </a>
                                     </li>
-                                    <li class="glide__slide">
-                                        <a href="http://fce.unajma.edu.pe/" target="_blank" class="img-a">
-                                            <img src="public/img/escuelas/adminis.png" alt="" class="img-ani2">
-                                        </a>                                                                    
-                                    </li>
+                                    
                                     <li class="glide__slide">
                                         <a href="http://epia.unajma.edu.pe/" target="_blank" class="img-a">
                                             <img src="public/img/escuelas/agroin.png" alt="" class="img-ani3">
@@ -104,6 +100,12 @@
                                         <a href="http://www.unajma.edu.pe/content/escuela-profesional-de-educaci%C3%B3n-primaria-intercultural" target="_blank" class="img-a">
                                             <img src="public/img/escuelas/educación.png" alt="" class="img-ani3">
                                         </a>                            
+                                    </li>
+
+                                    <li class="glide__slide">
+                                        <a href="http://fce.unajma.edu.pe/" target="_blank" class="img-a">
+                                            <img src="public/img/escuelas/adminis.png" alt="" class="img-ani2">
+                                        </a>                                                                    
                                     </li>
                                 </ul>
                             </div>
