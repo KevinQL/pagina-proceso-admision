@@ -127,32 +127,11 @@
                     </div>
                 </div>
                 <!-- .... -->
-
-                <!-- <div class="row">
-                    <div class="col-md-2">
-                        <img src="public/img/escuelas/sistemas.png" alt="" width="100px">
-                    </div>
-                    <div class="col-md-2">
-                        <img src="public/img/escuelas/admi.png" alt="" width="100px">
-                    </div>
-                    <div class="col-md-2">
-                        <img src="public/img/escuelas/agro.png" alt="" width="100px">
-                    </div>
-                    <div class="col-md-2">
-                        <img src="public/img/escuelas/ambiental.png" alt="" width="100px">
-                    </div>
-                    <div class="col-md-2">
-                        <img src="public/img/escuelas/conta.png" alt="" width="100px">
-                    </div>
-                    <div class="col-md-2">
-                        <img src="public/img/escuelas/educación.png" alt="" width="100px">
-                    </div>
-                </div> -->
             </div>
         </section>
 
         <!-- CINTA MENU EXAMNE VIRTUAL -->
-        <div class="cinta-menu py-4 text-center lead">
+        <div class="cinta-menu py-5 text-center lead">
             <div class="container text-white">
                 <div class="row text-center">
                     <div class="col-md-6">

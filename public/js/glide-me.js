@@ -29,7 +29,7 @@ if(div_carreras){
         focusAt:'center',
         perView: 7,
         gap:1,
-        autoplay: 5000,
+        autoplay: 8000,
         hoverpause: true,
         breakpoints: { //para el tamaño de pantalla
             480:{perView: 2},
