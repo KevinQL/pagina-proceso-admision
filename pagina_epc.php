@@ -56,7 +56,7 @@
 
             <div class="py-5">
                 <h2 class="text-center lead mb-4 titulo-galeria">
-                    Lorem ipsum dolor sit amet.
+                    
                 </h2>
 <!-- fin imagensee scrolleer -->
                 <div class="escuelas-galeria">

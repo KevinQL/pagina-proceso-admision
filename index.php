@@ -226,6 +226,36 @@
                                                 </div>
                                             </div>
                                         </li>
+                                        <li class="glide__slide">
+                                            <div class="card" style="width: 100%;">
+                                                <div class="card-body">
+                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
+                                                    <h5 class="card-title noticia-titulo">RESULTADOS EXAMEN ORDINARIO 2019-I</h5>
+                                                    <p class="card-text noticia-parrafo">Examen desarrollado el __ de __ para las distintas escuelas profesionales con gran éxito.</p>
+                                                    <a href="#" class="btn btn-noticia" data-toggle="modal" data-target="#noticia5_">ver más</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="glide__slide">
+                                            <div class="card" style="width: 100%;">
+                                                <div class="card-body">
+                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
+                                                    <h5 class="card-title noticia-titulo">RESULTADOS EXAMEN EXTRAORDINARIO 2019-I</h5>
+                                                    <p class="card-text noticia-parrafo">Examen desarrollado el __ de __ para las distintas escuelas profesionales con gran éxito.</p>
+                                                    <a href="#" class="btn btn-noticia" data-toggle="modal" data-target="#noticia6_">ver más</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="glide__slide">
+                                            <div class="card" style="width: 100%;">
+                                                <div class="card-body">
+                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
+                                                    <h5 class="card-title noticia-titulo">RESULTADOS EXAMEN PRIMERA SELECCIÓN 2019</h5>
+                                                    <p class="card-text noticia-parrafo">Examen desarrollado el __ de __ para las distintas escuelas profesionales con gran éxito.</p>
+                                                    <a href="#" class="btn btn-noticia" data-toggle="modal" data-target="#noticia7_">ver más</a>
+                                                </div>
+                                            </div>
+                                        </li>
                                     </ul>
                                     </div>
 

@@ -27,15 +27,13 @@
                     <p class="escuela-parrafo-1">
                         <b>Perfil profesional</b>
                         <br>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, deserunt?
-                        Es un profesional formado en investigación e inovación, orientado en principios filosóficos y humanísticos, con la capacidad de hacer gestión ambiental en la búsqueda del logro armónico del desarrollo sostenible, y para reconocer, analizar, e intervenir con soluciones prácticas, creativas aplicando ciencia y tegnología, en la solución de los problemas ambientales.
+                        Crea, comprende y analiza procesos productivos; desarrolla y participa en procesos de post cosecha, conservación, transformación y comercialización de productos agropecuarios e hidrobiológicos. Conoce y aplica conceptos de economía y administración, para establecer costos, márgenes de rendimientos; genera y ejecuta actividades en agro negocios. Formula y evalúa proyectos agroindustriales. Desarrolla e implementa sistemas de aseguramiento de la calidad. Diseña, modela, simula, automatiza y controla procesos agroindustriales. Gerencia recursos naturales en procesos productivos con enfoque de sostenibilidad.
                     </p>
 
                     <p class="escuela-parrafo-1">
                         <b>Campo laboral</b>
                         <br>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, natus?
-                        Planeación, diseño, operación y control de los sistemas de calidad del aire, planeación, diseño y control de los sistemas de manejo de aguas naturales y residuales, planeación diseño y control de los sistemas de manejo y recuperación de suelos, realiza intervenciones en los diseños de soluciones básicas inherentes a contaminación ambiental, identificación, valoracíon, ponderación y priorización de los impactos ambientales en el desarrollo de proyectos, obras y/o actividad económica, programación y ejecución de actividades de seguimiento ambiental a proyectos, obras o actividades económicas.
+                        Auditor de control de calidad. Capacitadores en transferencia de tecnología: en ONGs, Ministerios, Gobiernos regionales, locales, entidades financieras, asesor y consultor en procesos agroindustriales e industriales. Investigación y docencia en Instituciones de educación superior, como universidades, Institutos. Centros de enseñanza técnica. Emprendedor de su propio negocio.
                     </p>
 
                     <p class="escuela-parrafo-1">
@@ -56,7 +54,7 @@
 
             <div class="py-5">
                 <h2 class="text-center lead mb-4 titulo-galeria">
-                    Lorem ipsum dolor sit amet.
+                    
                 </h2>
 <!-- fin imagensee scrolleer -->
                 <div class="escuelas-galeria">

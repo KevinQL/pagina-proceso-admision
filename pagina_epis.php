@@ -24,7 +24,27 @@
             <div class="row">
                 <div class="col-md-6 ">
                     <h1 class="escuela-titulo">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</h1>
-                    <p class="escuela-parrafo-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium architecto, cupiditate minima non ea harum. Laboriosam molestiae quis saepe dolorum modi tenetur libero veniam commodi quae harum quo cumque animi illum, nulla unde molestias id, velit aut pariatur! Magnam saepe cupiditate culpa architecto. Mollitia ex voluptatibus necessitatibus reiciendis culpa facere molestiae laudantium tempora, blanditiis id, fuga exercitationem commodi rem. Quam doloribus assumenda sit in eligendi modi sequi rem quis odit, laudantium distinctio repellendus neque libero at nisi voluptate animi sunt aperiam architecto itaque debitis! Enim quidem vitae asperiores itaque, voluptatibus non, voluptas aspernatur, accusamus error quaerat perferendis corporis aut ipsam.</p>
+                    <p class="escuela-parrafo-1">
+                        <b>Perfil profesional</b>
+                        <br>
+                        Profesional con sólida formación en conocimientos científicos y tecnológicos que le permitan analizar, comprender, modelar y optimizar el proceso de toma de decisiones en una organización, donde el factor tecnología de información tiene una labor integradora. Es un profesional capaz de modelar estructuras y procesos organizativos, diseñar y administrar los recursos de tecnología de información, construir e implantar aplicaciones de tecnología informática, así como de diseñar soluciones a problemas complejos.
+                        En su formación se desarrollan y potencian diversas habilidades, destrezas, valores y actitudes necesarias para lograr una conciencia ciudadana en la conservación y mejoramiento del ambiente, calidad de vida y uso racional de los recursos naturales.
+
+                    </p>
+
+                    <p class="escuela-parrafo-1">
+                        <b>Campo laboral</b>
+                        <br>
+                        En entidades estatales y privadas, consultorías profesionales, responsables de manejo de la información en las organizaciones, optimiza su procesamiento y aplicación, gerente de departamento o dirección de informática o sistemas en las empresas, ingeniero de servicios de software y hardware para el desarrollo y mantenimiento de infraestructura de comunicaciones, redes, cableado y sistemas de información. Gerencia las empresas especializadas en el desarrollo e implementación de infraestructura tecnológica para negocios electrónicos. Consultor de proyectos de desarrollo, asesoría y consultoría de sistemas de información, así como conducción de empresas de asesoría, consultoría y auditoría de sistemas. Analista, desarrollador de software y líder en la dirección de proyectos de ingeniería de software.
+                    </p>
+
+                    <p class="escuela-parrafo-1">
+                        <b>Grado:</b> Bachiller en Ingeniería de Sistemas
+                        <br>
+                        <b>Título:</b> Ingeniero de Sistemas
+                        <br>
+                        <b>Duración:</b> 10 semestre académicos
+                    </p>
                 </div>
                 <div class="col-md-6 escuela-img">
                     <img src="public/img/epis_pag.jpg" class="img img-fluid" alt="">
@@ -36,7 +56,7 @@
 
             <div class="py-5">
                 <h2 class="text-center lead mb-4 titulo-galeria">
-                    Lorem ipsum dolor sit amet.
+                    
                 </h2>
 <!-- fin imagensee scrolleer -->
                 <div class="escuelas-galeria">

@@ -27,13 +27,15 @@
                     <p class="escuela-parrafo-1">
                         <b>Perfil profesional</b>
                         <br>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab deleniti dolore odit earum. Porro voluptatem reiciendis ad aliquam perspiciatis, repellendus quibusdam, eaque dolorem consequatur culpa quasi quisquam facilis fuga excepturi autem vero quod recusandae, obcaecati voluptas unde. Ipsam, error? Officiis praesentium voluptatibus, in velit optio exercitationem officia repellendus? Laborum, possimus!
+                        Profesional que se caracteriza por su sólida formación y conocimientos que le permiten desarrollar aptitudes, habilidades y destrezas, toma de decisiones, liderazgo ético y social, amplia visión de las exigencias de un contexto globalizado y cambiante en beneficio de la organización. Posee la capacidad de ser emprendedor y toma iniciativa en las actividades empresariales y organizacionales, utilizando conocimientos técnicos, como herramientas e instrumentos de eficiencia, eficacia y efectividad en la gestión empresarial, a partir de la existencia de factores incidentes en el entorno interno y externo dentro de un marco de responsabilidad, creatividad y sensibilidad social; sustentados en el desarrollo y crecimiento sostenible.
                     </p>
 
                     <p class="escuela-parrafo-1">
                         <b>Campo laboral</b>
                         <br>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore provident iure tempora rerum natus laboriosam placeat sunt molestiae, minima delectus sapiente numquam hic nihil nostrum maxime ipsam dignissimos doloribus dolores aliquam ad quidem earum ex. Natus quae vero.
+                        Desempeña cargos en empresas locales y nacionales, en funciones de gerencia, planificación, organización y dirección. Así mismo, en dirección estratégica, comercio electrónico, negocios y proyectos privados y públicos, así como, cargos en áreas como mercadotecnia, finanzas, producción, operatividad local o global, logística, banca, seguros y comercio, tanto en el ámbito local como internacional. Gestor de su propia unidad empresarial
+                        Construcción de redes de investigación interdisciplinaria, investigador, ejecutivo o asesor de todo tipo de empresas u organizaciones que se vinculen con fenómenos de orden económico. Docente en instituciones de educación superior.
+
                     </p>
 
                     <p class="escuela-parrafo-1">
@@ -54,7 +56,7 @@
 
             <div class="py-5">
                 <h2 class="text-center lead mb-4 titulo-galeria">
-                    Lorem ipsum dolor sit amet.
+                    
                 </h2>
 <!-- fin imagensee scrolleer -->
                 <div class="escuelas-galeria">
