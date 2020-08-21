@@ -27,7 +27,7 @@ if(div_carreras){
         type: 'carousel',
         startAt: 0,
         focusAt:'center',
-        perView: 7,
+        perView: 6,
         gap:1,
         autoplay: 8000,
         hoverpause: true,
