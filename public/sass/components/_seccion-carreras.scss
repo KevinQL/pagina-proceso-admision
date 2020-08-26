@@ -1,6 +1,6 @@
 .seccion-carreras{
     background-color: whitesmoke;
-
+    overflow: hidden;
     @media all and ( max-width:500px){
         display:block;
     }
@@ -8,11 +8,12 @@
     .sle-carrera{
         position: relative;
         height: 185px;
+        // width: 100vw;
         overflow: hidden;
         .img-a{            
             // background-color: green;
             // width: 170px;
-            padding: 20px;
+            padding: 25px;
             height: 185px;
             display: flex;
             justify-content: center;

@@ -227,6 +227,7 @@
 
 .seccion-carreras {
   background-color: whitesmoke;
+  overflow: hidden;
 }
 @media all and (max-width: 500px) {
   .seccion-carreras {
@@ -239,7 +240,7 @@
   overflow: hidden;
 }
 .seccion-carreras .sle-carrera .img-a {
-  padding: 20px;
+  padding: 25px;
   height: 185px;
   display: flex;
   justify-content: center;
