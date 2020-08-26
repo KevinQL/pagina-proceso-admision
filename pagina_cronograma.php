@@ -24,9 +24,9 @@
             <p>
                 <li>Inscripción regular examen ordinario		: del 17 de agosto al 02 de octubre</li><br>
                 <li>Inscripción regular examen extraordinario 	: Del 17 de agosto al 18 de setiembre</li><br>
-                <li>Examen Extraordinario			            : 20 de setiembre</li><br>
-                <li>Examen Centro pre universitario 		    : 27 de setiembre</li><br>
-                <li>Examen ordinario				            : 04 de octubre</li><br>
+                <li>Examen Extraordinario			            : 19 de setiembre</li><br>
+                <li>Examen Centro pre universitario 		    : 26 de setiembre</li><br>
+                <li>Examen ordinario				            : 03 de octubre</li><br>
                 <li>Entrega de Constancias 			            : 05 y 06 de octubre</li><br>
             </p>
 

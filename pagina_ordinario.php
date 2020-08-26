@@ -23,10 +23,10 @@
             <h1 class="text-lead py-3">EXAMEN ORDINARIO</h1>
 
             <p>
-                <li>Formulario de inscripción debidamente llenado (http://www.unajma.edu.pe/).</li>
-                <li>Copia de certificado de estudios de los 5 años de Educación Secundaria.</li>
-                <li>Copia de DNI.</li>
-                <li>Comprobante de pago por derecho inscripción.</li>
+                <li>Documento Nacional de Identidad.</li>
+                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
+                <li>Fotografía actualizada del postulante en archivo jpg.</li>
             </p>
 
 
