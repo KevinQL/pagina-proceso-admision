@@ -20,16 +20,28 @@
         
         <div class="container py-4">
             
-            <h1 class="text-lead py-3">REGLAMENTO DE ADMISIÓN</h1>
+            <div class="pt-3 pb-5">
+                <h1 class="display-4 titulo-temario">
+                    REGLAMENTO DE ADMISIÓN
+                </h1>
+            </div>            
 
-            <p>
-                El postulante que se presente al Proceso de Admisión 2020 - II, que se realizará en sus dos modalidades de ingreso:
+            <div>
+                <b>El postulante que se presente al Proceso de Admisión 2020 - II, que se realizará en sus dos modalidades de ingreso:</b>
 
-                <br><li>EXAMEN ORDINARIO</li><br>
-                <li>EXAMEN EXTRAORDINARIO</li><br>
-                LEER OBLIGATORIAMENTE EL REGLAMENTO DE ADMISIÓN <br>
-                <a href="public/docs/Regl Adm UNAJMA 2020-II - VIRTUAL 31-07-2020.pdf">Descargar reglamento .pdf</a>
-            </p>
+                <br><br>
+
+                <ul>
+                    <li>EXAMEN ORDINARIO</li>
+                    <li>EXAMEN EXTRAORDINARIO</li>
+                </ul>
+                
+                <b>LEER OBLIGATORIAMENTE EL REGLAMENTO DE ADMISIÓN </b>
+                <br>
+                <a href="public/docs/Regl Adm UNAJMA 2020-II - VIRTUAL 31-07-2020.pdf" class="display-5" target="_blank" download>
+                    <i class="fas fa-cloud-download-alt"></i> DESCARGAR EL REGLAMENTO AQUÍ .PDF
+                </a>
+            </div>
 
 
 

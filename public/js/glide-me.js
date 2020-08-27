@@ -61,7 +61,7 @@ if(div_noticia){
 //para el slider la seccion de COMUNICADOS
 let div_comunicados = document.querySelector(".seccion-comunicados");
 if(div_comunicados){
-    let c = new Glide('.glide3', {
+    let c2 = new Glide('.glide3', {
         type: 'carousel',
         startAt: 0,
         focusAt:'center',
@@ -74,7 +74,7 @@ if(div_comunicados){
             800:{perView:2}
         }   
     });
-    c.mount()
+    c2.mount()
 }
 
 

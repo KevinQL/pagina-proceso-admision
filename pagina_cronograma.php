@@ -19,15 +19,21 @@
         
         <div class="container py-4">
             
-            <h1 class="text-lead py-3">CRONOGRAMA PROCESO DE ADMISIÓN 2020-II</h1>
+            <div class="pt-3 pb-5">
+                <h1 class="display-4 titulo-temario">
+                    CRONOGRAMA PROCESO DE ADMISIÓN 2020-II
+                </h1>
+            </div>            
 
             <p>
-                <li>Inscripción regular examen ordinario		: del 17 de agosto al 02 de octubre</li><br>
-                <li>Inscripción regular examen extraordinario 	: Del 17 de agosto al 18 de setiembre</li><br>
-                <li>Examen Extraordinario			            : 19 de setiembre</li><br>
-                <li>Examen Centro pre universitario 		    : 26 de setiembre</li><br>
-                <li>Examen ordinario				            : 03 de octubre</li><br>
-                <li>Entrega de Constancias 			            : 05 y 06 de octubre</li><br>
+                <ul>
+                    <li><b>Inscripción regular examen ordinario</b>		: del 17 de agosto al 02 de octubre</li><br>
+                    <li><b>Inscripción regular examen extraordinario</b> 	: Del 17 de agosto al 18 de setiembre</li><br>
+                    <li><b>Examen Extraordinario</b>			            : 19 de setiembre</li><br>
+                    <li><b>Examen Centro pre universitario </b>		    : 26 de setiembre</li><br>
+                    <li><b>Examen ordinario	</b>			            : 03 de octubre</li><br>
+                    <li><b>Entrega de Constancias</b>		            : 05 y 06 de octubre</li><br>
+                </ul>
             </p>
 
         </div>
