@@ -159,12 +159,12 @@
                     </a>
                 </div>
                 <div class="col-md-12 seccion-2">
-                    <a href="#">INSCRIBITE AQUÍ</a>
+                    <a href="#">INSCRIBETE AQUÍ</a>
                 </div>
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6">
-                            <a href="#">GUIAS DE INSCRIPCIÓN</a>
+                            <a href="#">GUÍAS DE INSCRIPCIÓN</a>
                         </div>
                         <div class="col-6">
                             <a href="#">GUÍA DE PAGO EN AGENTE BCP</a>
