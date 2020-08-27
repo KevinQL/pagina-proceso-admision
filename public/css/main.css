@@ -182,9 +182,6 @@
 }
 
 .slider {
-  height: 80vh;
-  width: 100%;
-  background-color: rgba(19, 8, 1, 0.048);
   overflow: hidden;
   display: block;
   position: relative;
@@ -194,21 +191,37 @@
     height: 60vh;
     transform: translateY(0px);
   }
+  .slider img {
+    height: 60vh;
+    width: 100vw;
+    max-height: 60vh;
+    min-height: 60vh;
+    max-width: 100vw;
+    min-width: 100vw;
+  }
+  .slider .sle {
+    width: 100vw;
+    max-height: 60vh;
+  }
 }
 .slider .sle {
-  height: 100%;
+  width: 100vw;
+  height: 90vh;
+  overflow: hidden;
 }
 .slider img {
-  max-height: 80vh;
+  max-height: 90vh;
+  min-height: 90vh;
   min-width: 100vw;
+  max-width: 100vw;
 }
 .slider .texto-slider {
   position: absolute;
   display: block;
   width: 100vw;
-  height: 100%;
+  height: 90vh;
   top: 0px;
-  background-color: rgba(54, 36, 1, 0.404);
+  background-color: rgba(80, 61, 23, 0.5);
   color: white;
   z-index: 1000;
   display: flex;
@@ -221,6 +234,7 @@
     // para centrar el texto en modo resposivo
     Este valor viene dado por el vh del slider en modo responsive
     */
+    background-color: rgba(80, 61, 23, 0.801);
     height: 60vh;
   }
 }
@@ -236,18 +250,21 @@
 }
 .seccion-carreras .sle-carrera {
   position: relative;
-  height: 185px;
+  height: 160px;
   overflow: hidden;
 }
 .seccion-carreras .sle-carrera .img-a {
-  padding: 25px;
-  height: 185px;
+  border: none;
+  border-radius: 8px;
+  background-color: rgba(178, 210, 246, 0.144);
+  height: 160px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .seccion-carreras .sle-carrera .img-a img {
-  width: 100%;
+  height: 150px;
+  width: 150px;
   transition: all 0.5s;
 }
 .seccion-carreras .sle-carrera .img-a:hover .img-ani1 {
