@@ -1,3 +1,11 @@
+$color1:#e84218a8;
+$color2:#fbc531ad;
+$color3:#192a56ad;
+
+$color1-h:#e84118;
+$color2-h:#fbc531;
+$color3-h:#192a56;
+
 .seccion-admision{
     background-image: url(../img/slider/pabellon-comedor.jpg);
     background-position: center;
@@ -15,11 +23,12 @@
         a{
             // background-color: rebeccapurple;
             text-decoration: none;
+            font-weight:bolder;
             border: none;
-            border-radius: 50px;
+            border-radius: 10px;
             display: block;
             text-align: center;
-            color:white;
+            color:whitesmoke;
 
             @media all and ( max-width: 500px ){
                 border-radius: $d-btn-radius;
@@ -38,7 +47,8 @@
             justify-content: center;
             align-items: flex-start;
             a{
-                background-color: saddlebrown;
+                border: .1px solid white;
+                background-color: $color1;
                 font-size: 1.3rem; //modif 
                 padding: 0% 5%;
                 height: 20vh;
@@ -47,6 +57,10 @@
                 display: flex;
                 justify-content: center;
                 align-items: center;
+
+                &:hover{
+                    background-color: $color1-h;
+                }
                 
             }
             //seccion 
@@ -67,7 +81,8 @@
             justify-content: center;
             align-items: flex-end;
             a{
-                background-color: salmon;
+                border: .1px solid white;
+                background-color: $color2;
                 font-size: 1.3rem; //modif 
                 padding: 0% 5%;
                 height: 20vh;
@@ -76,6 +91,9 @@
                 display: flex;
                 justify-content: center;
                 align-items: center;
+                &:hover{
+                    background-color: $color2-h;
+                }
             }
             //seccion 2
             @media all and ( max-width: 500px ){
@@ -97,7 +115,8 @@
                 justify-content: center;
                 align-items: flex-end;
                 a{
-                    background-color: seagreen;
+                    border: .1px solid white;
+                    background-color: $color3;
                     font-size: 1.3rem; //modif 
                     padding: 0% 5%;
                     height: 20vh;
@@ -106,15 +125,15 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
+                    &:hover{
+                        background-color: $color3-h;
+                    }
                 }
                 //seccion-3 div 
                 @media all and ( max-width: 500px ){
                     align-items:center;
                     margin: 0px;
                     padding: 0px 2px;
-                    a{
-                        
-                    }
                 }
             }
         }
