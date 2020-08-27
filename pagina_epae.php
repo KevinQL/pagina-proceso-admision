@@ -47,7 +47,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 escuela-img">
-                    <img src="public/img/epae_pag.jpg" class="img img-fluid" alt="">
+                    <img src="public/img/escuelas/adminis.png" class="img img-fluid" alt="">
                 </div>
 
                 
@@ -68,7 +68,7 @@
                                         <div class="imagen">
                                             <img src="public/img/slider/epis.jpg" alt="" class="img-fluid">
                                         </div>                                            
-                                        <p class="text-center px-2 titulo-img">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <p class="text-center px-2 titulo-img"></p>
 
                                     </div>
                                 </li>
@@ -77,7 +77,7 @@
                                         <div class="imagen">
                                             <img src="public/img/slider/agro.JPG" alt="" class="img-fluid">
                                         </div>                                            
-                                        <p class="text-center px-2 titulo-img">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <p class="text-center px-2 titulo-img"></p>
                                     </div>
                                 </li>
                                 <li class="glide__slide">
@@ -85,7 +85,7 @@
                                         <div class="imagen">
                                             <img src="public/img/slider/pabellon-comedor.jpg" alt="" class="img-fluid">
                                         </div>                                            
-                                        <p class="text-center px-2 titulo-img">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <p class="text-center px-2 titulo-img"></p>
                                     </div>
                                 </li>
                                 <li class="glide__slide">
@@ -93,7 +93,7 @@
                                         <div class="imagen">
                                             <img src="public/img/slider/administracion.JPG" alt="" class="img-fluid">
                                         </div>                                            
-                                        <p class="text-center px-2 titulo-img">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <p class="text-center px-2 titulo-img"></p>
                                     </div>                                	
                                 </li>
                             </ul>

@@ -25,9 +25,9 @@
                     <ul class="glide__slides">
 
                         <li class="glide__slide">
-                            <img src="public/img/slider/epis.jpg" class="" alt="...">
+                            <img src="public/img/admision.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
-                                <h1>PABELLÓN DE INGENIERÍA DE SISTEMAS</h1>
+                                <h1></h1>
                             </div>  
                         </li>
                         <li class="glide__slide">
@@ -43,9 +43,9 @@
                             </div> 
                         </li>
                         <li class="glide__slide">
-                            <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
+                            <img src="public/img/slider/epis.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
-                                <h1>EXAMEN DE ADMISIÓN VIRTUAL 2020 II</h1>
+                                <h1>PABELLÓN DE INGENIERÍA DE SISTEMAS</h1>
                             </div> 
                         </li>
                     </ul>
@@ -402,7 +402,7 @@
                         <!-- <img src="public/img/reglamento-admision3.png" alt="" class="img img-fluid "> -->
                     </div>
                     <div class="col-md-3">
-                        <a href="#">
+                        <a href="pagina_temario.php">
                             <span class="material-icons">
                                 batch_prediction
                             </span>
