@@ -19,11 +19,15 @@
 
         
         <div class="container py-4">
-            
-            <h1 class="text-lead py-3">CUADRO DE VACANTES POR CARRERA</h1>
+
+            <div class="pt-3 pb-5">
+                <h1 class="display-4 titulo-temario">
+                    CUADRO DE VACANTES POR CARRERA
+                </h1>
+            </div>                    
 
             <p>
-                <img src="public/img/cuadro vacantes.png" alt="" class="img-fluid">
+                <img src="public/img/cuadro vacantes.png" alt="" class="img-fluid border-dark">
             </p>
 
         </div>
