@@ -279,7 +279,7 @@
 
                             </div>
 
-                            <div class="col-md-12 comunicados">
+                            <div class="col-md-12 comunicados seccion-comunicados">
                                 <!-- COMUNICADOS -->
                                 <div class="glide3 sle3">
                                     <div data-glide-el="track" class="glide__track">
