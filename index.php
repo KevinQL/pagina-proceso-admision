@@ -27,7 +27,11 @@
                         <li class="glide__slide">
                             <img src="public/img/admision.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
-                                <h1></h1>
+                                <h1 class="d-md-none"> 
+                                    EXAMÉN DE ADMISIÓN - 2020 II 
+                                    <br>
+                                    <a href="index.php#admision" class="btn btn-outline-light btn-lg d-md-none"><i class="fas fa-diagnoses"></i> VER MÁS </a>
+                                </h1>
                             </div>  
                         </li>
                         <li class="glide__slide">
