@@ -9,7 +9,7 @@ if(div_slider){
         focusAt:'center',
         perView: 1,
         gap:2,
-        autoplay: 3600,
+        autoplay: 20000,
         hoverpause: true,
         breakpoints: { //para el tamaño de pantalla
             480:{perView: 1},
