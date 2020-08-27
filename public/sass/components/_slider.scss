@@ -1,30 +1,58 @@
+$h-slider : 90vh;
+$w-slider : 100vw;
+
+$movil-h-silde : 60vh;
+$movil-w-silde : 100vw;
+
+$hover-color-fondo: rgba(80, 61, 23, 0.5);//rgba(54, 36, 1, 0.404)
+$movil-hover-color-fondo : rgba(80, 61, 23, 0.801);
+
 .slider{
-    height: 80vh;
-    width: 100%;
-    background-color: rgba(19, 8, 1, 0.048);
     overflow: hidden;
     display: block;
     position: relative;
 
     @media all and ( max-width:500px ){
-        height: 60vh;
+        height: $movil-h-silde;
         transform: translateY(0px); //ESTO MINIMIZA EL ESPACIO INFERIOR QUE QUEDA SIN CUBRIR
+
+        img{
+            height: $movil-h-silde ;
+            width: $movil-w-silde ;
+
+            max-height: $movil-h-silde ;
+            min-height: $movil-h-silde ;
+    
+            max-width: $movil-w-silde ;
+            min-width: $movil-w-silde ;
+        }
+
+        .sle{
+            width: $movil-w-silde ;
+            max-height: $movil-h-silde;
+        }
+
     }
     .sle{
-        height: 100%;
+        width: $w-slider;
+        height: $h-slider;
+        overflow: hidden;
     }
     img{
-        max-height: 80vh;
-        min-width: 100vw;
+        max-height: $h-slider;
+        min-height: $h-slider;
+
+        min-width: $w-slider;
+        max-width: $w-slider;
     }
     .texto-slider{
         position: absolute;
         display: block;
-        width: 100vw;
-        height: 100%;
+        width: $w-slider;
+        height: $h-slider;
         top: 0px;
         // left: 0px;
-        background-color: rgba(54, 36, 1, 0.404);
+        background-color: $hover-color-fondo;
         color: white;
         z-index: 1000;
 
@@ -37,7 +65,9 @@
             // para centrar el texto en modo resposivo
             Este valor viene dado por el vh del slider en modo responsive
             */
-            height: 60vh; 
+            background-color: $movil-hover-color-fondo;   
+            height: $movil-h-silde; 
         }
+
     }
 }

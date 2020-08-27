@@ -22,34 +22,33 @@
 
             <div class="glide sle">
                 <div data-glide-el="track" class="glide__track">
-                <ul class="glide__slides">
+                    <ul class="glide__slides">
 
-                    <li class="glide__slide">
-                        <img src="public/img/slider/epis.jpg" class="" alt="...">
-                        <div class="texto-slider text-center">
-                            <h1>PABELLÓN DE INGENIERÍA DE SISTEMAS</h1>
-                        </div>  
-                    </li>
-                    <li class="glide__slide">
-                        <img src="public/img/slider/administracion.JPG" class="" alt="...">
-                        <div class="texto-slider text-center">
-                            <h1>PABELLÓN DE ADMINISTRACIÓN DE EMPRESAS</h1>
-                        </div> 
-                    </li>
-                    <li class="glide__slide">
-                        <img src="public/img/slider/agro.JPG" class="" alt="...">
-                        <div class="texto-slider text-center">
-                            <h1>PABELLÓN DE INGENIERÍA AGROINDUSTRIAL</h1>
-                        </div> 
-                    </li>
-                    <li class="glide__slide">
-                        <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
-                        <div class="texto-slider text-center">
-                            <h1>EXAMEN DE ADMISIÓN VIRTUAL 2020 II</h1>
-                        </div> 
-                    </li>
-
-                </ul>
+                        <li class="glide__slide">
+                            <img src="public/img/slider/epis.jpg" class="" alt="...">
+                            <div class="texto-slider text-center">
+                                <h1>PABELLÓN DE INGENIERÍA DE SISTEMAS</h1>
+                            </div>  
+                        </li>
+                        <li class="glide__slide">
+                            <img src="public/img/slider/administracion.JPG" class="" alt="...">
+                            <div class="texto-slider text-center">
+                                <h1>PABELLÓN DE ADMINISTRACIÓN DE EMPRESAS</h1>
+                            </div> 
+                        </li>
+                        <li class="glide__slide">
+                            <img src="public/img/slider/agro.JPG" class="" alt="...">
+                            <div class="texto-slider text-center">
+                                <h1>PABELLÓN DE INGENIERÍA AGROINDUSTRIAL</h1>
+                            </div> 
+                        </li>
+                        <li class="glide__slide">
+                            <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
+                            <div class="texto-slider text-center">
+                                <h1>EXAMEN DE ADMISIÓN VIRTUAL 2020 II</h1>
+                            </div> 
+                        </li>
+                    </ul>
                 </div>
         
                 <div class="glide__arrows" data-glide-el="controls">
@@ -68,7 +67,7 @@
         </section>
 
         <!-- ESCUELAS PROFESIONALES -->
-        <section class="seccion-carreras" id="carreras">
+        <section class="seccion-carreras py-2" id="carreras">
             <div class="">
                 <div class="row">
                     <div class="col-md-12">

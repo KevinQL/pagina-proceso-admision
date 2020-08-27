@@ -1,3 +1,7 @@
+$h-seccion : 160px;
+$img-h-seccion : 150px;
+$img-w-seccion : 150px;
+
 .seccion-carreras{
     background-color: whitesmoke;
     overflow: hidden;
@@ -7,20 +11,23 @@
 
     .sle-carrera{
         position: relative;
-        height: 185px;
+        height: $h-seccion;
         // width: 100vw;
         overflow: hidden;
-        .img-a{            
-            // background-color: green;
+        .img-a{     
+            border: none;
+            border-radius: 8px;       
+            background-color: rgba(178, 210, 246, 0.144);
             // width: 170px;
-            padding: 25px;
-            height: 185px;
+            // padding: 30px;
+            height: $h-seccion;
             display: flex;
             justify-content: center;
             align-items: center;
 
             img{
-                width: 100%;
+                height: $img-h-seccion ;
+                width: $img-h-seccion ;
                 transition: all .5s;
             }
 
