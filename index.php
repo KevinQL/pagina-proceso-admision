@@ -154,12 +154,12 @@
         <section class="seccion-admision" id="admision">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="#" class="">
+                    <a href="https://admisionunajma.pe/zetadmision/zet/index.php" class="" target="_blank">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a>
                 </div>
                 <div class="col-md-12 seccion-2">
-                    <a href="#">INSCRIBETE AQUÍ</a>
+                    <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a>
                 </div>
                 <div class="col-md-12 seccion-3">
                     <div class="row">
@@ -167,7 +167,9 @@
                             <a href="#">GUÍAS DE INSCRIPCIÓN</a>
                         </div>
                         <div class="col-6">
-                            <a href="#">GUÍA DE PAGO EN AGENTE BCP</a>
+                            <!-- <a href="#">GUÍA DE PAGO EN AGENTE BCP</a> -->
+                            <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
+                            <a href="#">OBTENER DATOS DE POSTULANTE</a>
                         </div>
                     </div>
                 </div>
@@ -384,7 +386,7 @@
                         <!-- <img src="public/img/prospectos.png" alt="" class="img img-fluid "> -->
                     </div>
                     <div class="col-md-3">
-                        <a href="#">
+                        <a href="pagina_reglamento.php">
                             <span class="material-icons">
                                 assignment_turned_in
                             </span>
