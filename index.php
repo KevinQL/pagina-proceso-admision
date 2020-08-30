@@ -27,7 +27,11 @@
                         <li class="glide__slide">
                             <img src="public/img/admision.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
-                                <h1></h1>
+                                <h1 class="d-md-none"> 
+                                    EXAMÉN DE ADMISIÓN - 2020 II 
+                                    <br>
+                                    <a href="index.php#admision" class="btn btn-outline-light btn-lg d-md-none"><i class="fas fa-diagnoses"></i> VER MÁS </a>
+                                </h1>
                             </div>  
                         </li>
                         <li class="glide__slide">
@@ -150,20 +154,22 @@
         <section class="seccion-admision" id="admision">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="#" class="">
+                    <a href="https://admisionunajma.pe/zetadmision/zet/index.php" class="" target="_blank">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a>
                 </div>
                 <div class="col-md-12 seccion-2">
-                    <a href="#">INSCRIBITE AQUÍ</a>
+                    <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a>
                 </div>
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6">
-                            <a href="#">GUIAS DE INSCRIPCIÓN</a>
+                            <a href="#">GUÍAS DE INSCRIPCIÓN</a>
                         </div>
                         <div class="col-6">
                             <a href="#">GUÍA DE PAGO EN AGENTE BCP</a>
+                            <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
+                            <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
                     </div>
                 </div>
@@ -279,9 +285,9 @@
 
                             </div>
 
-                            <div class="col-md-12 comunicados">
+                            <div class="col-md-12 comunicados seccion-comunicados">
                                 <!-- COMUNICADOS -->
-                                <div class="glide3 sle3">
+                                <!-- <div class="glide3 sle3">
                                     <div data-glide-el="track" class="glide__track">
                                     <ul class="glide__slides">
                                         <li class="glide__slide">
@@ -323,16 +329,6 @@
                                                     <a href="#" class="btn btn-comunicado">ver mas</a>
                                                 </div>
                                             </div>
-                                            <!-- <div class=" card-noticia">
-                                                <div class="borde-noticia">
-                                                    <img src="public/img/epis.jpg" alt="" class="img-noticia">
-                                                    <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                                                    <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit...
-                                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae totam cumque soluta provident sit, iusto iste labore, quas ipsum nobis mollitia impedit facilis et animi quae. Nostrum nesciunt velit dolore?
-                                                    </p>
-                                                    <a href="?pg=noticia&id=4" class="btn btn-sm">VER MAS</a>
-                                                </div>
-                                            </div> -->
                                         </li>
                                     </ul>
                                     </div>
@@ -348,11 +344,9 @@
                                         <button class="glide__bullet color-secundario" data-glide-dir="=2"></button>
                                         <button class="glide__bullet color-secundario" data-glide-dir="=3"></button>    
                                     </div>
-                                </div> 
-
+                                </div>  -->
                             </div>
                         </div>
-                        <!-- <h1 class="text-center">NOTICIA</h1> -->
                         
                     </div>
 
@@ -392,7 +386,7 @@
                         <!-- <img src="public/img/prospectos.png" alt="" class="img img-fluid "> -->
                     </div>
                     <div class="col-md-3">
-                        <a href="#">
+                        <a href="pagina_reglamento.php">
                             <span class="material-icons">
                                 assignment_turned_in
                             </span>
