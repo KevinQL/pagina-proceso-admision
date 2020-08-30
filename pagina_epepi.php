@@ -23,7 +23,7 @@
 
             <div class="row">
                 <div class="col-md-6 ">
-                    <h1 class="escuela-titulo">ESCUELA PROFESIONAL EDUCACIÓN INTERCULTIRAL</h1>
+                    <h1 class="escuela-titulo">ESCUELA PROFESIONAL EDUCACIÓN INTERCULTURAL</h1>
                     <p class="escuela-parrafo-1">
                         <b>Perfil profesional</b>
                         <br>
