@@ -167,9 +167,9 @@
                             <a href="#">GUÍAS DE INSCRIPCIÓN</a>
                         </div>
                         <div class="col-6">
-                            <!-- <a href="#">GUÍA DE PAGO EN AGENTE BCP</a> -->
+                            <a href="#">GUÍA DE PAGO EN AGENTE BCP</a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
-                            <a href="#">OBTENER DATOS DE POSTULANTE</a>
+                            <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
                     </div>
                 </div>
