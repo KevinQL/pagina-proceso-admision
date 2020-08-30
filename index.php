@@ -164,10 +164,10 @@
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6">
-                            <a href="#">GUÍAS DE INSCRIPCIÓN</a>
+                            <a href="#"> GUÍAS DE INSCRIPCIÓN </a>
                         </div>
                         <div class="col-6">
-                            <a href="#">GUÍA DE PAGO EN AGENTE BCP</a>
+                            <a href="#"> GUÍA DE PAGO EN AGENTE BCP </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
