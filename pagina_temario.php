@@ -52,7 +52,7 @@
                                 <li>
                                     <b>Geografía y Medio Ambiente</b>.- Geografía política del Perú y de Apurímac, sistema hidrográfico, regiones y ecorregiones naturales, La contaminación natural y áreas protegidas.</li>
                                 <li>
-                                    Literatura peruana y universal. Corrientes literarias: peruana y universal. Característica, representantes y obras.</li>
+                                    <b>Literatura peruana y universal</b>.- Corrientes literarias: peruana y universal. Característica, representantes y obras.</li>
                                 
                             </ul>
                         </div>
@@ -98,7 +98,7 @@
                                 <li><b>Triángulos</b></li>
                                 <li><b>Circunferencia</b></li>
                                 <li><b>Proporcionalidad y semejanzas</b></li>
-                                <li><b>Relaciones métricas en el triángulo rectángulo, áreas de regiones planas, primas y cilindro</b></li>
+                                <li><b>Relaciones métricas en el triángulo rectángulo, áreas de regiones planas, prismas y cilindro</b></li>
                                 <li><b>Conversión y razones trigonométricas</b></li>
                                 <li><b>Ángulos en posiciones normal</b></li>
                                 <li><b>Identidades trigonométricas</b></li>
