@@ -154,12 +154,16 @@
         <section class="seccion-admision" id="admision">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="https://admisionunajma.pe/zetadmision/zet/index.php" class="" target="_blank">
+                    <!-- <a href="https://admisionunajma.pe/zetadmision/zet/index.php" class="" target="_blank">
+                        SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
+                    </a> -->
+                    <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a>
                 </div>
                 <div class="col-md-12 seccion-2">
-                    <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a>
+                    <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
+                    <a href="#">INSCRIBETE AQUÍ</a>
                 </div>
                 <div class="col-md-12 seccion-3">
                     <div class="row">
