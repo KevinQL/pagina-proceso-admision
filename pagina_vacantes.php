@@ -27,7 +27,7 @@
             </div>                    
 
             <p>
-                <img src="public/img/cuadro vacantes.png" alt="" class="img-fluid border-dark">
+                <img src="public/img/cuadro_vacantes.jpg" alt="" class="img-fluid w-100 border-dark">
             </p>
 
         </div>

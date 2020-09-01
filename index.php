@@ -154,20 +154,27 @@
         <section class="seccion-admision" id="admision">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="https://admisionunajma.pe/zetadmision/zet/index.php" class="" target="_blank">
+                    <!-- <a href="https://admisionunajma.pe/zetadmision/zet/index.php" class="" target="_blank">
+                        SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
+                    </a> -->
+                    <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a>
                 </div>
                 <div class="col-md-12 seccion-2">
-                    <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a>
+                    <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
+                    <a href="#">INSCRIBETE AQUÍ</a>
                 </div>
                 <div class="col-md-12 seccion-3">
                     <div class="row">
-                        <div class="col-6">
-                            <a href="#">GUÍAS DE INSCRIPCIÓN</a>
+                        <div class="col-6 txt-ins">
+                            <a href="#admision"> GUÍAS DE INSCRIPCIÓN </a>
                         </div>
-                        <div class="col-6">
-                            <a href="#">GUÍA DE PAGO EN AGENTE BCP</a>
+                        <div class="col-6 txt-bcp"gui-ins>
+                            <a href="#admision"> 
+                                CUENTA BANCO DE LA NACIÓN : <br>
+                                00 182 00 9784 
+                            </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
