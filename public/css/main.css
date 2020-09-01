@@ -404,6 +404,9 @@
     margin: 0px;
     padding: 0px 2px;
   }
+  .seccion-admision .container .seccion-3 div a {
+    font-size: 1em;
+  }
 }
 .seccion-admision .opaco-admision {
   background-color: rgba(202, 137, 8, 0.356);

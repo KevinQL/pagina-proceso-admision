@@ -167,11 +167,14 @@
                 </div>
                 <div class="col-md-12 seccion-3">
                     <div class="row">
-                        <div class="col-6">
-                            <a href="#"> GUÍAS DE INSCRIPCIÓN </a>
+                        <div class="col-6 txt-ins">
+                            <a href="#admision"> GUÍAS DE INSCRIPCIÓN </a>
                         </div>
-                        <div class="col-6">
-                            <a href="#"> GUÍA DE PAGO EN AGENTE BCP </a>
+                        <div class="col-6 txt-bcp"gui-ins>
+                            <a href="#admision"> 
+                                CUENTA BANCO DE LA NACIÓN : <br>
+                                00 182 00 9784 
+                            </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
