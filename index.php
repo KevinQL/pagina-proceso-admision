@@ -181,7 +181,7 @@
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, esse.</li>
             </ul>
 
-            <a href="https://admisionunajma.pe/zetadmision/zet/index.php" target="_blank" class="btn btn-sm btn-info">
+            <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
                 SIGUIENTE
             </a> 
         </div>
