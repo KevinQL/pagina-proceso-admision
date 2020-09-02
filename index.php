@@ -175,8 +175,8 @@
         <h1 class="txtm-titulo">IMPORTANTE</h1>
 
         <div class="txt">
+            <h4>El postulante debe de contar con los siguientes requisitos:</h4>
             <ul class="text-left">
-                <h4>El postulante debe de contar con los siguientes requisitos:</h4>
                 <li>Computadora de escritorio con: cámara, micrófono y salida de audio(parlantes) o computadora portátil(laptop) con sus componentes en correcto funcionamiento.</li>
                 <li>Internet con un mínimo de 4Mbps de velocidad estable y 8 Mbps recomendable.</li>
                 <li>Un ambiente privado y que no exista interrupciones o personas distintas que no sea postulante.</li>
