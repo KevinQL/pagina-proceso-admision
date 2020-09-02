@@ -6,6 +6,9 @@
         <?php
             require_once('partials/cdnsHeader.html');
         ?>
+        <!-- Include a polyfill for ES6 Promises (optional) for IE11 -->
+        <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
         <title>Unajma admisión 2020 </title>
     </head>
@@ -163,8 +166,47 @@
                 </div>
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
-                    <a href="#">INSCRIBETE AQUÍ</a>
+                    <a href="#admision" class="btn-inscribete">INSCRIBETE AQUÍ</a>
                 </div>
+
+<!-- MODAL PRÁCTICA -->
+    <!-- modificar esta seccion -->
+    <div class="d-none">
+        <h1 class="txtm-titulo">INDICACIONES</h1>
+
+        <div class="txt">
+            <ul class="text-left">
+                <li>Lorem ipsum dolor sit.</li>
+                <li>Lorem ipsum dolor sit amet.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, esse.</li>
+            </ul>
+
+            <a href="https://admisionunajma.pe/zetadmision/zet/index.php" target="_blank" class="btn btn-sm btn-info">
+                SIGUIENTE
+            </a> 
+        </div>
+    </div>
+
+    <!-- script modal sweet -->
+    <script>
+        let titulo = document.querySelector(".txtm-titulo").innerHTML
+        let msj = document.querySelector(".txt").innerHTML;
+        let btn_inscribete = document.querySelector(".btn-inscribete");
+
+        btn_inscribete.addEventListener('click',function(e){
+            // e.preventDefault();
+            Swal.fire({
+                title: `<strong>${titulo}</strong>`,
+                icon: 'info',
+                html: `${msj}`,
+                showCloseButton: false,
+                showConfirmButton: false,
+                showCancelButton: false,
+            })    
+        });
+    </script>
+<!-- FIN MODAL INSCRIBETE -->
+
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6 txt-ins">
