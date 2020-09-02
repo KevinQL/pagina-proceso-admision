@@ -172,17 +172,22 @@
 <!-- MODAL PRÁCTICA -->
     <!-- modificar esta seccion -->
     <div class="d-none">
-        <h1 class="txtm-titulo">INDICACIONES</h1>
+        <h1 class="txtm-titulo">IMPORTANTE</h1>
 
         <div class="txt">
             <ul class="text-left">
-                <li>Lorem ipsum dolor sit.</li>
-                <li>Lorem ipsum dolor sit amet.</li>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, esse.</li>
+                <h4>El postulante debe de contar con los siguientes requisitos:</h4>
+                <li>Computadora de escritorio con: cámara, micrófono y salida de audio(parlantes) o computadora portátil(laptop) con sus componentes en correcto funcionamiento.</li>
+                <li>Internet con un mínimo de 4Mbps de velocidad estable y 8 Mbps recomendable.</li>
+                <li>Un ambiente privado y que no exista interrupciones o personas distintas que no sea postulante.</li>
+                <li>Un Smartphone o teléfono inteligente con conexión a internet a través de datos móviles con el aplicativo de google meet instalado además de batería en buen estado con una duración mínima de 3 horas para el control durante el examen.</li>
+                <li>Correo electrónico Gmail.</li>
+                <li>El postulante debe conocer el reglamento de admisión, Si aún no lo reviso hacer clic <a href="pagina_reglamento.php">aquí</a></li>
+                <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php">aquí</a></li>
             </ul>
 
             <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
-                SIGUIENTE
+                ACEPTO Y CONTINUAR
             </a> 
         </div>
     </div>
