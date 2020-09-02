@@ -186,8 +186,8 @@
                 <li>Un ambiente privado y que no exista interrupciones o personas distintas que no sea postulante.</li>
                 <li>Un Smartphone o teléfono inteligente con conexión a internet a través de datos móviles con el aplicativo de google meet instalado además de batería en buen estado con una duración mínima de 3 horas para el control durante el examen.</li>
                 <li>Correo electrónico Gmail.</li>
-                <li>El postulante debe conocer el reglamento de admisión, Si aún no lo reviso hacer clic <a href="pagina_reglamento.php" class="txt-danger">aquí</a></li>
-                <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php" class="txt-danger">aquí</a></li>
+                <li>El postulante debe conocer el reglamento de admisión, Si aún no lo reviso hacer clic <a href="pagina_reglamento.php" class="txt-danger" target="_blank">aquí</a></li>
+                <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php" class="txt-danger" target="_blank">aquí</a></li>
             </ul>
 
             <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
