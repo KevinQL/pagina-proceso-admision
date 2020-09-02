@@ -168,7 +168,7 @@
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6 txt-ins">
-                            <a href="#admision"> GUÍAS DE INSCRIPCIÓN </a>
+                            <a href="https://forms.gle/9VoFvf9EETjuh4Cf8"> INSCRIPCIÓN DOCENTE </a>
                         </div>
                         <div class="col-6 txt-bcp"gui-ins>
                             <a href="#admision"> 
