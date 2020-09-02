@@ -153,3 +153,19 @@ $color3-h:#192a56;
     }
 
 }
+
+
+// modal inscripcion
+.txtm-titulo, .txt-titulo, .txt-indicaciones{
+    font-size: .8em;
+}
+.txt-titulo{
+    color:tomato;
+}
+.txtm-titulo, .txt-indicaciones{
+    color: steelblue;
+    a{
+        text-decoration: none;
+        color:tomato;
+    }
+}

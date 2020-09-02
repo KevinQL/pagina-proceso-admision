@@ -171,22 +171,29 @@
 
 <!-- MODAL PRÁCTICA -->
     <!-- modificar esta seccion -->
-    <div class="d-none">
-        <h1 class="txtm-titulo">IMPORTANTE</h1>
+    <div class="d-none modal-inscripcion">
+        <h1 class="txtm-titulo">
+            <strong class='txtm-titulo'>IMPORTANTE</strong>
+        </h1>
 
-        <div class="txt">
-            <h4>El postulante debe de contar con los siguientes requisitos:</h4>
-            <ul class="text-left">
+        <div class="txt ">
+            <h4 class="txt-titulo">
+                El postulante debe de contar con los siguientes requisitos:
+            </h4>
+            <ul class="text-left txt-indicaciones">
                 <li>Computadora de escritorio con: cámara, micrófono y salida de audio(parlantes) o computadora portátil(laptop) con sus componentes en correcto funcionamiento.</li>
                 <li>Internet con un mínimo de 4Mbps de velocidad estable y 8 Mbps recomendable.</li>
                 <li>Un ambiente privado y que no exista interrupciones o personas distintas que no sea postulante.</li>
                 <li>Un Smartphone o teléfono inteligente con conexión a internet a través de datos móviles con el aplicativo de google meet instalado además de batería en buen estado con una duración mínima de 3 horas para el control durante el examen.</li>
                 <li>Correo electrónico Gmail.</li>
-                <li>El postulante debe conocer el reglamento de admisión, Si aún no lo reviso hacer clic <a href="pagina_reglamento.php">aquí</a></li>
-                <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php">aquí</a></li>
+                <li>El postulante debe conocer el reglamento de admisión, Si aún no lo reviso hacer clic <a href="pagina_reglamento.php" class="txt-danger">aquí</a></li>
+                <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php" class="txt-danger">aquí</a></li>
             </ul>
 
-            <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
+            <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
+                ACEPTO Y CONTINUAR
+            </a>  -->
+            <a href="#admision" class="btn btn-sm btn-info">
                 ACEPTO Y CONTINUAR
             </a> 
         </div>
@@ -201,7 +208,7 @@
         btn_inscribete.addEventListener('click',function(e){
             // e.preventDefault();
             Swal.fire({
-                title: `<strong>${titulo}</strong>`,
+                title: `<strong class='txt-titulo'>${titulo}</strong>`,
                 icon: 'info',
                 html: `${msj}`,
                 showCloseButton: false,

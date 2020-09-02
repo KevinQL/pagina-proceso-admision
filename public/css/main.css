@@ -418,6 +418,22 @@
   z-index: 0;
 }
 
+.txtm-titulo, .txt-titulo, .txt-indicaciones {
+  font-size: 0.8em;
+}
+
+.txt-titulo {
+  color: tomato;
+}
+
+.txtm-titulo, .txt-indicaciones {
+  color: steelblue;
+}
+.txtm-titulo a, .txt-indicaciones a {
+  text-decoration: none;
+  color: tomato;
+}
+
 .cuerpo-pagina {
   display: block;
   position: relative;
