@@ -190,12 +190,12 @@
                 <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php" class="txt-danger">aquí</a></li>
             </ul>
 
-            <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
-                ACEPTO Y CONTINUAR
-            </a>  -->
-            <a href="#admision" class="btn btn-sm btn-info">
+            <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
                 ACEPTO Y CONTINUAR
             </a> 
+            <!-- <a href="#admision" class="btn btn-sm btn-info">
+                ACEPTO Y CONTINUAR
+            </a>  -->
         </div>
     </div>
 
