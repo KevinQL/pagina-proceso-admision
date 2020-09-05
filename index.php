@@ -188,6 +188,7 @@
                 <li>Correo electrónico Gmail.</li>
                 <li>El postulante debe conocer el reglamento de admisión, Si aún no lo reviso hacer clic <a href="pagina_reglamento.php" class="txt-danger" target="_blank">aquí</a></li>
                 <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php" class="txt-danger" target="_blank">aquí</a></li>
+                <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
             </ul>
 
             <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
@@ -196,6 +197,122 @@
             <!-- <a href="#admision" class="btn btn-sm btn-info">
                 ACEPTO Y CONTINUAR
             </a>  -->
+
+<!-- modal dropdown tarifario -->
+<div class="accordion my-2" id="accordionExample">
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    TARIFARIO ADMISIÓN <i class="fas fa-angle-down ml-1"></i>
+                </button>
+            </h2>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div class="card-body">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">ÍTEM</th>
+                            <th scope="col">DESCRIPCIÓN</th>
+                            <th scope="col">DERECHO DE TRÁMITE</th>                        
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Examen ordinario egresado de colegio nacional</td>
+                            <td>S/. 210.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Examen ordinario egresado de colegio particular</td>
+                            <td>S/. 245.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Por 1° y 2° puesto egresado de colegio nacional</td>
+                            <td>S/. 200.00</td>                        
+                        </tr>
+
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Por 1° y 2° puesto egresado de colegio particular</td>
+                            <td>S/. 235.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Tercio Superior egresados de colegio nacional</td>
+                            <td>S/. 200.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>Tercio Superior egresados de colegio particular</td>
+                            <td>S/. 235.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>Deportista de Alto Nivel egresado de colegio nacional</td>
+                            <td>S/. 200.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">8</th>
+                            <td>Deportista de Alto Nivel egresado de colegio particular</td>
+                            <td>S/. 235.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">9</th>
+                            <td>Víctima del Terrorismo egresado del colegio nacional</td>
+                            <td>S/. 165.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">10</th>
+                            <td>Víctima del Terrorismo egresado del colegio particular </td>
+                            <td>S/. 175.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">11</th>
+                            <td>Personas con Discapacidad egresado del colegio nacional</td>
+                            <td>S/. 165.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">12</th>
+                            <td>Personas con Discapacidad egresado del colegio particular</td>
+                            <td>S/. 175.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">13</th>
+                            <td>Becas VRAEM egresado del colegio nacional </td>
+                            <td>S/. 165.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">14</th>
+                            <td>Becas VRAEM egresado del colegio particular</td>
+                            <td>S/. 175.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">15</th>
+                            <td>Graduados, Titulados y miembros de las Fuerzas Armadas </td>
+                            <td>S/. 535.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">16</th>
+                            <td>Derecho por Traslado externo</td>
+                            <td>S/. 725.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">17</th>
+                            <td>Derecho por Traslado Interno </td>
+                            <td>S/. 275.00</td>                        
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
         </div>
     </div>
 
@@ -211,7 +328,7 @@
                 title: `<strong class='txt-titulo'>${titulo}</strong>`,
                 icon: 'info',
                 html: `${msj}`,
-                showCloseButton: false,
+                showCloseButton: true,
                 showConfirmButton: false,
                 showCancelButton: false,
             })    
@@ -346,7 +463,34 @@
 
                             </div>
 
-                            <div class="col-md-12 comunicados seccion-comunicados">
+
+                            <div class="col-md-12 comunicados seccion-comunicados" id="comunicados">
+
+    <!-- MANUALES INSCRIPCIÓN -->
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Manual VIDEO</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Manual PDF.</a>
+        </li>
+    </ul>
+    <div class="tab-content pt-1" id="myTabContent">
+        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+            <div class="card bg-dark text-white">
+                <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="tab-pane fade text-center" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+            <iframe class="mx-auto" src="https://drive.google.com/file/d/1-DQd5R7puXdfUzYq08xW2XLrRtr5NIS9/preview" width="100%" height="410" frameborder="0"></iframe>
+        </div>
+    </div>
+    <!-- FIN MANUALES INSCRIPCIÓN -->
+
+
+
+
+
                                 <!-- COMUNICADOS -->
                                 <!-- <div class="glide3 sle3">
                                     <div data-glide-el="track" class="glide__track">

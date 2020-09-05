@@ -59,23 +59,23 @@ if(div_noticia){
 }
 
 //para el slider la seccion de COMUNICADOS
-let div_comunicados = document.querySelector(".seccion-comunicados");
-if(div_comunicados){
-    let c2 = new Glide('.glide3', {
-        type: 'carousel',
-        startAt: 0,
-        focusAt:'center',
-        perView: 1,
-        gap:1,
-        autoplay: 3000,
-        hoverpause: true,
-        breakpoints: { //para el tamaño de pantalla
-            480:{perView: 1},
-            800:{perView:2}
-        }   
-    });
-    c2.mount()
-}
+// let div_comunicados = document.querySelector(".seccion-comunicados");
+// if(div_comunicados){
+//     let c2 = new Glide('.glide3', {
+//         type: 'carousel',
+//         startAt: 0,
+//         focusAt:'center',
+//         perView: 1,
+//         gap:1,
+//         autoplay: 3000,
+//         hoverpause: true,
+//         breakpoints: { //para el tamaño de pantalla
+//             480:{perView: 1},
+//             800:{perView:2}
+//         }   
+//     });
+//     c2.mount()
+// }
 
 
 // PARA LAS ESCUELAS PROFESIONALES - CADA CARRERA ES UNA PÁGINA DITINTA
