@@ -1,3 +1,18 @@
+// Estilos para el boton de wsp
+.appWhatsapp{
+    position: fixed;
+    right: 26px;
+    bottom: 100px;
+    width: 60px;
+    z-index: 1000;
+    img{
+        width: 100%;
+        height: auto;
+
+    }
+}
+
+// Estilos para el footer del sitio web
 .seccion-footer{
     background-color: $color-primario1;
 

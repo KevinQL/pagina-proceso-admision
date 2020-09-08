@@ -559,6 +559,18 @@
   padding: 0px auto;
 }
 
+.appWhatsapp {
+  position: fixed;
+  right: 26px;
+  bottom: 100px;
+  width: 60px;
+  z-index: 1000;
+}
+.appWhatsapp img {
+  width: 100%;
+  height: auto;
+}
+
 .seccion-footer {
   background-color: rgba(5, 31, 66, 0.925);
 }
