@@ -157,12 +157,12 @@
         <section class="seccion-admision" id="admision">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <!-- <a href="https://admisionunajma.pe/zetadmision/zet/index.php" class="" target="_blank">
-                        SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
-                    </a> -->
-                    <a href="#" class="">
+                    <a href="https://admisionunajma.pe/zetadmision/zet/index.php">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a>
+                    <!-- <a href="#" class="">
+                        SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
+                    </a> -->
                 </div>
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
@@ -339,7 +339,7 @@
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6 txt-ins">
-                            <a href="https://forms.gle/9VoFvf9EETjuh4Cf8"> INSCRIPCIÓN DOCENTE </a>
+                            <a href="https://forms.gle/9VoFvf9EETjuh4Cf8" target="_blank"> INSCRIPCIÓN DOCENTE </a>
                         </div>
                         <div class="col-6 txt-bcp"gui-ins>
                             <a href="#admision"> 
@@ -478,11 +478,13 @@
     <div class="tab-content pt-1" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
             <div class="card bg-dark text-white">
-                <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/CYnlNi-3okg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
             </div>
         </div>
         <div class="tab-pane fade text-center" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-            <iframe class="mx-auto" src="https://drive.google.com/file/d/1-DQd5R7puXdfUzYq08xW2XLrRtr5NIS9/preview" width="100%" height="410" frameborder="0"></iframe>
+            <iframe class="mx-auto" src="https://drive.google.com/file/d/11bm2443eQNa0cHuGca_eGpWXlVbkLU35/preview" width="100%" height="410" frameborder="0"></iframe>
+            <!-- <iframe src="https://drive.google.com/file/d/1-DQd5R7puXdfUzYq08xW2XLrRtr5NIS9/preview" width="640" height="480"></iframe> -->
         </div>
     </div>
     <!-- FIN MANUALES INSCRIPCIÓN -->
