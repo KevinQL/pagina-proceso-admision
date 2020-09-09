@@ -1,7 +1,36 @@
 <a class="appWhatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=51950378103&text=Hola!&nbsp;me&nbsp;pueden&nbsp;apoyar?">
     <img src="public/img/iconos/whatsapp.png" alt="Whatsapp">
 </a>
+
 <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+        xfbml            : true,
+        version          : 'v8.0'
+        });
+    };
+
+    (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+    attribution=setup_tool
+    page_id="1887588388161650"
+    theme_color="#6699cc"
+    logged_in_greeting="Hola! tienes dudas sobre tu inscripción virtual? 950378103, 983942401, 991828881"
+    logged_out_greeting="Hola! tienes dudas sobre tu inscripción virtual? 950378103, 983942401, 991828881">
+</div>
+
+<!-- Load Facebook SDK for JavaScript -->
+<!-- 
 <div id="fb-root"></div>
 <script>
     window.fbAsyncInit = function() {
@@ -19,16 +48,19 @@
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
-
+-->
 <!-- Your Chat Plugin code -->
-<div class="fb-customerchat"
+<!-- <div class="fb-customerchat"
     attribution=setup_tool
     page_id="1887588388161650"
     theme_color="#6699cc"
-    logged_in_greeting="Hola! Tienes dudas para realizar tu inscripción para el examen virtual?"
-    logged_out_greeting="Hola! Tienes dudas para realizar tu inscripción para el examen virtual?">
-</div>
+    logged_in_greeting="Hola! Tienes dudas al realizar tu inscripción para el examen virtual?"
+    logged_out_greeting="Hola! Tienes dudas al realizar tu inscripción para el examen virtual?">
+</div> -->
 
+
+
+<!-- seccion footer -->
 <footer class="seccion-footer py-4 text-white">
 
     <div class="container">

@@ -158,7 +158,7 @@
             <div class="container">
                 <div class="col-md-12 seccion-1">
                     <a href="https://admisionunajma.pe/zetadmision/zet/index.php">
-                        SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
+                        EXAMEN VIRTUAL ADMISIÓN UNAJMA 2020-II
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
