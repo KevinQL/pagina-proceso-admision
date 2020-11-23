@@ -31,7 +31,7 @@
                             <img src="public/img/admision.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="d-md-none"> 
-                                    EXAMÉN DE ADMISIÓN - 2020 II 
+                                    EXAMÉN DE ADMISIÓN - 2020
                                     <br>
                                     <a href="index.php#admision" class="btn btn-outline-light btn-lg d-md-none"><i class="fas fa-diagnoses"></i> VER MÁS </a>
                                 </h1>
@@ -158,7 +158,7 @@
             <div class="container">
                 <div class="col-md-12 seccion-1">
                     <a href="https://admisionunajma.pe/zetadmision/zet/index.php">
-                        EXAMEN VIRTUAL ADMISIÓN UNAJMA 2020-II
+                        EXAMEN VIRTUAL ADMISIÓN UNAJMA 2020
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
