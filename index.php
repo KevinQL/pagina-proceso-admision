@@ -157,7 +157,7 @@
         <section class="seccion-admision" id="admision">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="https://admisionunajma.pe/zetadmision/zet/index.php">
+                    <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php">
                         EXAMEN VIRTUAL ADMISIÓN UNAJMA 2020
                     </a>
                     <!-- <a href="#" class="">
@@ -191,7 +191,7 @@
                 <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
             </ul>
 
-            <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
+            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
                 ACEPTO Y CONTINUAR
             </a> 
             <!-- <a href="#admision" class="btn btn-sm btn-info">
