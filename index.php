@@ -136,29 +136,14 @@
             </div>
         </section>
 
-        <!-- CINTA MENU EXAMNE VIRTUAL -->
-        <div class="cinta-menu py-5 text-center lead">
-            <div class="container text-white">
-                <div class="row text-center">
-                    <div class="col-md-6">
-                        <h3 class="py-2">EL ÉXITO DEPENDE DE TI</h3>
-                        <p>Cualquier persona que deja de aprender es viejo, ya sea a los veinte u ochenta. Cualquier persona que sigue aprendiendo se mantiene joven. La cosa más grande en la vida es mantener la mente joven.</p>
-                        <br><p>Henry Ford</p>                        
-                    </div>
-                    <div class="col-md-6 icono-d">
-                        <i class="fas fa-laptop fa-6x"></i>
-                        <h3>SISTEMA VIRTUAL UNAJMA</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
 
-        <!-- ADMISION PRESENTACIÓN -->
+        <!-- ADMISION PRESENTACIÓN CEPRE -->
         <section class="seccion-admision" id="admision">
             <div class="container">
                 <div class="col-md-12 seccion-1">
                     <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php">
-                        EXAMEN VIRTUAL ADMISIÓN UNAJMA 2020
+                        SISTEMA VIRTUAL ADMISIÓN - CEPRE
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
@@ -180,6 +165,7 @@
             <h4 class="txt-titulo">
                 El postulante debe de contar con los siguientes requisitos:
             </h4>
+            <h3> <strong> SI ESTÁS APTO PARA RENDIR LA EVALUACIÓN VIRTUAL: </strong></h3>
             <ul class="text-left txt-indicaciones">
                 <li>Computadora de escritorio con: cámara, micrófono y salida de audio(parlantes) o computadora portátil(laptop) con sus componentes en correcto funcionamiento.</li>
                 <li>Internet con un mínimo de 4Mbps de velocidad estable y 8 Mbps recomendable.</li>
@@ -190,8 +176,8 @@
                 <li>El postulante debe cumplir con los requisitos documentarios necesarios dependiendo a la modalidad que se presenta, Si aún no lo reviso hacer clic <a href="pagina_extraordinario.php" class="txt-danger" target="_blank">aquí</a></li>
                 <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
             </ul>
-
-            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
+            <small> <strong> SI SOLO ES INSCRICIÓN, DALE CLICK EN ACEPTAR Y  CONTINUAR: </strong></small> <br>
+            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre-cepre.php" target="_blank" class="btn btn-sm btn-info">
                 ACEPTO Y CONTINUAR
             </a> 
             <!-- <a href="#admision" class="btn btn-sm btn-info">
@@ -199,7 +185,7 @@
             </a>  -->
 
 <!-- modal dropdown tarifario -->
-<div class="accordion my-2" id="accordionExample">
+<!-- <div class="accordion my-2" id="accordionExample">
     <div class="card">
         <div class="card-header" id="headingTwo">
             <h2 class="mb-0">
@@ -310,7 +296,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
         </div>
@@ -353,6 +339,151 @@
                 </div>
             </div>
             <div class="opaco-admision"></div>
+        </section>
+
+
+        <!-- CINTA MENU EXAMNE VIRTUAL -->
+        <div class="cinta-menu py-5 text-center lead">
+            <div class="container text-white">
+                <div class="row text-center">
+                    <div class="col-md-6">
+                        <h3 class="py-2">EL ÉXITO DEPENDE DE TI</h3>
+                        <p>Cualquier persona que deja de aprender es viejo, ya sea a los veinte u ochenta. Cualquier persona que sigue aprendiendo se mantiene joven. La cosa más grande en la vida es mantener la mente joven.</p>
+                        <br><p>Henry Ford</p>                        
+                    </div>
+                    <div class="col-md-6 icono-d">
+                        <i class="fas fa-laptop fa-6x"></i>
+                        <h3>SISTEMA VIRTUAL UNAJMA</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ADMISION SECCION QUINTO DE SECUNDARIA  -->
+        <section class="seccion-admision" id="admision2">
+            <div class="container">
+                <div class="col-md-12 seccion-1">
+                    <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php">
+                        SISTEMA VIRTUAL ADMISIÓN - PRIMERA SELECCIÓN
+                    </a>
+                    <!-- <a href="#" class="">
+                        SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
+                    </a> -->
+                </div>
+                <div class="col-md-12 seccion-2">
+                    <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
+                    <a href="#admision2" class="btn-inscribete2">INSCRIBETE AQUÍ</a>
+                </div>
+
+<!-- MODAL PRÁCTICA -->
+    <!-- modificar esta seccion -->
+    <div class="d-none modal-inscripcion">
+        <h1 class="txtm-titulo2">
+            <strong class='txtm-titulo2'>IMPORTANTE</strong>
+        </h1>
+
+        <div class="txt2 ">
+            <h4 class="txt-titulo">
+                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Etraordinario - Primera Selección:
+            </h4>
+            <ul class="text-left txt-indicaciones"> 
+                <li>Documento Nacional de Identidad.</li>
+                <li>fotografía actualizada del postulante en formato .JPG</li>
+                <li>Comprobante de Pago por derecho de admisión: </br> 
+                    * Colegio Nacional (S/. 150.00 ) </br>
+                    * Colegio Particular (S/. 180.00 )
+                </li>
+                <li>Constancia Firmada por el director del colegio señalando que el postulante se encuentra cursando el último año de educación secundaría</li>
+                <li>Correo electrónico Gmail.</li>
+                <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
+            </ul>
+
+            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
+                ACEPTO Y CONTINUAR
+            </a> 
+            <!-- <a href="#admision" class="btn btn-sm btn-info">
+                ACEPTO Y CONTINUAR
+            </a>  -->
+
+<!-- modal dropdown tarifario -->
+<div class="accordion my-2" id="accordionExample">
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    TARIFARIO ADMISIÓN <i class="fas fa-angle-down ml-1"></i>
+                </button>
+            </h2>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div class="card-body">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">ÍTEM</th>
+                            <th scope="col">DESCRIPCIÓN</th>
+                            <th scope="col">DERECHO DE TRÁMITE</th>                        
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Estudiante Colegio Particular.</td>
+                            <td>S/. 180.00</td>                        
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Estudiante Colegio Nacional</td>
+                            <td>S/. 150.00</td>                        
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+
+    <!-- script modal sweet -->
+    <script>
+        let titulo2 = document.querySelector(".txtm-titulo2").innerHTML
+        let msj2 = document.querySelector(".txt2").innerHTML;
+        let btn_inscribete2 = document.querySelector(".btn-inscribete2");
+
+        btn_inscribete2.addEventListener('click',function(e){
+            // e.preventDefault();
+            Swal.fire({
+                title: `<strong class='txt-titulo'>${titulo2}</strong>`,
+                icon: 'info',
+                html: `${msj2}`,
+                showCloseButton: true,
+                showConfirmButton: false,
+                showCancelButton: false,
+            })    
+        });
+    </script>
+<!-- FIN MODAL INSCRIBETE -->
+
+                <div class="col-md-12 seccion-3">
+                    <div class="row">
+                        <div class="col-6 txt-ins">
+                            <a href="https://forms.gle/9VoFvf9EETjuh4Cf8" target="_blank"> INSCRIPCIÓN DOCENTE </a>
+                        </div>
+                        <div class="col-6 txt-bcp"gui-ins>
+                            <a href="#admision"> 
+                                CUENTA BANCO DE LA NACIÓN : <br>
+                                00 182 00 9784 
+                            </a>
+                            <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
+                            <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="opaco-admision2"></div>
         </section>
 
 
@@ -559,7 +690,9 @@
 
                     <!-- REDES SOCIAL FACEBOOK -->
                     <div class="col-md-4 redes-social">
-                        <iframe width="300" height="700" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FUNAJMAadmision%2F&tabs=timeline&width=300&height=700&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                        <!-- <iframe width="300" height="700" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FUNAJMAadmision%2F&tabs=timeline&width=300&height=700&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
+
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FUNAJMAadmision%2F&tabs=timeline&width=300&height=700&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="300" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                     </div>
 
                 </div>

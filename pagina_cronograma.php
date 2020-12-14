@@ -21,9 +21,26 @@
             
             <div class="pt-3 pb-5">
                 <h1 class="display-4 titulo-temario">
-                    CRONOGRAMA PROCESO DE ADMISIÓN 2020-II
+                    CRONOGRAMA - ADMISIÓN
                 </h1>
             </div>            
+
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN - PRIMERA SELECCIÓN 2021</h5>
+            <hr class="line-reglamento">
+
+            <p>
+                <ul>
+                    <li><b>Inscripción virtual Extraordinario - Primera Selección</b> 	: Hasta el 15 de diciembre.</li><br>
+                    <li><b>Inscripción virtual CEPRE</b>		: . . .</li><br>
+                    <li><b>Examen Extraordinario - Primera Selección</b>			            : 20 de diciembre.</li><br>
+                    <li><b>Examen CEPRE </b>		    : 12 de diciembre.</li><br>
+                    <li><b>Entrega de Constancias</b>		            : . . .</li><br>
+                </ul>
+            </p>
+
+
+            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2020 - II</h5>
+            <hr class="line-reglamento">
 
             <p>
                 <ul>

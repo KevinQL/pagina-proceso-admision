@@ -24,18 +24,36 @@
                 <h1 class="display-4 titulo-temario">
                     REGLAMENTO DE ADMISIÓN
                 </h1>
-            </div>            
+            </div>  
+
+            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN - PRIMERA SELECCIÓN 2021</h5>
+            <hr class="line-reglamento">
+
+            <div>
+                <b>El postulante que se presente al Proceso de Admisión 2021 - I, que se realizará en su modalidad de ingreso:</b>
+                <br>
+                <br>
+                <ul>
+                    <li>EXAMEN EXTRAORDINARIO - PRIMERA SELECCIÓN</li>
+                </ul>
+                <b>LEER OBLIGATORIAMENTE LA DIRECTIVA PARA EL EXAMEN DE ADMISIÓN DEL 5TO DE SECUNDARIA . . . </b>
+                <br>
+                <a href="public/docs/DIR-OCA-UNAJMA-2021-I-02-12-2020.pdf" class="display-5" target="_blank" download>
+                    <i class="fas fa-cloud-download-alt"></i> DESCARGAR EL REGLAMENTO AQUÍ .PDF
+                </a>
+            </div>   
+                
+            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2020 - II</h5>
+            <hr class="line-reglamento">
 
             <div>
                 <b>El postulante que se presente al Proceso de Admisión 2020 - II, que se realizará en sus dos modalidades de ingreso:</b>
-
-                <br><br>
-
+                <br>
+                <br>
                 <ul>
                     <li>EXAMEN ORDINARIO</li>
                     <li>EXAMEN EXTRAORDINARIO</li>
                 </ul>
-                
                 <b>LEER OBLIGATORIAMENTE EL REGLAMENTO DE ADMISIÓN </b>
                 <br>
                 <a href="public/docs/Regl Adm UNAJMA 2020-II - VIRTUAL 31-07-2020.pdf" class="display-5" target="_blank" download>
