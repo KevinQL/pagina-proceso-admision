@@ -26,7 +26,7 @@
                 </h1>
             </div>      
 
-            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN - PRIMERA SELECCIÓN 2021</h5>
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN  2021-1</h5>
             <hr class="line-reglamento">
 
             <div>
@@ -35,7 +35,9 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">ESCUELAS <br> PROFESIONALES</th>
-                            <th scope="col">EXAMEN - PRIMERA SELECCIÓN</th>
+                            <th scope="col">EXAMEN - EXTRAORDINARIO</th>
+                            <th scope="col">EXAMEN - CEPRE</th>
+                            <th scope="col">EXAMEN - ORDINARIO</th>
                             <th scope="col">TOTAL ADMISIÓN</th>
                         </tr>
                     </thead>
@@ -43,50 +45,64 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>ADMINISTRACIÓN DE <br> EMPRESAS</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>CONTABILIDAD</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>EDUCACIÓN <br> PRIMARIA <br> INTERCULTURAL</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                         </tr>
                         <tr>
                             <th scope="row">4</th>
                             <td>INGENIERÍA <br> AMBIENTAL</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                         </tr>
                         <tr>
                             <th scope="row">5</th>
                             <td>INGENIERÍA DE<br> SISTEMAS</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                         </tr>
                         <tr>
                             <th scope="row">6</th>
                             <td>INGENIERÍA <br> AGROINDUSTRIAL</td>
-                            <td>5</td>
-                            <td>5</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                         </tr>
                         <tr>
                             <th scope="row">#</th>
                             <td>TOTAL</td>
-                            <td>30</td>
-                            <td>30</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
-
+<!--
             <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2020 - II</h5>
             <hr class="line-reglamento">
             
@@ -95,7 +111,7 @@
             </p>
 
         </div>
-
+-->
         <!-- PIE DE PAGÍNA -->
         <?php
             include_once('sections/piePagina.html');

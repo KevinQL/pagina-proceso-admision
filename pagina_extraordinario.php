@@ -6,7 +6,7 @@
             require_once('partials/cdnsHeader.html');
         ?>
 
-        <title>Unajma admisión 2020</title>
+        <title>Unajma admisión 2021</title>
     </head>
     <body>
 
@@ -46,7 +46,7 @@
                                 <li>Constancia original de orden de mérito (1ero y 2do puesto) en sus estudios secundarios, expedida por el director del Centro Educativo.</li>
                                 <li>Haber concluido los estudios secundarios hasta dos años anteriores inmediatos a la fecha de inscripción.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -56,7 +56,7 @@
                                 <li>Constancia de Tercio Superior con promedio de calificaciones igual o superior a 14, en sus estudios secundarios.</li>
                                 <li>Haber concluido los estudios secundarios hasta dos años anteriores inmediatos a la fecha de inscripción.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -87,7 +87,7 @@
                                 <li>Certificados originales de estudios universitarios, con calificación aprobatoria y sin enmendaduras, para el caso de universidades del extranjero, presentaran los documentos que evidencien los estudios realizados de nivel universitario revalidado en el ministerio de educación y consulados respectivos.</li> 
                                 <li>Fotocopia autenticada por la universidad de origen del Grado Académico de Bachiller o Título Profesional; o legalizado por notario público. Los procedentes de universidades extranjeras deberán revalidar y legalizar el Grado o Título Profesional por el funcionario Diplomado o Cónsul del Perú en el país de procedencia y refrendado ante el Ministerio de Relaciones Exteriores del Perú.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -97,7 +97,7 @@
                                 <li>Certificados oficiales y originales de estudios superiores, con calificación aprobatoria y sin enmendaduras.</li>
                                 <li>Fotocopia legalizada del Grado Académico y Título Profesional, fotocopia legalizada de la Hoja de Despacho que acredite la procedencia de las Escuelas de Oficiales y Superiores de las Fuerzas Armadas y de la Policía Nacional.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -123,7 +123,7 @@
                                 <li>Presentar la constancia del Registro Único de Víctimas (RUV) o Certificado de acreditación – Ley 28592.</li>
                                 <li>Declaración Jurada de no haber hecho uso de este derecho o modalidad en otra Universidad del país. La Comisión Especial de Admisión, calificará los expedientes para validar su postulación.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -148,7 +148,7 @@
                             <ul>
                                 <li>Copia del carné o de la resolución del Registro Nacional de la Persona con Discapacidad a cargo del CONADIS</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -177,7 +177,7 @@
                                 <li>Constancia de no haber sido sancionado por falta grave o actividades antideportivas por los Tribunales o Comisión de Justicia de la Federación o Comisión Nacional respectiva.</li>
                                 <li>Declaración Jurada señalando que, en caso de obtener una vacante de ingreso a la universidad, se compromete a participar y representar al equipo de su escuela profesional y de la universidad en el deporte de su especialidad en los eventos deportivos que la Universidad lo requiera. de no hacerlo constituye falta grave del estudiante y ser sancionado con el retiro de la universidad. </li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -202,7 +202,7 @@
                             <ul>
                                 <li>Documentos que acrediten haber realizado sus estudios secundarios en el área de influencia del VRAEM.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -230,7 +230,7 @@
                                 <li>Certificados oficiales y originales de estudios universitarios expedida por la oficina de registros académicos. </li>
                                 <li>Constancia de no adeudar bienes a la universidad</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -263,7 +263,7 @@
                                 <li>Adjuntar los sílabos de las asignaturas de los estudios universitarios realizados.</li>
                                 <li>Haber tenido matrícula vigente hasta un año o dos anterior a su postulación.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
@@ -287,7 +287,7 @@
                             <ul>                            
                                 <li>Constancia o documento que indique ser preseleccionado del concurso beca 18 – PRONABEC.</li>
                                 <li>Documento Nacional de Identidad.</li>
-                                <li>Certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
+                                <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>

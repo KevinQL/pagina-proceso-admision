@@ -10,7 +10,7 @@
         <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
-        <title>Unajma admisión 2020 </title>
+        <title>Unajma admisión 2021</title>
     </head>
     
     <body>
@@ -28,10 +28,10 @@
                     <ul class="glide__slides">
 
                         <li class="glide__slide">
-                            <img src="public/img/admision.jpg" class="" alt="...">
+                            <img src="public/img/slider/epis.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="d-md-none"> 
-                                    EXAMÉN DE ADMISIÓN - 2020
+                                    EXAMÉN DE ADMISIÓN - 2021-1
                                     <br>
                                     <a href="index.php#admision" class="btn btn-outline-light btn-lg d-md-none"><i class="fas fa-diagnoses"></i> VER MÁS </a>
                                 </h1>
@@ -145,8 +145,8 @@
                 <div class="row text-center">
                     <div class="col-md-6">
                         <h3 class="py-2">EL ÉXITO DEPENDE DE TI</h3>
-                        <p>Cualquier persona que deja de aprender es viejo, ya sea a los veinte u ochenta. Cualquier persona que sigue aprendiendo se mantiene joven. La cosa más grande en la vida es mantener la mente joven.</p>
-                        <br><p>Henry Ford</p>                        
+                        <p>El éxito depende de la preparación previa, y sin ella seguro que llega el fracaso.</p>
+                        <br><p><h3>(Confucio)</h3></p>                        
                     </div>
                     <div class="col-md-6 icono-d">
                         <i class="fas fa-laptop fa-6x"></i>
@@ -161,7 +161,7 @@
             <div class="container">
                 <div class="col-md-12 seccion-1">
                     <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php">
-                        SISTEMA VIRTUAL ADMISIÓN - PRIMERA SELECCIÓN
+                        SISTEMA VIRTUAL ADMISIÓN
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
@@ -181,10 +181,10 @@
 
         <div class="txt2 ">
             <h4 class="txt-titulo">
-                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Etraordinario - Primera Selección:
+                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Etraordinario 2021-1:
             </h4>
             <ul class="text-left txt-indicaciones"> 
-                <li>Documento Nacional de Identidad.</li>
+                <!--<li>Documento Nacional de Identidad.</li>
                 <li>fotografía actualizada del postulante en formato .JPG</li>
                 <li>Comprobante de Pago por derecho de admisión: </br> 
                     * Colegio Nacional (S/. 150.00 ) </br>
@@ -193,6 +193,7 @@
                 <li>Constancia Firmada por el director del colegio señalando que el postulante se encuentra cursando el último año de educación secundaría</li>
                 <li>Correo electrónico Gmail.</li>
                 <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
+-->
             </ul>
 
             <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
@@ -203,6 +204,7 @@
             </a>  -->
 
 <!-- modal dropdown tarifario -->
+<!--
 <div class="accordion my-2" id="accordionExample">
     <div class="card">
         <div class="card-header" id="headingTwo">
@@ -239,7 +241,7 @@
         </div>
     </div>
 </div>
-
+-->
 
         </div>
     </div>

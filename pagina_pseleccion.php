@@ -22,7 +22,7 @@
 
             <div class="pt-3 pb-5">
                 <h1 class="display-4 titulo-temario">
-                    EXAMEN PRIMERA SELECCIÓN
+                    EXAMEN PRIMERA SELECCIÓN<br>(Cerrado para el Proceso 2021-1).
                 </h1>
             </div>
 

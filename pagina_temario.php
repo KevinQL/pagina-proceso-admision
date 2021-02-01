@@ -6,7 +6,7 @@
             require_once('partials/cdnsHeader.html');
         ?>
 
-        <title>Unajma admisión 2020</title>
+        <title>Unajma admisión 2021</title>
     </head>
     <body>
 
@@ -28,7 +28,7 @@
             </div>
             
 
-            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN - PRIMERA SELECCIÓN 2021</h5>
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN  2021-1 </h5>
             <hr class="line-reglamento">
 
 <div class="t-pdf">
