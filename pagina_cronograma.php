@@ -6,7 +6,7 @@
             require_once('partials/cdnsHeader.html');
         ?>
 
-        <title>Unajma admisión 2020</title>
+        <title>Unajma admisión 2021-1</title>
     </head>
     <body>
 
@@ -21,9 +21,28 @@
             
             <div class="pt-3 pb-5">
                 <h1 class="display-4 titulo-temario">
-                    CRONOGRAMA PROCESO DE ADMISIÓN 2020-II
+                    CRONOGRAMA - ADMISIÓN
                 </h1>
             </div>            
+
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN 2021-1</h5>
+            <hr class="line-reglamento">
+
+            <p>
+                <ul>
+                    <li><b>Inscripción virtual Extraordinario</b> 	: Hasta el 25 de Febrero.</li><br>
+                    <li><b>Inscripción virtual CEPRE</b>		: Hasta el -- de Marzo.</li><br>
+                    <li><b>Inscripción virtual Ordinario</b> 	: Hasta el 18 de Marzo.</li><br>
+                    <li><b>Examen Extraordinario</b>			            : 28 de Febrero.</li><br>
+                    <li><b>Examen CEPRE </b>		    : -- de Marzo.</li><br>
+                    <li><b>Examen Ordinario </b>		    : 21 de Marzo.</li><br>
+                   <!-- <li><b>Entrega de Constancias</b>		            : . . .</li><br>-->
+                </ul>
+            </p>
+
+<!-- 
+            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2020 - II</h5>
+            <hr class="line-reglamento">
 
             <p>
                 <ul>
@@ -36,7 +55,7 @@
                 </ul>
             </p>
 
-        </div>
+        </div>-->
 
         <!-- PIE DE PAGÍNA -->
         <?php
