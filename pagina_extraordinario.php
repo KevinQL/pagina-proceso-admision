@@ -60,6 +60,14 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i> </b> <br>
+                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio nacional: </b> <span class="badge badge-warning">S/. 200.00</span><br>
+                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio particular: </b> <span class="badge badge-warning">S/. 235.00</span><br>
+
+                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio nacional: </b> <span class="badge badge-warning">S/. 200.00</span><br>
+                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio particular: </b> <span class="badge badge-warning">S/. 235.00</span>
+
                         </div>
                     </div>
                 </div>
@@ -94,6 +102,8 @@
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
 
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Graduados, Titulados y miembros de las Fuerzas Armadas </b> <span class="badge badge-warning">S/. 535.00</span> <br>                            
                         </div>
                     </div>
                 </div>
@@ -117,6 +127,9 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Víctima del Terrorismo egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Víctima del Terrorismo egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                         </div>
                     </div>
                 </div>
@@ -139,6 +152,9 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Personas con Discapacidad egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Personas con Discapacidad egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                         </div>
                     </div>
                 </div>
@@ -165,6 +181,9 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Deportista de Alto Nivel egresado de colegio nacional</b> <span class="badge badge-warning">S/. 200.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Deportista de Alto Nivel egresado de colegio particular</b> <span class="badge badge-warning">S/. 235.00</span>
                         </div>
                     </div>
                 </div>
@@ -187,6 +206,9 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Becas VRAEM egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Becas VRAEM egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                         </div>
                     </div>
                 </div>
@@ -218,6 +240,8 @@
                                 <li>Aquellos que hayan ingresado por tener grado académico o título profesional, o por traslado externo.</li>
                                 <li>Aquellos que hayan realizado su traslado interno anteriormente.</li>
                             </ul>
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Derecho por Traslado Interno </b> <span class="badge badge-warning">S/. 275.00</span> <br>                            
                         </div>
                     </div>
                 </div>
@@ -243,19 +267,21 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Derecho por Traslado externo</b> <span class="badge badge-warning">S/. 725.00</span> <br>                            
                         </div>
                     </div>
                 </div>
 
                 <div class="card">
-                    <div class="card-header" id="heading_ocho">
+                    <div class="card-header" id="heading_nueve">
                         <h2 class="mb-0">
-                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_ocho" aria-expanded="false" aria-controls="collapse_ocho">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_nueve" aria-expanded="false" aria-controls="collapse_nueve">
                                 BECA 18
                             </button>
                         </h2>
                     </div>
-                    <div id="collapse_ocho" class="collapse" aria-labelledby="heading_ocho" data-parent="#accordionExample">
+                    <div id="collapse_nueve" class="collapse" aria-labelledby="heading_nueve" data-parent="#accordionExample">
                         <div class="card-body">                            
                             <b>Los postulantes que opten la modalidad de beca 18, deberán presentar los siguientes documentos:</b>
                             <ul>                            
@@ -265,6 +291,9 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+                            <!-- <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>#</b> <span class="badge badge-warning">S/. </span> <br>
+                            <i class="fas fa-tag"></i> <b>#</b> <span class="badge badge-warning">S/. </span> -->
                         </div>
                     </div>
                 </div>

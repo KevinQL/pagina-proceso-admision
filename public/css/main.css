@@ -409,13 +409,38 @@
   }
 }
 .seccion-admision .opaco-admision {
-  background-color: rgba(202, 137, 8, 0.356);
+  background-color: #976f007b;
   position: absolute;
   display: block;
   height: 100%;
   width: 100%;
   top: 0px;
   z-index: 0;
+}
+.seccion-admision .opaco-admision2 {
+  background-color: #8f1d007c;
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  z-index: 0;
+}
+
+.txtm-titulo, .txt-titulo, .txt-indicaciones {
+  font-size: 0.8em;
+}
+
+.txt-titulo {
+  color: tomato;
+}
+
+.txtm-titulo, .txt-indicaciones {
+  color: steelblue;
+}
+.txtm-titulo a, .txt-indicaciones a {
+  text-decoration: none;
+  color: tomato;
 }
 
 .cuerpo-pagina {
@@ -543,6 +568,18 @@
   padding: 0px auto;
 }
 
+.appWhatsapp {
+  position: fixed;
+  right: 26px;
+  bottom: 100px;
+  width: 60px;
+  z-index: 1000;
+}
+.appWhatsapp img {
+  width: 100%;
+  height: auto;
+}
+
 .seccion-footer {
   background-color: rgba(5, 31, 66, 0.925);
 }
@@ -643,6 +680,15 @@
   display: inline-block;
   border-bottom: 1px solid darkgoldenrod;
   padding-left: 100px;
+}
+
+.line-reglamento {
+  height: 2px;
+  border: 0.2px solid rgba(187, 82, 6, 0.385);
+  background: rgba(181, 94, 18, 0.802);
+  width: 10%;
+  text-align: left;
+  left: 0;
 }
 
 /*# sourceMappingURL=main.css.map */

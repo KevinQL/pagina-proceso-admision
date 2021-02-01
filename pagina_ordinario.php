@@ -33,6 +33,10 @@
                     <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                     <li>Fotografía actualizada del postulante en archivo jpg.</li>
                 </ul>
+
+                <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i> </b> <br>
+                <i class="fas fa-tag"></i> <b>Examen ordinario egresado de colegio nacional: </b> <span class="badge badge-warning">S/. 210.00</span><br>
+                <i class="fas fa-tag"></i> <b>Examen ordinario egresado de colegio particular: </b> <span class="badge badge-warning">S/. 245.00</span><br>
             </div>
 
 

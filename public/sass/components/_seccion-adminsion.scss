@@ -143,7 +143,7 @@ $color3-h:#192a56;
     }
 
     .opaco-admision{
-        background-color: $c-fondo-opaco;
+        background-color: #976f007b;
         position: absolute;
         display: block;
         height: 100%;
@@ -152,4 +152,30 @@ $color3-h:#192a56;
         z-index: 0;
     }
 
+    .opaco-admision2{
+        background-color: #8f1d007c;
+        position: absolute;
+        display: block;
+        height: 100%;
+        width: 100%;
+        top: 0px;
+        z-index: 0;
+    }
+
+}
+
+
+// modal inscripcion
+.txtm-titulo, .txt-titulo, .txt-indicaciones{
+    font-size: .8em;
+}
+.txt-titulo{
+    color:tomato;
+}
+.txtm-titulo, .txt-indicaciones{
+    color: steelblue;
+    a{
+        text-decoration: none;
+        color:tomato;
+    }
 }

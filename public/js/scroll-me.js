@@ -13,6 +13,10 @@ var servicios = new SmoothScroll('a[href*="#carreras"]', {
     offset: 100
 });
 
+var comunicados = new SmoothScroll('a[href*="#comunicados"]', {
+    speed: 700,
+    offset: 120
+});
 
 menuScrollPage()
 
@@ -22,7 +26,7 @@ menuScrollPage()
 function menuScrollPage(){
     let URLactual = window.location.hash;
 
-    if(URLactual !== "" && (URLactual === "#admision" || URLactual === "#inicio" || URLactual === "#carreras" ) ){
+    if(URLactual !== "" && (URLactual === "#admision" || URLactual === "#inicio" || URLactual === "#carreras" || URLactual === "#comunicados" ) ){
         setTimeout(() => {
             let btsomos = document.querySelector(`a[href*="${URLactual}"]`);
             btsomos.click();
