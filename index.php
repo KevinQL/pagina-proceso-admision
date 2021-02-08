@@ -194,7 +194,7 @@
                     <!-- </br> * Colegio Nacional (S/. 150.00 ) 
                     </br> * Colegio Particular (S/. 180.00 ) -->
                 </li>
-                <li>Constancia Firmada por el director del colegio señalando que el postulante se encuentra cursando el último año de educación secundaría</li>
+                <li>Certificado de estudios</li>
                 <li>Correo electrónico Gmail.</li>
                 <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
 
