@@ -181,7 +181,7 @@
 
         <div class="txt2 ">
             <h4 class="txt-titulo">
-                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Etraordinario 2021-1:
+                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Extraordinario 2021-1:
             </h4>
             <ul class="text-left txt-indicaciones"> 
                 <!--<li>Documento Nacional de Identidad.</li>
