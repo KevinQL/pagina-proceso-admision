@@ -101,6 +101,7 @@
                     </tbody>
                 </table>
             </div>
+        </div>
 
 <!--
             <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2020 - II</h5>

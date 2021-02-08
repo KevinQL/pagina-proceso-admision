@@ -54,8 +54,9 @@
                     <li><b>Entrega de Constancias</b>		            : 05 y 06 de octubre</li><br>
                 </ul>
             </p>
+        -->
 
-        </div>-->
+        </div>
 
         <!-- PIE DE PAGÍNA -->
         <?php
