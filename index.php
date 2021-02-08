@@ -160,8 +160,9 @@
         <section class="seccion-admision" id="admision2">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php">
-                        SISTEMA VIRTUAL ADMISIÓN
+                    <a href="#">
+                        CUENTA BANCO DE LA NACIÓN : <br>
+                        00 182 00 9784 
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
@@ -169,7 +170,10 @@
                 </div>
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
-                    <a href="#admision2" class="btn-inscribete2">INSCRIBETE AQUÍ</a>
+                    <a href="#admision2" class="btn-inscribete2">
+                        INSCRIBETE AQUÍ <br>
+                        (Extraordinario)
+                    </a>
                 </div>
 
 <!-- MODAL PRÁCTICA -->
@@ -184,19 +188,19 @@
                 El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Extraordinario 2021-1:
             </h4>
             <ul class="text-left txt-indicaciones"> 
-                <!--<li>Documento Nacional de Identidad.</li>
+                <li>Documento Nacional de Identidad.</li>
                 <li>fotografía actualizada del postulante en formato .JPG</li>
-                <li>Comprobante de Pago por derecho de admisión: </br> 
-                    * Colegio Nacional (S/. 150.00 ) </br>
-                    * Colegio Particular (S/. 180.00 )
+                <li>Comprobante de Pago por derecho de admisión: 
+                    <!-- </br> * Colegio Nacional (S/. 150.00 ) 
+                    </br> * Colegio Particular (S/. 180.00 ) -->
                 </li>
                 <li>Constancia Firmada por el director del colegio señalando que el postulante se encuentra cursando el último año de educación secundaría</li>
                 <li>Correo electrónico Gmail.</li>
                 <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
--->
+
             </ul>
 
-            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre.php" target="_blank" class="btn btn-sm btn-info">
+            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre__inscripcion_extraordinario.php" target="_blank" class="btn btn-sm btn-info">
                 ACEPTO Y CONTINUAR
             </a> 
             <!-- <a href="#admision" class="btn btn-sm btn-info">
@@ -269,12 +273,15 @@
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6 txt-ins">
-                            <a href="https://forms.gle/9VoFvf9EETjuh4Cf8" target="_blank"> INSCRIPCIÓN DOCENTE </a>
+                            <a href="#admision" onClick="alert('EN IMPLEMENTACION...')"> 
+                                INSCRIBETE AQUI <br>
+                                (cepre)
+                            </a>
                         </div>
                         <div class="col-6 txt-bcp"gui-ins>
-                            <a href="#admision"> 
-                                CUENTA BANCO DE LA NACIÓN : <br>
-                                00 182 00 9784 
+                            <a href="#admision" onClick="alert('EN IMPLEMENTACION...')"> 
+                                INSCRIBETE AQUI <br>
+                                (ordinario)
                             </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
