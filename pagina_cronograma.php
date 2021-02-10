@@ -30,11 +30,11 @@
 
             <p>
                 <ul>
-                    <li><b>Inscripción virtual Extraordinario</b> 	: Hasta el 25 de Febrero.</li><br>
-                    <li><b>Inscripción virtual CEPRE</b>		: Hasta el -- de Marzo.</li><br>
-                    <li><b>Inscripción virtual Ordinario</b> 	: Hasta el 18 de Marzo.</li><br>
+                    <li><b>Inscripción virtual Extraordinario</b> 	: Hasta el 26 de Febrero.</li><br>
+                   <!--  <li><b>Inscripción virtual CEPRE</b>		: Hasta el -- de Marzo.</li><br> -->
+                    <li><b>Inscripción virtual Ordinario</b> 	: Hasta el 19 de Marzo.</li><br>
                     <li><b>Examen Extraordinario</b>			            : 28 de Febrero.</li><br>
-                    <li><b>Examen CEPRE </b>		    : -- de Marzo.</li><br>
+                    <!-- <li><b>Examen CEPRE </b>		    : -- de Marzo.</li><br> -->
                     <li><b>Examen Ordinario </b>		    : 21 de Marzo.</li><br>
                    <!-- <li><b>Entrega de Constancias</b>		            : . . .</li><br>-->
                 </ul>

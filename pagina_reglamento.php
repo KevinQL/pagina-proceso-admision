@@ -56,7 +56,7 @@
                 </ul>
                 <b>LEER OBLIGATORIAMENTE EL REGLAMENTO DE ADMISIÓN </b>
                 <br>
-                <a href="public/docs/Regl Adm UNAJMA 2020-II - VIRTUAL 31-07-2020.pdf" class="display-5" target="_blank" download>
+                <a href="public/docs/Reglamento de Admisión UNAJMA 2021.pdf" class="display-5" target="_blank" download>
                     <i class="fas fa-cloud-download-alt"></i> DESCARGAR EL REGLAMENTO AQUÍ .PDF
                 </a>
             </div>
