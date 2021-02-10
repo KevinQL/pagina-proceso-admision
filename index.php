@@ -196,6 +196,11 @@
                 </li>
                 <li>Certificado de estudios</li>
                 <li>Correo electrónico Gmail.</li>
+                <li>Estimado postulante recuerda que para poder rendir su examen virtual debe contar con los siguientes requisitos mínimos:</li>
+                <li>Un (01) ambiente privado, sin interrupción de equipos electrónicos encendidos (radio, televisión, celulares, computadoras u otros), acondicionado con una (01) silla y una (01) mesa, escritorio u otro de 1 metro por 60 cm. Aproximadamente.</li>
+                <li>Una (01) computadora o laptop con: -Cámara web operativo. - Conexión a internet por WiFi o cableado. - Capacidad de memoria de 4GB de RAM (recomendado). - Procesador Intel Celeron o superior. - Navegador web Mozilla, Chrome. - Conectada a energía o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
+                <li>Un (01) celular Smartphone con: - Cámara. – Conexión a internet. – Sistema Android compatible con Google Meet. – Conectada a energía eléctrica o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
+                <li>Servicio de internet por un periodo aproximado de dos (02) horas y un ancho de banda mínimo estable de 4 Mbps.</li>
                 <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
 
             </ul>
@@ -275,13 +280,13 @@
                         <div class="col-6 txt-ins">
                             <a href="#admision" onClick="alert('EN IMPLEMENTACION...')"> 
                                 INSCRIBETE AQUI <br>
-                                (cepre)
+                                (CENTRO PRE UNIVERSITARIO "CEPRE")
                             </a>
                         </div>
                         <div class="col-6 txt-bcp"gui-ins>
                             <a href="#admision" onClick="alert('EN IMPLEMENTACION...')"> 
                                 INSCRIBETE AQUI <br>
-                                (ordinario)
+                                (ORDINARIO)
                             </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
@@ -415,7 +420,7 @@
     <div class="tab-content pt-1" id="myTabContent">
         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
             <div class="card bg-dark text-white">
-                <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/CYnlNi-3okg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/N7yxUvfPAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
             </div>
         </div>

@@ -32,7 +32,7 @@
             <hr class="line-reglamento">
 
 <div class="t-pdf">
-    <a href="public/docs/temario-primeraseleccion.pdf"><i class="fas fa-cloud-download-alt"></i> Descargar Temario PDF</a>
+    <a href="public/docs/Temario Admisión 2021-I.pdf"><i class="fas fa-cloud-download-alt"></i> Descargar Temario PDF</a>
 </div>
 
 <h3 class="display-6 titulo-temario my-3">
