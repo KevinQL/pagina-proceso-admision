@@ -149,8 +149,10 @@
                         <br><p><h3>(Confucio)</h3></p>                        
                     </div>
                     <div class="col-md-6 icono-d">
-                        <i class="fas fa-laptop fa-6x"></i>
-                        <h3>SISTEMA VIRTUAL UNAJMA</h3>
+                        <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php" class="text-white" target="_blank">
+                            <i class="fas fa-laptop fa-6x"></i>
+                            <h3>SISTEMA VIRTUAL UNAJMA</h3>
+                        </a>
                     </div>
                 </div>
             </div>
