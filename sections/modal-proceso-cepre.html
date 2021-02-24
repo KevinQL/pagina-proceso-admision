@@ -1,0 +1,61 @@
+<!-- MODAL CEPRE -->
+    <!-- modificar esta seccion -->
+    <div class="d-none modal-inscripcion">
+        <h1 class="txtm-titulo21">
+            <strong class='txtm-titulo21'>IMPORTANTE <br> Postulante Cepre</strong>
+        </h1>
+
+        <div class="txt21 ">
+            <h4 class="txt-titulo">
+                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Cepre 2021-1:
+            </h4>
+            <ul class="text-left txt-indicaciones"> 
+                <li>Documento Nacional de Identidad.</li>
+                <li>fotografía actualizada del postulante en formato .JPG</li>
+                <li>Certificado de estudios</li>
+                <li>Correo electrónico Gmail.</li>
+                <li>Estimado postulante recuerda que para poder rendir su examen virtual debe contar con los siguientes requisitos mínimos:</li>
+                <li>Un (01) ambiente privado, sin interrupción de equipos electrónicos encendidos (radio, televisión, celulares, computadoras u otros), acondicionado con una (01) silla y una (01) mesa, escritorio u otro de 1 metro por 60 cm. Aproximadamente.</li>
+                <li>Una (01) computadora o laptop con: -Cámara web operativo. - Conexión a internet por WiFi o cableado. - Capacidad de memoria de 4GB de RAM (recomendado). - Procesador Intel Celeron o superior. - Navegador web Mozilla, Chrome. - Conectada a energía o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
+                <li>Un (01) celular Smartphone con: - Cámara. – Conexión a internet. – Sistema Android compatible con Google Meet. – Conectada a energía eléctrica o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
+                <li>Servicio de internet por un periodo aproximado de dos (02) horas y un ancho de banda mínimo estable de 4 Mbps.</li>
+                <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
+
+            </ul>
+
+            <!-- <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre__inscripcion_cepre.php" target="_blank" class="btn btn-sm btn-info">
+                ACEPTO Y CONTINUAR
+            </a>  -->
+            <a href="#" class="btn btn-sm btn-info">
+                En Implementacion
+            </a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <!-- script modal sweet -->
+    <script>
+        let titulo21 = document.querySelector(".txtm-titulo21").innerHTML
+        let msj21 = document.querySelector(".txt21").innerHTML;
+        let btn_inscribete21 = document.querySelector(".btn-inscribete21");
+
+        btn_inscribete21.addEventListener('click',function(e){
+            // e.preventDefault();
+            Swal.fire({
+                title: `<strong class='txt-titulo'>${titulo21}</strong>`,
+                icon: 'info',
+                html: `${msj21}`,
+                showCloseButton: true,
+                showConfirmButton: false,
+                showCancelButton: false,
+            })    
+        });
+    </script>
+<!-- FIN MODAL INSCRIBETE -->
