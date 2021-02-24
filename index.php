@@ -149,8 +149,10 @@
                         <br><p><h3>(Confucio)</h3></p>                        
                     </div>
                     <div class="col-md-6 icono-d">
-                        <i class="fas fa-laptop fa-6x"></i>
-                        <h3>SISTEMA VIRTUAL UNAJMA</h3>
+                        <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php" class="text-white" target="_blank">
+                            <i class="fas fa-laptop fa-6x"></i>
+                            <h3>SISTEMA VIRTUAL UNAJMA</h3>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -175,122 +177,35 @@
                         (Extraordinario)
                     </a>
                 </div>
-
-<!-- MODAL PRÁCTICA -->
-    <!-- modificar esta seccion -->
-    <div class="d-none modal-inscripcion">
-        <h1 class="txtm-titulo2">
-            <strong class='txtm-titulo2'>IMPORTANTE</strong>
-        </h1>
-
-        <div class="txt2 ">
-            <h4 class="txt-titulo">
-                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Extraordinario 2021-1:
-            </h4>
-            <ul class="text-left txt-indicaciones"> 
-                <li>Documento Nacional de Identidad.</li>
-                <li>fotografía actualizada del postulante en formato .JPG</li>
-                <li>Comprobante de Pago por derecho de admisión: 
-                    <!-- </br> * Colegio Nacional (S/. 150.00 ) 
-                    </br> * Colegio Particular (S/. 180.00 ) -->
-                </li>
-                <li>Certificado de estudios</li>
-                <li>Correo electrónico Gmail.</li>
-                <li>Estimado postulante recuerda que para poder rendir su examen virtual debe contar con los siguientes requisitos mínimos:</li>
-                <li>Un (01) ambiente privado, sin interrupción de equipos electrónicos encendidos (radio, televisión, celulares, computadoras u otros), acondicionado con una (01) silla y una (01) mesa, escritorio u otro de 1 metro por 60 cm. Aproximadamente.</li>
-                <li>Una (01) computadora o laptop con: -Cámara web operativo. - Conexión a internet por WiFi o cableado. - Capacidad de memoria de 4GB de RAM (recomendado). - Procesador Intel Celeron o superior. - Navegador web Mozilla, Chrome. - Conectada a energía o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
-                <li>Un (01) celular Smartphone con: - Cámara. – Conexión a internet. – Sistema Android compatible con Google Meet. – Conectada a energía eléctrica o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
-                <li>Servicio de internet por un periodo aproximado de dos (02) horas y un ancho de banda mínimo estable de 4 Mbps.</li>
-                <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
-
-            </ul>
-
-            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre__inscripcion_extraordinario.php" target="_blank" class="btn btn-sm btn-info">
-                ACEPTO Y CONTINUAR
-            </a> 
-            <!-- <a href="#admision" class="btn btn-sm btn-info">
-                ACEPTO Y CONTINUAR
-            </a>  -->
-
-<!-- modal dropdown tarifario -->
-<!--
-<div class="accordion my-2" id="accordionExample">
-    <div class="card">
-        <div class="card-header" id="headingTwo">
-            <h2 class="mb-0">
-                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    TARIFARIO ADMISIÓN <i class="fas fa-angle-down ml-1"></i>
-                </button>
-            </h2>
-        </div>
-        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-            <div class="card-body">
-                <table class="table table-striped">
-                    <thead>
-                        <tr>
-                            <th scope="col">ÍTEM</th>
-                            <th scope="col">DESCRIPCIÓN</th>
-                            <th scope="col">DERECHO DE TRÁMITE</th>                        
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>Estudiante Colegio Particular.</td>
-                            <td>S/. 180.00</td>                        
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Estudiante Colegio Nacional</td>
-                            <td>S/. 150.00</td>                        
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-    </div>
-</div>
--->
-
-        </div>
-    </div>
-
-    <!-- script modal sweet -->
-    <script>
-        let titulo2 = document.querySelector(".txtm-titulo2").innerHTML
-        let msj2 = document.querySelector(".txt2").innerHTML;
-        let btn_inscribete2 = document.querySelector(".btn-inscribete2");
-
-        btn_inscribete2.addEventListener('click',function(e){
-            // e.preventDefault();
-            Swal.fire({
-                title: `<strong class='txt-titulo'>${titulo2}</strong>`,
-                icon: 'info',
-                html: `${msj2}`,
-                showCloseButton: true,
-                showConfirmButton: false,
-                showCancelButton: false,
-            })    
-        });
-    </script>
-<!-- FIN MODAL INSCRIBETE -->
+                <?php
+                    // MODAL EXTRAORDNIRIO  
+                    include_once("sections/modal-proceso-extraordinario.html");
+                ?>
 
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6 txt-ins">
-                            <a href="#admision" onClick="alert('EN IMPLEMENTACION...')"> 
+                            <a href="#admision" class="btn-inscribete21"> 
                                 INSCRIBETE AQUI <br>
                                 (CENTRO PRE UNIVERSITARIO "CEPRE")
                             </a>
                         </div>
-                        <div class="col-6 txt-bcp"gui-ins>
-                            <a href="#admision" onClick="alert('EN IMPLEMENTACION...')"> 
+                        <?php
+                            // MODAL CEPRE  
+                            include_once("sections/modal-proceso-cepre.html");
+                        ?>
+                        <div class="col-6 txt-bcp gui-ins">
+                            <a href="#admision" class="btn-inscribete22"> 
                                 INSCRIBETE AQUI <br>
                                 (ORDINARIO)
                             </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
+                        <?php
+                            // MODAL ORDINARIO  
+                            include_once("sections/modal-proceso-ordinario.html");
+                        ?>
                     </div>
                 </div>
             </div>
