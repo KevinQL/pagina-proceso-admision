@@ -36,7 +36,7 @@
                             <th scope="col">#</th>
                             <th scope="col">ESCUELAS <br> PROFESIONALES</th>
                             <th scope="col">EXAMEN - EXTRAORDINARIO</th>
-                            <th scope="col">EXAMEN - CEPRE</th>
+                            <!-- <th scope="col">EXAMEN - CEPRE</th> -->
                             <th scope="col">EXAMEN - ORDINARIO</th>
                             <th scope="col">TOTAL ADMISIÓN</th>
                         </tr>
@@ -45,66 +45,66 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>ADMINISTRACIÓN DE <br> EMPRESAS</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>33</td>
+                            <!-- <td>17</td> -->
+                            <td>17</td>
+                            <td>50</td>
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>CONTABILIDAD</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>33</td>
+                            <!-- <td>-</td> -->
+                            <td>17</td>
+                            <td>50</td>
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>EDUCACIÓN <br> PRIMARIA <br> INTERCULTURAL</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>33</td>
+                           <!--  <td>-</td> -->
+                            <td>17</td>
+                            <td>50</td>
                         </tr>
                         <tr>
                             <th scope="row">4</th>
                             <td>INGENIERÍA <br> AMBIENTAL</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>33</td>
+                            <!-- <td>-</td> -->
+                            <td>17</td>
+                            <td>50</td>
                         </tr>
                         <tr>
                             <th scope="row">5</th>
                             <td>INGENIERÍA DE<br> SISTEMAS</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>33</td>
+                            <!-- <td>-</td> -->
+                            <td>17</td>
+                            <td>50</td>
                         </tr>
                         <tr>
                             <th scope="row">6</th>
                             <td>INGENIERÍA <br> AGROINDUSTRIAL</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>33</td>
+                            <!-- <td>-</td> -->
+                            <td>17</td>
+                            <td>50</td>
                         </tr>
                         <tr>
                             <th scope="row">#</th>
                             <td>TOTAL</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>198</td>
+                           <!--  <td>-</td> -->
+                           <td>102</td>
+                            <td>300</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
         </div>
 
-<!--
-            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2020 - II</h5>
+
+            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2021 - I EXTRAORDINARIO</h5>
             <hr class="line-reglamento">
             
             <p>
@@ -112,7 +112,7 @@
             </p>
 
         </div>
--->
+
         <!-- PIE DE PAGÍNA -->
         <?php
             include_once('sections/piePagina.html');
