@@ -106,10 +106,136 @@
 
             <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2021 - I EXTRAORDINARIO</h5>
             <hr class="line-reglamento">
+           
+    <div class="container text-small my-4"  style="width:100%; height:100%; overflow-x: scroll; ">
+    <table class="table">
+        <thead>
+            <tr class="p-3 mb-2 bg-primary text-white">
+                <th colspan="12" class="text-center">EXAMEN DE ADMISIÓN EXTRAORDINARIO</th>
+            </tr>
             
-            <p>
-                <img src="public/img/cuadro_vacantes.jpg" alt="" class="img-fluid w-100 border-dark">
-            </p>
+            <tr>
+                <th class="p-3 mb-2 bg-primary text-white align-top">ESCUELAS PROFESIONALES</th>
+                <th class="table-primary align-top">CENTRO PRE UNIVERSITARIO</th>
+                <th class="table-primary align-top">PRIMERA SELECCIÓN</th>
+                <th class="table-primary align-top">BECAS VRAE</th>
+                <th class="table-primary align-top">PRIMEROS PUESTOS Y ALTO RENDIMIENTO</th>
+                <th class="table-primary align-top">PERSONAS CON DISCAPACIDAD</th>
+                <th class="table-primary align-top">GRADUADOS Y TITULADOS</th>
+                <th class="table-primary align-top">VICTIMAS DE VIOLENCIA POLITICA</th>
+                <th class="table-primary align-top">TRASLADO INTERNO</th>
+                <th class="table-primary align-top">DEPORTISTAS CALIFICADOS Y DESTACADOS</th>
+                <th class="table-primary align-top">MODALIDAD BECA 18</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">TOTAL ADMISIÓN</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th class="p-3 mb-2 bg-primary text-white align-top">ADMINISTRACIÓN DE EMPRESAS</th>
+                <th class="table-primary align-top text-center">17</th>
+                <th class="table-primary align-top text-center">5</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">2</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">3</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top text-center">33</th>
+            </tr>
+
+            <tr>
+                <th class="p-3 mb-2 bg-primary text-white align-top">CONTABILIDAD</th>
+                <th class="table-primary align-top text-center">17</th>
+                <th class="table-primary align-top text-center">5</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">2</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">3</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top text-center">33</th>
+            </tr>
+
+            <tr>
+                <th class="p-3 mb-2 bg-primary text-white align-top">EDUCACIÓN PRIMARIA INTERCULTURAL</th>
+                <th class="table-primary align-top text-center">17</th>
+                <th class="table-primary align-top text-center">5</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">2</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">3</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top text-center">33</th>
+            </tr>
+
+            <tr>
+                <th class="p-3 mb-2 bg-primary text-white align-top">INGENIERÍA AMBIENTAL</th>
+                <th class="table-primary align-top text-center">17</th>
+                <th class="table-primary align-top text-center">5</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">2</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">3</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top text-center">33</th>
+            </tr>
+
+            <tr>
+                <th class="p-3 mb-2 bg-primary text-white align-top">INGENIERÍA DE SISTEMAS</th>
+                <th class="table-primary align-top text-center">17</th>
+                <th class="table-primary align-top text-center">5</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">2</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">3</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top text-center">33</th>
+            </tr>
+
+            <tr>
+                <th class="p-3 mb-2 bg-primary text-white align-top">INGENIERÍA AGROINDUSTRIAL</th>
+                <th class="table-primary align-top text-center">17</th>
+                <th class="table-primary align-top text-center">5</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">2</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">1</th>
+                <th class="table-primary align-top text-center">3</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top text-center">33</th>
+            </tr>
+
+            <tr class="text-center">
+                <th class="p-3 mb-2 bg-primary text-white align-top">TOTAL</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">102</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">30</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">12</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">18</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top text-center">198</th>
+            </tr>
+        </tbody>
+    </table>
 
         </div>
 
