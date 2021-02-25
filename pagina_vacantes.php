@@ -220,7 +220,7 @@
                 <th class="p-3 mb-2 bg-primary text-white align-top text-center">33</th>
             </tr>
 
-            <tr>
+            <tr class="text-center">
                 <th class="p-3 mb-2 bg-primary text-white align-top">TOTAL</th>
                 <th class="p-3 mb-2 bg-primary text-white align-top">102</th>
                 <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
