@@ -230,7 +230,7 @@
                 <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
                 <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
                 <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
-                <th class="p-3 mb-2 bg-primary text-white align-top">6</th>
+                <th class="p-3 mb-2 bg-primary text-white align-top">6</th> 
                 <th class="p-3 mb-2 bg-primary text-white align-top">18</th>
                 <th class="p-3 mb-2 bg-primary text-white align-top text-center">198</th>
             </tr>
