@@ -107,7 +107,7 @@
             <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2021 - I EXTRAORDINARIO</h5>
             <hr class="line-reglamento">
            
-
+    <div class="container text-small my-4"  style="width:100%; height:100%; overflow-x: scroll; ">
     <table class="table">
         <thead>
             <tr class="p-3 mb-2 bg-primary text-white">
