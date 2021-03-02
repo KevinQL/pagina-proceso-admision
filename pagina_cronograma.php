@@ -30,7 +30,7 @@
 
             <p>
                 <ul>
-                    <li><b>Inscripción virtual Extraordinario</b> 	: Hasta el 26 de Febrero.</li><br>
+                    <li><b>Inscripción virtual Extraordinario</b> 	: Hasta el 26 de Febrero. (hasta las 12:00 pm)</li><br>
                    <!--  <li><b>Inscripción virtual CEPRE</b>		: Hasta el -- de Marzo.</li><br> -->
                     <li><b>Inscripción virtual Ordinario</b> 	: Hasta el 19 de Marzo.</li><br>
                     <li><b>Examen Extraordinario</b>			            : 28 de Febrero.</li><br>
