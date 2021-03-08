@@ -1,0 +1,93 @@
+<!-- MODAL PRÁCTICA -->
+    <!-- modificar esta seccion -->
+    <div class="d-none modal-inscripcion">
+        <h1 class="txtm-titulo2">
+            <strong class='txtm-titulo2'>IMPORTANTE <br> Postulante Extraordinario - Traslado</strong>
+        </h1>
+
+        <div class="txt2 ">
+            <h4 class="txt-titulo">
+                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de Extraordinario -Traslados 2021-1:
+            </h4>
+            <ul class="text-left txt-indicaciones"> 
+                <li>Haber aprobado por lo menos 22 créditos o un (01) periodo lectivo semestral como estudiante regular</li>
+                <li>Documento Nacional de Identidad.</li>
+                <li>fotografía actualizada del postulante en formato .JPG</li>
+                <li>Comprobante de pago por el monto de 725.00 soles</li>
+                <li>Certificado de estudios universitarios o constancia de notas (original o legalizado en ambos casos), o copia simple de los mismos documentos, adjuntando una declaración jurada legalizada, con cargo a regularizar si es admitido los originales y/o legalizados.</li>
+                <li>Constancia de matrícula vigente al año que fue denegada el licenciamiento de la universidad de origen</li>
+                <li>Certificado de estudios originales de los cinco años de Educación Secundaria</li>
+                <li>Partida de Nacimiento Original</li>
+                <li>Correo electrónico Gmail.</li>
+                <li>Tener en cuenta la directiva de traslados <a href="public/docs/RESOLUCIÓN_N_046-2021-CO-UNAJMA.pdf" target="_blank">VER AQUÍ</a>.</li>
+
+                <li>Tener en cuenta los manuales para no tener incovenientes <a href="index.php#comunicados" onclick="cerrar_modal()">ver aquí</a></li>
+
+            </ul>
+
+            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre__inscripcion_traslado.php" target="_blank" class="btn btn-sm btn-info">
+                ACEPTO Y CONTINUAR
+            </a> 
+
+            <!-- modal dropdown tarifario -->
+            <!--
+            <div class="accordion my-2" id="accordionExample">
+                <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                TARIFARIO ADMISIÓN <i class="fas fa-angle-down ml-1"></i>
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">ÍTEM</th>
+                                        <th scope="col">DESCRIPCIÓN</th>
+                                        <th scope="col">DERECHO DE TRÁMITE</th>                        
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th scope="row">1</th>
+                                        <td>Estudiante Colegio Particular.</td>
+                                        <td>S/. 180.00</td>                        
+                                    </tr>
+                                    <tr>
+                                        <th scope="row">2</th>
+                                        <td>Estudiante Colegio Nacional</td>
+                                        <td>S/. 150.00</td>                        
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            -->
+
+        </div>
+    </div>
+
+    <!-- script modal sweet -->
+    <script>
+        let titulo2 = document.querySelector(".txtm-titulo2").innerHTML
+        let msj2 = document.querySelector(".txt2").innerHTML;
+        let btn_inscribete2 = document.querySelector(".btn-inscribete2");
+
+        btn_inscribete2.addEventListener('click',function(e){
+            // e.preventDefault();
+            Swal.fire({
+                title: `<strong class='txt-titulo'>${titulo2}</strong>`,
+                icon: 'info',
+                html: `${msj2}`,
+                showCloseButton: true,
+                showConfirmButton: false,
+                showCancelButton: false,
+            })    
+        });
+    </script>
+<!-- FIN MODAL INSCRIBETE -->

@@ -178,8 +178,10 @@
                     </a>
                 </div>
                 <?php
+                    // EXTRAORDINARIO TRASLADO
+                    include_once("sections/modal-proceso-traslado.html");
                     // MODAL EXTRAORDNIRIO  
-                    include_once("sections/modal-proceso-extraordinario.html");
+                    // include_once("sections/modal-proceso-extraordinario.html");
                 ?>
 
                 <div class="col-md-12 seccion-3">
