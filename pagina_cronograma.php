@@ -32,11 +32,17 @@
                 <ul>
                     <li><b>Inscripción virtual Extraordinario</b> 	: Hasta el 26 de Febrero. (hasta las 12:00 pm)</li><br>
                    <!--  <li><b>Inscripción virtual CEPRE</b>		: Hasta el -- de Marzo.</li><br> -->
-                    <li><b>Inscripción virtual Ordinario</b> 	: Hasta el 19 de Marzo.</li><br>
+                    <li><b>Inscripción virtual Ordinario</b> 	: Hasta el 18 de Marzo.(medio día)</li><br>
                     <li><b>Examen Extraordinario</b>			            : 28 de Febrero.</li><br>
                     <!-- <li><b>Examen CEPRE </b>		    : -- de Marzo.</li><br> -->
-                    <li><b>Examen Ordinario </b>		    : 21 de Marzo.</li><br>
+                    <li><b>Examen Ordinario </b>		    : 20 de Marzo.</li><br>
                    <!-- <li><b>Entrega de Constancias</b>		            : . . .</li><br>-->
+
+                   <h5 class="text-center text-lead ">TRASLADOS EXTERNOS DE ESTUDIANTES DE UNIVERSIDADES CON LICENCIAMIENTO DENEGADO 2021-1</h5>
+                    <hr class="line-reglamento">
+                    <li><b>Inscripción y recepción de documentos</b> 	: Hasta el 19 de Marzo.</li><br>
+                    <li><b>Evaluación y convalidación</b> 	: del 22 de Marzo al 24 de Marzo.</li><br>
+                    <li><b>Publicación de resultados</b> 	: 26 de Marzo.</li><br>
                 </ul>
             </p>
 
