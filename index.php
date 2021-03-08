@@ -28,7 +28,7 @@
                     <ul class="glide__slides">
 
                         <li class="glide__slide">
-                            <img src="public/img/slider/epis.jpg" class="" alt="...">
+                            <img src="public/img/slider/admision_f.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="d-md-none"> 
                                     EXAMÉN DE ADMISIÓN - 2021-1
@@ -174,7 +174,7 @@
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
                     <a href="#admision2" class="btn-inscribete2">
                         INSCRIBETE AQUÍ <br>
-                        (Extraordinario)
+                        (Traslado Universidades no Licenciadas)
                     </a>
                 </div>
                 <?php
