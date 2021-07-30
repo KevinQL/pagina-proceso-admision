@@ -58,6 +58,11 @@
                 <br>
                 <a href="public/docs/Reglamento de Admisión UNAJMA 2021.pdf" class="display-5" target="_blank" download>
                     <i class="fas fa-cloud-download-alt"></i> DESCARGAR EL REGLAMENTO AQUÍ .PDF
+                </a><br>
+                <b>DIRECTIVA DE TRASLADOS EXTERNOS DE ESTUDIANTES DE UNIVERSIDADES CON LICENCIAMIENTO DENEGADO  </b>
+                <br>
+                <a href="public/docs/RESOLUCIÓN Nº 046-2021-CO-UNAJMA_.pdf" class="display-5" target="_blank" download>
+                    <i class="fas fa-cloud-download-alt"></i> DESCARGAR LA DIRECTIVA AQUÍ .PDF
                 </a>
             </div>
 

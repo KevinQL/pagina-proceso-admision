@@ -143,17 +143,7 @@ $color3-h:#192a56;
     }
 
     .opaco-admision{
-        background-color: #976f007b;
-        position: absolute;
-        display: block;
-        height: 100%;
-        width: 100%;
-        top: 0px;
-        z-index: 0;
-    }
-
-    .opaco-admision2{
-        background-color: #8f1d007c;
+        background-color: $c-fondo-opaco;
         position: absolute;
         display: block;
         height: 100%;
