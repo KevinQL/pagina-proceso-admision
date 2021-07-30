@@ -28,12 +28,13 @@
                     <ul class="glide__slides">
 
                         <li class="glide__slide">
-                            <img src="public/img/slider/admision_f.jpg" class="" alt="...">
+                            <!-- <img src="public/img/slider/admision_f.jpg" class="" alt="..."> -->
+                            <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
-                                <h1 class="d-md-none"> 
+                                <h1 class=""> <!-- d-md-none  -->
                                     EXAMÉN DE ADMISIÓN - 2021-1
                                     <br>
-                                    <a href="index.php#admision" class="btn btn-outline-light btn-lg d-md-none"><i class="fas fa-diagnoses"></i> VER MÁS </a>
+                                    <a href="index.php#admision2" class="btn btn-outline-light btn-lg "><i class="fas fa-diagnoses"></i> VER MÁS </a>
                                 </h1>
                             </div>  
                         </li>
@@ -172,14 +173,14 @@
                 </div>
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
-                    <a href="#admision2" class="btn-inscribete2">
-                        INSCRIBETE AQUÍ <br>
-                        (Traslado Universidades no Licenciadas)
+                    <a href="#admision" class="btn-inscribete22"> 
+                        INSCRIBETE AQUI <br>
+                        (ORDINARIO)
                     </a>
                 </div>
                 <?php
                     // EXTRAORDINARIO TRASLADO
-                    include_once("sections/modal-proceso-traslado.html");
+                    include_once("sections/modal-proceso-ordinario.html");
                     // MODAL EXTRAORDNIRIO  
                     // include_once("sections/modal-proceso-extraordinario.html");
                 ?>
@@ -197,16 +198,16 @@
                             include_once("sections/modal-proceso-cepre.html");
                         ?>
                         <div class="col-6 txt-bcp gui-ins">
-                            <a href="#admision" class="btn-inscribete22"> 
-                                INSCRIBETE AQUI <br>
-                                (ORDINARIO)
+                            <a href="#admision2" class="btn-inscribete2">
+                                INSCRIBETE AQUÍ <br>
+                                (Traslado Universidades no Licenciadas)
                             </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
                         <?php
-                            // MODAL ORDINARIO  
-                            include_once("sections/modal-proceso-ordinario.html");
+                            // MODAL
+                            include_once("sections/modal-proceso-traslado.html");
                         ?>
                     </div>
                 </div>
@@ -480,6 +481,49 @@
             </div>
         </section>
 
+        <div class="">
+
+            <!-- Button trigger modal -->
+            <button type="button" class="btn-m-aviso" data-toggle="modal" data-target="#exampleModal">
+                Cargado...
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Aviso Examen Ordinario</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <!-- <img src="public/img/mpresencial2021.jpeg" class="card-img-top" alt="..."> -->
+                    <h5 class="text-lead bold">COMUNICADO 005-2021-OCA-UNAJMA</h5>
+                    <div class="text-justify px-3">
+                        <br>
+                        Como resultado del análisis de los reportes de salubridad en la provincia de Andahuaylas donde persiste las difíciles circunstancias de salubridad frente a la pandemia del COVID-19, así como de las coordinaciones realizadas con la Dirección de Salud Apurímac II – DISA II, <b>el examen de admisión ordinario presencial programado para el día sábado 8 de mayo queda suspendido</b>. La UNAJMA prioriza la salud y la vida de las personas.
+                        <br><br>
+                        Asimismo, se pone de conocimiento a los postulantes inscritos del examen de admisión ordinario presencial 2021-I que a través de un comunicado que <b>será remitido al correo electrónico que brindaron en su inscripción se les pondrá en conocimiento la nueva fecha del examen de admisión</b>.
+                        <br><br>
+                        Cabe mencionar que la Universidad Nacional José María Arguedas está en permanente <b>coordinación con la Dirección de Salud Apurímac II</b>, para que el examen presencial se realice en cumplimiento de las normas de bioseguridad emitidas por el Estado para afrontar la pandemia COVID-19.
+                        <br><br>
+                        Atentamente, 
+                        <br>
+                        Comisión Especial de Admisión
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                </div>
+                </div>
+            </div>
+            </div>
+
+        </div>
+
 
         <!-- PIE DE PAGÍNA -->
         <?php
@@ -491,6 +535,19 @@
         <?php
             require_once('partials/cdnsFooter.html');
         ?>
+
+
+        <!-- MODAL INSCRIPCIONES 2021 PRESENCIAL -->
+        <script>
+            console.log("iniciando imoplementacion")
+            setTimeout(() => {
+                console.log("HABRIENDO MODAL")
+                let btnaviso = document.querySelector(".btn-m-aviso");
+                btnaviso.click();
+                btnaviso.style.display = "none"
+            }, 3000);
+
+        </script>
 
     </body>
 </html>
