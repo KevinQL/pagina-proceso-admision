@@ -32,13 +32,17 @@
                             <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class=""> <!-- d-md-none  -->
-                                    EXAMÉN DE ADMISIÓN - 2021-1
+                                    EXAMÉN DE ADMISIÓN - 2021-2
                                     <br>
-                                    <a href="index.php#admision2" class="btn btn-outline-light btn-lg "><i class="fas fa-diagnoses"></i> VER MÁS </a>
+                                    <a href="index.php#admision2" class="btn btn-outline-light btn-lg ">
+                                        <i class="fas fa-diagnoses"></i> 
+                                        INSCRIPCIONES 
+                                        <i class="fas fa-diagnoses"></i> 
+                                    </a>
                                 </h1>
                             </div>  
                         </li>
-                        <li class="glide__slide">
+                        <!-- <li class="glide__slide">
                             <img src="public/img/slider/administracion.JPG" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1>PABELLÓN DE ADMINISTRACIÓN DE EMPRESAS</h1>
@@ -55,7 +59,7 @@
                             <div class="texto-slider text-center">
                                 <h1>PABELLÓN DE INGENIERÍA DE SISTEMAS</h1>
                             </div> 
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
         
@@ -67,8 +71,8 @@
                 <div class="glide__bullets" data-glide-el="controls[nav]">
                     <button class="glide__bullet color-secundario" data-glide-dir="=0"></button>
                     <button class="glide__bullet color-secundario" data-glide-dir="=1"></button> 
-                    <button class="glide__bullet color-secundario" data-glide-dir="=2"></button> 
-                    <button class="glide__bullet color-secundario" data-glide-dir="=3"></button> 
+                    <!-- <button class="glide__bullet color-secundario" data-glide-dir="=2"></button> 
+                    <button class="glide__bullet color-secundario" data-glide-dir="=3"></button>  -->
                 </div>
             </div> 
 
@@ -460,7 +464,7 @@
                                 assignment_turned_in
                             </span>
                             </br>
-                            <h4 class="texto-a">Reglamento</h4>
+                            <h4 class="texto-a">Reglamento/h4>
                         </a>
                         <!-- <img src="public/img/reglamento-admision3.png" alt="" class="img img-fluid "> -->
                     </div>
