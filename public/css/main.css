@@ -14,6 +14,26 @@
   background-color: rgba(5, 31, 66, 0.801);
 }
 
+.text-admision {
+  color: #0E315F;
+  font-weight: bold;
+}
+
+.text-admision2 {
+  color: #e63946;
+}
+
+.text-admision3 {
+  color: #82431A;
+  font-weight: bolder;
+  font-style: unset;
+}
+
+.text-admision4 {
+  color: #847FB5;
+  font-weight: bold;
+}
+
 .header-navegacion {
   position: sticky;
   top: 0px;
@@ -221,7 +241,13 @@
   width: 100vw;
   height: 90vh;
   top: 0px;
-  background-color: rgba(80, 61, 23, 0.294);
+  background-color: #8241198a;
+  background: #183050;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #82431A, transparent);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #82431A, transparent);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
   z-index: 1000;
   display: flex;
@@ -234,13 +260,18 @@
     // para centrar el texto en modo resposivo
     Este valor viene dado por el vh del slider en modo responsive
     */
-    background-color: rgba(80, 61, 23, 0.801);
+    background-color: rgba(80, 23, 23, 0.801);
     height: 60vh;
   }
 }
 
 .seccion-carreras {
-  background-color: whitesmoke;
+  background: #183050;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #82431A, #183050);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #82431A, #183050);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   overflow: hidden;
 }
 @media all and (max-width: 500px) {
@@ -290,7 +321,7 @@
 }
 
 .seccion-admision {
-  background-image: url(../img/slider/pabellon-comedor.jpg);
+  background-image: url(../img/slider/agro.JPG);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -356,12 +387,9 @@
   border: 0.1px solid white;
   background-color: #fbc531ad;
   font-size: 1.3rem;
-  padding: 0% 5%;
+  padding: 4vh 5%;
   height: 20vh;
   width: 70%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .seccion-admision .container .seccion-2 a:hover {
   background-color: #fbc531;
@@ -388,12 +416,9 @@
   border: 0.1px solid white;
   background-color: #192a56ad;
   font-size: 1.3rem;
-  padding: 0% 5%;
+  padding: 4vh 5%;
   height: 20vh;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .seccion-admision .container .seccion-3 div a:hover {
   background-color: #192a56;
@@ -405,20 +430,16 @@
     padding: 0px 2px;
   }
   .seccion-admision .container .seccion-3 div a {
-    font-size: 1em;
+    font-size: 0.9em;
   }
 }
 .seccion-admision .opaco-admision {
-  background-color: #976f007b;
-  position: absolute;
-  display: block;
-  height: 100%;
-  width: 100%;
-  top: 0px;
-  z-index: 0;
-}
-.seccion-admision .opaco-admision2 {
-  background-color: #8f1d007c;
+  background: #183050;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #4286f473, #183050);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #4286f473, #183050);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   position: absolute;
   display: block;
   height: 100%;
@@ -680,15 +701,6 @@
   display: inline-block;
   border-bottom: 1px solid darkgoldenrod;
   padding-left: 100px;
-}
-
-.line-reglamento {
-  height: 2px;
-  border: 0.2px solid rgba(187, 82, 6, 0.385);
-  background: rgba(181, 94, 18, 0.802);
-  width: 10%;
-  text-align: left;
-  left: 0;
 }
 
 /*# sourceMappingURL=main.css.map */

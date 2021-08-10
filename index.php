@@ -31,12 +31,12 @@
                             <!-- <img src="public/img/slider/admision_f.jpg" class="" alt="..."> -->
                             <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
-                                <h1 class=""> <!-- d-md-none  -->
-                                    EXAMÉN DE ADMISIÓN - 2021-2
+                                <h1 class="display-4 bold"> <!-- d-md-none  -->
+                                    <span class="text-admision">EXAMÉN DE</span> ADMISIÓN - 2021-2
                                     <br>
-                                    <a href="index.php#admision2" class="btn btn-outline-light btn-lg ">
+                                    <a href="index.php#admision2" class="btn btn-outline-light btn-lg py-3 text-warning bold">
                                         <i class="fas fa-diagnoses"></i> 
-                                        INSCRIPCIONES 
+                                        INSCRIPCIONES <span class="text-admision2 bold">2021-2</span>
                                         <i class="fas fa-diagnoses"></i> 
                                     </a>
                                 </h1>
@@ -149,14 +149,14 @@
             <div class="container text-white">
                 <div class="row text-center">
                     <div class="col-md-6">
-                        <h3 class="py-2">EL ÉXITO DEPENDE DE TI</h3>
+                        <h3 class="py-2"> <span class="text-admision3">EL ÉXITO </span> DEPENDE DE TI</h3>
                         <p>El éxito depende de la preparación previa, y sin ella seguro que llega el fracaso.</p>
-                        <br><p><h3>(Confucio)</h3></p>                        
+                        <br><p><h3>(<span class="text-admision3">CONFUCIO</span>)</h3></p>                        
                     </div>
                     <div class="col-md-6 icono-d">
                         <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php" class="text-white" target="_blank">
                             <i class="fas fa-laptop fa-6x"></i>
-                            <h3>SISTEMA VIRTUAL UNAJMA</h3>
+                            <h3 class="mt-3"> <span class="text-admision4">SISTEMA VIRTUAL UNAJMA</span> </h3>
                         </a>
                     </div>
                 </div>
@@ -177,9 +177,10 @@
                 </div>
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
-                    <a href="#admision" class="btn-inscribete22"> 
+                    <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRIBETE AQUI <br>
-                        (ORDINARIO)
+                        (ORDINARIO) <br>
+                        <small class="text-danger bold">(mantenimiento)</small>
                     </a>
                 </div>
                 <?php
@@ -194,7 +195,8 @@
                         <div class="col-6 txt-ins">
                             <a href="#admision" class="btn-inscribete21"> 
                                 INSCRIBETE AQUI <br>
-                                (CENTRO PRE UNIVERSITARIO "CEPRE")
+                                (CEPRE) <br>
+                                <small class="text-warning bold">(cerrado)</small>
                             </a>
                         </div>
                         <?php
@@ -204,19 +206,20 @@
                         <div class="col-6 txt-bcp gui-ins">
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRIBETE AQUÍ <br>
-                                (Traslado Universidades no Licenciadas)
+                                (EXTRAORDINARIO) <br>
+                                <small class="text-danger bold">(mantenimiento)</small>
                             </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
                         </div>
                         <?php
                             // MODAL
-                            include_once("sections/modal-proceso-traslado.html");
+                            include_once("sections/modal-proceso-extraordinario.html");
                         ?>
                     </div>
                 </div>
             </div>
-            <div class="opaco-admision2"></div>
+            <div class="opaco-admision"></div>
         </section>
 
 
@@ -464,7 +467,7 @@
                                 assignment_turned_in
                             </span>
                             </br>
-                            <h4 class="texto-a">Reglamento/h4>
+                            <h4 class="texto-a">Reglamento</h4>
                         </a>
                         <!-- <img src="public/img/reglamento-admision3.png" alt="" class="img img-fluid "> -->
                     </div>

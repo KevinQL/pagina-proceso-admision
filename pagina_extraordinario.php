@@ -23,7 +23,7 @@
             <!-- ok titulo -->
             <div class="pt-3 pb-5">
                 <h1 class="display-4 titulo-temario">
-                    EXAMEN EXTRAORDINARIO
+                    EXAMEN EXTRAORDINARIO 2021-2
                 </h1>
             </div>
             
@@ -291,6 +291,9 @@
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
                             </ul>
+                            <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
+                            <i class="fas fa-tag"></i> <b>Becas 18 egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Becas 18 egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                             <!-- <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>#</b> <span class="badge badge-warning">S/. </span> <br>
                             <i class="fas fa-tag"></i> <b>#</b> <span class="badge badge-warning">S/. </span> -->

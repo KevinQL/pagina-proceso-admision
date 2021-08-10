@@ -7,18 +7,20 @@
 
     <div class="container">
         <div class="logo">
-            <img src="public/img/para admision.png" alt="">
+            <a href="index.php#inicio">
+                <img src="public/img/para admision.png" alt="">
+            </a>
         </div>
         <div class="menu-bar">
             <i class="fas fa-bars fa-4x"></i>
         </div>
         <nav class="navegacion">
             <ul class="ul-menu">
-                <li class="li-menu">
+                <!-- <li class="li-menu">
                     <a href="index.php#inicio" class="a-menu"><i class="fas fa-home"></i> INICIO </a>
-                </li>
+                </li> -->
                 <li class="li-menu">
-                    <a href="#" class="a-menu"><i class="fas fa-building"></i> OFICINA DE ADMISIÓN <i class="fas fa-angle-down ml-1"></i></a>
+                    <a href="#" class="a-menu"><i class="fas fa-building"></i> ADMISIÓN 2021-2<i class="fas fa-angle-down ml-1"></i></a>
                     <ul class="sub-menu subm-t0">
                         <li><a href="pagina_cronograma.php">Cronograma</a></li>
                         <li><a href="pagina_reglamento.php">Reglamento de admisión</a></li>
@@ -28,8 +30,17 @@
                     </ul>
                 </li>
                 <li class="li-menu">
-                    <a href="#" class="a-menu"><i class="fas fa-diagnoses"></i> ADMISIÓN 2021-1 <i class="fas fa-angle-down ml-1"></i></a>
-                    <ul class="sub-menu subm-t1">
+                    <a href="#" class="a-menu"><i class="fas fa-chalkboard-teacher"></i> MODALIDADES 2021-2 <i class="fas fa-angle-down ml-1"></i></a>
+                    <ul class="sub-menu"> <!--.subm-t2-->
+                        <li><a href="pagina_ordinario.php">ORDINARIO</a></li>
+                        <li><a href="pagina_extraordinario.php">EXTRAORDINARIO</a></li>
+                        <li><a href="pagina_pseleccion.php">PRIMERA SELECCIÓN</a></li>
+                        <!--<li><a href="index.php">CEPRE</a></li>-->
+                    </ul>
+                </li>    
+                <li class="li-menu">
+                    <a href="#" class="a-menu"><i class="fas fa-diagnoses"></i> INSCRIPCIÓN 2021-2 <i class="fas fa-angle-down ml-1"></i></a>
+                    <ul class="sub-menu "> <!--.subm-t1-->
                         <li><a href="index.php#admision2">EXTRAORDINARIO</a></li>
                         <li><a href="index.php#admision2">CEPRE</a></li>
                         <li><a href="index.php#admision2">ORDINARIO</a></li>
@@ -47,20 +58,28 @@
                             <li><a href="pagina_epepi.php">Educación Primaria Intercultural</a></li>
                         </ul>
                 </li>
+            
                 <li class="li-menu">
-                    <a href="#" class="a-menu"><i class="fas fa-chalkboard-teacher"></i> MODALIDADES <i class="fas fa-angle-down ml-1"></i></a>
+                    <a href="#" class="a-menu"> RESULTADOS <i class="fas fa-angle-down ml-1"></i></a>
                     <ul class="sub-menu subm-t2">
-                        <li><a href="pagina_ordinario.php">ORDINARIO</a></li>
-                        <li><a href="pagina_extraordinario.php">EXTRAORDINARIO</a></li>
-                        <li><a href="pagina_pseleccion.php">PRIMERA SELECCIÓN</a></li>
-                        <!--<li><a href="index.php">CEPRE</a></li>-->
-                    </ul>
-                </li>                
-                <li class="li-menu">
-                    <a href="#" class="a-menu">OTROS <i class="fas fa-angle-down ml-1"></i></a>
-                    <ul class="sub-menu subm-t3">
-                        <li><a href="public/docs/POSTULANTES 2017-2020.pdf" class="d-none" target="_blank">Postulantes por Carrera</a></li>
-                        <li><a href="index.php#comunicados" class="d-none btn-comunicaciones">COMUNICADOS</a></li>
+                        <li>
+                            <a href="http://www.unajma.edu.pe/content/resultados-examen-de-admisi%C3%B3n-cepre-agosto" class="" target="_blank">
+                                CEPRE 2021-2
+                                <small class="text-success">(listo)</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index.php#comunicados" class="btn-comunicaciones">
+                                EXTRAORDINARIO 2021-2
+                                <small class="text-danger">(falta)</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="index.php#comunicados" class="btn-comunicaciones">
+                                ORDIANARIO 2021-2
+                                <small class="text-danger">(falta)</small>
+                            </a>
+                        </li>
                         <!--<li><a href="#">Postulantes e Ingresantes</a></li>
                         <li><a href="#">Postulantes e Ingresantes anterior</a></li>-->
                     </ul>

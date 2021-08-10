@@ -7,7 +7,7 @@ $color2-h:#fbc531;
 $color3-h:#192a56;
 
 .seccion-admision{
-    background-image: url(../img/slider/pabellon-comedor.jpg);
+    background-image: url(../img/slider/agro.JPG);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -84,13 +84,13 @@ $color3-h:#192a56;
                 border: .1px solid white;
                 background-color: $color2;
                 font-size: 1.3rem; //modif 
-                padding: 0% 5%;
+                padding: 4vh 5%;
                 height: 20vh;
                 width: 70%;//modif
-
-                display: flex;
-                justify-content: center;
-                align-items: center;
+                
+                // display: flex;
+                // justify-content: center;
+                // align-items: center;
                 &:hover{
                     background-color: $color2-h;
                 }
@@ -118,13 +118,13 @@ $color3-h:#192a56;
                     border: .1px solid white;
                     background-color: $color3;
                     font-size: 1.3rem; //modif 
-                    padding: 0% 5%;
+                    padding: 4vh 5%;
                     height: 20vh;
                     width: 100%;//modif
     
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
+                    // display: flex;
+                    // justify-content: center;
+                    // align-items: center;
                     &:hover{
                         background-color: $color3-h;
                     }
@@ -135,7 +135,7 @@ $color3-h:#192a56;
                     margin: 0px;
                     padding: 0px 2px;
                     a{
-                        font-size: 1em;
+                        font-size: .9em;
                     }
                 }
             }
@@ -143,7 +143,12 @@ $color3-h:#192a56;
     }
 
     .opaco-admision{
-        background-color: $c-fondo-opaco;
+        // background-color: $c-fondo-opaco;
+        background: #183050;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to top, #4286f473, #183050);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to top, #4286f473, #183050); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+
         position: absolute;
         display: block;
         height: 100%;

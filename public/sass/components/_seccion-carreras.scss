@@ -3,7 +3,11 @@ $img-h-seccion : 150px;
 $img-w-seccion : 150px;
 
 .seccion-carreras{
-    background-color: whitesmoke;
+    // background-color: whitesmoke;
+    background: #183050;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #82431A, #183050);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #82431A, #183050); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
     overflow: hidden;
     @media all and ( max-width:500px){
         display:block;

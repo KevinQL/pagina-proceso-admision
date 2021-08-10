@@ -4,8 +4,8 @@ $w-slider : 100vw;
 $movil-h-silde : 60vh;
 $movil-w-silde : 100vw;
 
-$hover-color-fondo: rgba(80, 61, 23, 0.294);//rgba(54, 36, 1, 0.404)
-$movil-hover-color-fondo : rgba(80, 61, 23, 0.801);
+$hover-color-fondo: #8241198a;//rgba(54, 36, 1, 0.404)
+$movil-hover-color-fondo : rgba(80, 23, 23, 0.801);
 
 .slider{
     overflow: hidden;
@@ -53,6 +53,10 @@ $movil-hover-color-fondo : rgba(80, 61, 23, 0.801);
         top: 0px;
         // left: 0px;
         background-color: $hover-color-fondo;
+        background: #183050;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to top, #82431A, transparent);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to top, #82431A, transparent); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
         color: white;
         z-index: 1000;
 
