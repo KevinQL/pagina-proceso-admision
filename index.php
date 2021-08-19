@@ -180,7 +180,7 @@
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRIBETE AQUI <br>
                         (ORDINARIO) <br>
-                        <small class="text-danger bold">(mantenimiento)</small>
+                        <small class="text-success bold">(abierto)</small>
                     </a>
                 </div>
                 <?php
@@ -207,7 +207,7 @@
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRIBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
-                                <small class="text-danger bold">(mantenimiento)</small>
+                                <small class="text-success bold">(abierto)</small>
                             </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
