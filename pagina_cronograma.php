@@ -32,11 +32,11 @@
                 <ul>
                     
                     <li><b>Publicidad</b> 	: del 01 de agosto al 09 de setiembre del 2021.</li><br>
-                    <li><b>Inscripción virtual Extraordinario</b> 	: del 10 de agosto al 02 de setiembre del 2021.</li><br>
-                    <li><b>Inscripción virtual Ordinario</b> 	: del 10 de agosto al 08 de setiembre del 2021</li><br>
-                    <li><b>EXAMEN EXTRAORDINARIO</b>			            : 04 de setiembre del 2021.</li><br>
-                    <li><b>EXAMEN ORDINARIO </b>		    : 10 y 11 de setiembre del 2021.</li><br>
-                    <li><b>ENTREGA DE CONSTANCIAS DE INGRESO </b>		    : 13 y 14 de setiembre del 2021.</li><br>
+                    <li><b>Inscripción virtual Extraordinario</b> 	: del 16 de agosto al 09 de setiembre del 2021.</li><br>
+                    <li><b>Inscripción virtual Ordinario</b> 	: del 16 de agosto al 15 de setiembre del 2021</li><br>
+                    <li><b>EXAMEN EXTRAORDINARIO</b>			            : 11 de setiembre del 2021.</li><br>
+                    <li><b>EXAMEN ORDINARIO </b>		    : 17 y 18 de setiembre del 2021.</li><br>
+                    <li><b>ENTREGA DE CONSTANCIAS DE INGRESO </b>		    : 20 y 21 de setiembre del 2021.</li><br>
 
                     <!-- 
                         <h5 class="text-center text-lead ">TRASLADOS EXTERNOS DE ESTUDIANTES DE UNIVERSIDADES CON LICENCIAMIENTO DENEGADO 2021-1</h5>

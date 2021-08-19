@@ -28,7 +28,7 @@
             </div>
             
 
-            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN  2021-1 </h5>
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN  2021-2 </h5>
             <hr class="line-reglamento">
 
 <div class="t-pdf">
@@ -45,7 +45,7 @@
         <div class="card-header" id="heading-0014-1">
             <h2 class="mb-0">
                 <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#curso-0014-1" aria-expanded="true" aria-controls="curso-0014-1">
-                    MATEMÁTICA
+                    RAZONAMIENTO MATEMÁTICO
                 </button>
             </h2>
         </div>
@@ -53,55 +53,69 @@
         <div id="curso-0014-1" class="collapse show" aria-labelledby="heading-0014-1" data-parent="#accordionExample">
             <div class="card-body">
                 <ul>                    
-                    <li><b>1. Conversiones</b></li>
-                    <li><b>2. Funciones</b></li>
-                    <li><b>3. Razones trigonométricas</b></li>
-                    <li><b>4. Ángulos</b></li>
-                    <li><b>5. Identidades trigonométricas</b></li>
-                    <li><b>6. Geometría analítica (rectas y distancias)</b></li>
-                    <li><b>7. Áreas y coordenadas</b></li>
-                    <li><b>8. Medidas de tendencia central (moda, mediana, media)</b></li>
-                    <li><b>9. Logaritmos</b></li>
-                    <li><b>10. Ecuaciones de 1ro y 2do grado y sistema de ecuaciones</b></li>
-                    <li><b>11. Conjuntos:</b> idea de conjunto, cardinal de conjuntos, determinación, relación entre conjuntos, conjuntos especiales, operaciones entre conjuntos.</li>
-                    <li><b>12.  Conteo de figuras</b></li>
-                    <li><b>13.  Edades</b></li>
-                    <li><b>14.  Fracciones</b></li>
-                    <li><b>15.  Sucesiones</b></li>
-                    <li><b>16.  Teoría de exponentes</b></li>
-                    <li><b>17.  Porcentajes</b></li>
-                    <li><b>18.  Probabilidades</b></li>
-
+                    <li><b>1. Situaciones lógicas</b></li>
+                    <li><b>2. Planteo de ecuaciones</b></li>
+                    <li><b>3. Relojes y calendarios</b></li>
+                    <li><b>4. Fracciones, porcentajes y probabilidades</b></li>
+                    <li><b>5. Operadores matemáticos</b></li>
+                    <li><b>6. Sucesiones, series y sumatorias</b></li>
+                    <li><b>7. Conteo de figuras geométricas</b></li>
+                    <li><b>8. Perímetros y áreas de regiones sombreadas</b></li>
+                    
                 </ul>
             </div>
         </div>
     </div>
-<!-- 
+ 
     <div class="card">
         <div class="card-header" id="heading-0014-2">
             <h2 class="mb-0">
                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#curso0014-2" aria-expanded="false" aria-controls="curso0014-2">
-                    RAZONAMIENTO MATEMÁTICO
+                    MATEMÁTICA I
                 </button>
             </h2>
         </div>
         <div id="curso0014-2" class="collapse" aria-labelledby="heading-0014-2" data-parent="#accordionExample">
             <div class="card-body">
                 <ul>
-                    <li><b>1. Operadores</b></li>
-                    <li><b>2. Conteo de figuras</b></li>
-                    <li><b>3. Edades</b></li>
-                    <li><b>4. Móviles</b></li>
-                    <li><b>5. Sucesiones</b></li>
-                    <li><b>6. Planteo de ecuaciones</b></li>
-                    <li><b>7. Teoría de exponentes</b></li>
-                    <li><b>8. Áreas y perímetros</b></li>
-                    <li><b>9. Porcentajes</b></li>
-                    <li><b>10. Probabilidades</b></li>
+                    <li><b>1. Conjuntos</b></li>
+                    <li><b>2. Sistema de numeración</b></li>
+                    <li><b>3. Cuatro operaciones</b></li>
+                    <li><b>4. Teoría de exponentes, polinomios</b></li>
+                    <li><b>5. Productos notables</b></li>
+                    <li><b>6. Relaciones y funciones</b></li>
+                    <li><b>7. Ecuaciones de 1er y 2do grado y sistema de ecuaciones</b></li>
+                    <li><b>8. Matrices y determinantes</b></li>
                 </ul>
             </div>
         </div>
-    </div> -->
+    </div>
+    
+    <div class="card">
+        <div class="card-header" id="heading-0014-2">
+            <h2 class="mb-0">
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#curso0014-2" aria-expanded="false" aria-controls="curso0014-2">
+                    RMATEMÁTICA II
+                </button>
+            </h2>
+        </div>
+        <div id="curso0014-2" class="collapse" aria-labelledby="heading-0014-2" data-parent="#accordionExample">
+            <div class="card-body">
+                <ul>
+                    <li><b>1. Segmentos y ángulos</b></li>
+                    <li><b>2. Triángulos y circunferencia</b></li>
+                    <li><b>3. Proporcionalidad y semejanza</b></li>
+                    <li><b>4. Relaciones métricas en el triángulo rectángulo, áreas de regiones planas, prisma y
+cilindro</b></li>
+                    <li><b>5. Conversión y razones trigonométricas</b></li>
+                    <li><b>6. Ángulos en posición normal</b></li>
+                    <li><b>7. Identidades trigonométricas</b></li>
+                    <li><b>8. Ecuación de la recta</b></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
 
 
@@ -115,21 +129,34 @@
         <div class="card-header" id="heading-0014-cm">
             <h2 class="mb-0">
                 <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#curso-0014-cm" aria-expanded="true" aria-controls="curso-0014-cm">
-                    COMUNICACIÓN
+                    RAZONAMIENTO VERBAL
                 </button>
             </h2>
         </div>
 
         <div id="curso-0014-cm" class="collapse show" aria-labelledby="heading-0014-cm" data-parent="#accordionExample-00114c">
             <div class="card-body">
-                <ul>                    
-                    <li><b>1. Comprensión y producción del texto:</b> idea principal, idea secundaria, propiedad del texto: coherencia, cohesión, anáfora, catáfora, elipsis, conectores y ortografía.</li> 
-                    <li><b>2. Comprensión y producción de textos descriptivos:</b> idea principal, idea secundaria, propiedad del texto: coherencia, cohesión, anáfora, catáfora, elipsis, conectores y ortografía.</li> 
-                    <li><b>3. Comprensión y producción de textos argumentativos:</b> idea principal, idea secundaria, propiedad del texto: coherencia, cohesión, anáfora, catáfora, elipsis, conectores y ortografía.</li> 
-                    <li><b>4. Comprensión y producción de textos expositivos:</b> idea principal, idea secundaria, propiedad del texto: coherencia, cohesión, anáfora, catáfora, elipsis, conectores y ortografía.</li> 
-                    <li><b>5. Comprensión y producción de textos narrativos:</b> idea principal, idea secundaria, propiedad del texto: coherencia, cohesión, anáfora, catáfora, elipsis, conectores y ortografía.</li>
-                    <li><b>6. Comprensión y producción de textos instructivos:</b> idea principal, idea secundaria, propiedad del texto: coherencia, cohesión, anáfora, catáfora, elipsis, conectores y ortografía.</li>
-
+                <ul>
+<li>El texto: Idea principal, idea secundaria. Propiedades del texto: coherencia y cohesión,
+anáfora, catáfora, elipsis, tildación y conectores.</li>
+<li>Textos descriptivos: Comprensión del texto, idea principal y secundaria, identificación
+de información específica del texto.</li>
+<li>Textos descriptivos: Redacción del texto, estructura y organización.</li>
+<li>Textos argumentativos: Comprensión del texto, idea principal, idea secundaria,
+identificación de información específica del texto. Identificación de los argumentos y
+contraargumentos.</li>
+<li>Textos argumentativos: introducción, planteamiento y defensa de la tesis con
+argumentos, conclusión.</li>
+<li>Textos expositivos: Comprensión y producción. Estructura del texto: idea principal, idea
+secundaria, identificación de información específica del texto.</li>
+<li>Textos narrativos: producción y comprensión del texto, estructura. Identificación de la
+idea principal, ideas secundarias, identificación de información específica del texto.</li>
+<li>Textos instructivos: Comprensión y producción. Estructura del texto instructivo,
+identificación de la idea principal, ideas secundarias, identificación de información
+específica del texto.</li>
+<li>Ortografía: tildación, uso de mayúsculas y minúsculas, preposiciones, palabras juntas,
+palabras separadas y signos de puntuación.</li>              
+                    
                 </ul>
             </div>
         </div>
@@ -175,10 +202,25 @@
 
         <div id="curso-0014-cg" class="collapse show" aria-labelledby="heading-0014-cg" data-parent="#accordionExample-00114cg">
             <div class="card-body">
-                <ul>                    
-                    <li><b>1. Historia del Perú y Universal. -</b> Revoluciones industriales e historia de las epidemias y pandemias en el mundo. Culturas prehispánicas del Perú, hechos importantes de los gobiernos peruanos desde el oncenio de Leguía hasta la actualidad.</li>
-                    <li><b>2. Geografía y Medio Ambiente. -</b> Geografía política del Perú y de Apurímac, sistema hidrográfico, regiones y ecorregiones naturales, La contaminación natural y áreas protegidas.</li>
-                    <li><b>3. Literatura peruana y universal:</b> Literatura regional, peruana, latinoamericana y universal. Característica, representantes y obras. Vida y obras de José maría Arguedas.</li>
+                <ul>
+
+<li>Filosofía (introducción a la filosofía, etimología, origen, definición, actitud filosófica,
+disciplinas filosóficas, desarrollo del pensamiento filosófico, aspectos generales de la
+filosofía antigua, media moderna y contemporánea.</li>
+<li>Psicología (características físicas - psicológicas de la adolescencia, y juventud,
+sexualidad, procesos cognitivos y afectivos, personalidad).</li>
+<li>Realidad nacional y ciudadanía (derechos humanos, origen y vigencia de la constitución
+política, división de poderes, órganos tutelares, niveles de gobierno en Perú y
+tributación) y situación actual.</li>
+<li>Historia del Perú y universal (revoluciones industriales e historia de las epidemias y
+pandemias en el mundo, culturas prehispánicas del Perú, hechos importantes de los
+gobiernos peruanos desde el oncenio de Leguía hasta la actualidad).</li>
+<li>Geografía y medio ambiente (geografía política del Perú y de Apurímac, sistema
+hidrográfico, regiones y eco regiones naturales, la contaminación natural y áreas
+protegidas.</li>
+<li>Literatura peruana y universal, corrientes literarias peruanas y universal, característica,
+representantes y obras.</li>                    
+                    
                 </ul>
             </div>
         </div>
@@ -203,17 +245,15 @@
 
         <div id="curso-0014-f" class="collapse show" aria-labelledby="heading-0014-f" data-parent="#accordionExample-00114f">
             <div class="card-body">
-                <ul>                    
-                    <li><b>1. Ecuación dimensional y vectores.</b></li>
-                    <li><b>2. Cinemática:</b> Desplazamiento, Velocidad y Aceleración . Movimiento rectilíneo uniforme , Movimiento rectilíneo uniforme acelerado, movimiento vertical. Movimiento
-                    compuesto.</li>
-                    <li><b>3. Estática y dinámica:</b> Fuerza, primera, segunda y tercera Ley de Newton, Primera condición de equilibrio, segunda condición de equilibrio.</li>
-                    <li><b>4. Potencia y trabajo.</b> Trabajo, energía cinética, energía potencial, energía elástica, potencia y eficiencia.</li>
-                    <li><b>5. Mecánica de fluidos:</b> Introducción, Densidad y peso específico, Principios de Pascal, Presión en un fluido, Principio de Arquímedes, Ecuación de continuidad, Teorema de
-                    Bernoulli.</li>
-                    <li><b>6. Termometría y dilatación:</b> Temperatura, Ley cero de la temperatura, Escalas termométricas, Dilatación.</li>
-                    <li><b>7. Electrostática y electrodinámica:</b> Carga eléctrica y mater ia Fenómenos de electrización Conductores y aisladores Ley de Coulomb., Definición de campo eléctrico Líneas de campo eléctrico Campo eléctrico de cargas puntuales. Principio de
-                    superposición.</li>
+                <ul>
+                <li><b>Ecuación dimensional y vectores.</b></li>
+                <li><b>Cinemática.</b></li>
+                <li><b>Estática y dinámica.</b></li>
+                <li><b>Potencia y trabajo.</b></li>
+                <li><b>Mecánica de fluidos.</b></li>
+                <li><b>Temperatura, dilatación y calorimetría.</b></li>
+                <li><b>Electrostática.</b></li>
+                <li><b>Electrodinámica.</b></li>                    
                 </ul>
             </div>
         </div>
@@ -240,10 +280,49 @@
         <div id="curso-0014-Q" class="collapse show" aria-labelledby="heading-0014-Q" data-parent="#accordionExample-00114Q">
             <div class="card-body">
                 <ul>                    
-                    <li><b>1. Estructura atómica.</b></li>
-                    <li><b>2. Los números cuánticos y tabla periódica.</b></li>
-                    <li><b>3. Enlace químico y nomenclatura inorgánica.</b></li>
-                    <li><b>4. Unidades químicas de masa, Composición centesimal, Formula Empírica y Molecular.</b></li>
+                <li><b>Estructura atómica.</b></li>
+                <li><b>Números cuánticos y tabla periódica.</b></li>
+                <li><b>Enlace químico y nomenclatura inorgánica.</b></li>
+                <li><b>Unidades químicas de masa, estado gaseoso de la materia.</b></li>
+                <li><b>Reacciones químicas, estequiometría.</b></li>
+                <li><b>Soluciones.</b></li>
+                <li><b>Química inorgánica.</b></li>
+                <li><b>Compuestos oxigenados.</b></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h3 class="display-6 titulo-temario my-3">
+    ECONOMÍA
+</h3>
+<!-- acordion tpor temario -->
+<div class="accordion" id="accordionExample-00114Q">
+
+    <div class="card">
+        <div class="card-header" id="heading-0014-Q">
+            <h2 class="mb-0">
+                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#curso-0014-Q" aria-expanded="true" aria-controls="curso-0014-Q">
+                    ECONOMÍA
+                </button>
+            </h2>
+        </div>
+
+        <div id="curso-0014-Q" class="collapse show" aria-labelledby="heading-0014-Q" data-parent="#accordionExample-00114Q">
+            <div class="card-body">
+                <ul>                    
+                <li><b>Definición de la economía.</b></li>
+                <li><b>Las necesidades humanas.</b></li>
+                <li><b>El proceso económico.</b></li>
+                <li><b>La inflación.</b></li>
+                <li><b>El dinero el capital el precio.</b></li>
+                <li><b>Los mercados.</b></li>
+                <li><b>El sector público.</b></li>
+                <li><b>Sistema bancario.</b></li>
+                
+
                 </ul>
             </div>
         </div>
