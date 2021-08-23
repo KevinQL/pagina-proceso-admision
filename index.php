@@ -167,9 +167,11 @@
         <section class="seccion-admision" id="admision2">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="#">
-                        CUENTA BANCO DE LA NACIÓN : <br>
-                        00 182 00 9784 
+                    <a href="#" class="">
+                        CUENTA BANCO DE LA NACIÓN : 
+                        <br>
+                            <i class="fa fa-credit-card-alt" aria-hidden="true"></i>
+                            00 182 00 9784
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
@@ -180,7 +182,12 @@
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRIBETE AQUI <br>
                         (ORDINARIO) <br>
-                        <small class="text-success bold">(abierto)</small>
+                        <small class="text-success bold">
+                            ( 
+                                ABIERTO
+                                <i class="fa fa-external-link-square" aria-hidden="true"></i>  
+                            )
+                        </small>
                     </a>
                 </div>
                 <?php
@@ -196,7 +203,12 @@
                             <a href="#admision" class="btn-inscribete21"> 
                                 INSCRIBETE AQUI <br>
                                 (CEPRE) <br>
-                                <small class="text-warning bold">(cerrado)</small>
+                                <small class="text-warning bold">
+                                    (
+                                        CERRADO
+                                        <i class="fa fa-window-close" aria-hidden="true"></i>
+                                    )
+                                </small>
                             </a>
                         </div>
                         <?php
@@ -207,7 +219,12 @@
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRIBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
-                                <small class="text-success bold">(abierto)</small>
+                                <small class="text-success bold">
+                                    ( 
+                                        ABIERTO
+                                        <i class="fa fa-external-link-square" aria-hidden="true"></i>                                        
+                                    )
+                                </small>
                             </a>
                             <!-- <a href="https://admisionunajma.pe/consultatusdatos/" target="_blank">OBTENER DATOS DE POSTULANTE</a> -->
                             <!-- <a href="#">OBTENER DATOS DE POSTULANTE</a> -->
@@ -227,11 +244,111 @@
         <!-- CUERPO PAGINA -->
         <section>
             <div class="container cuerpo-pagina">
-                <div class="row">
+                <div class="row pt-4">
                     <div class="col-md-8 seccion-noticias">
                         
                         <div class="row">
-                            <div class="col-md-12 noticia">
+                            
+                            <div class="col-md-12 comunicados seccion-comunicados" id="comunicados">
+
+                                <!-- MANUALES INSCRIPCIÓN -->
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active font-weight-bold" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">
+                                            <small class="text-danger text-bold text-right">(click)</small> <br>
+                                            MANUAL VIDEO 
+                                            <i class="fa fa-youtube text-danger" aria-hidden="true"></i>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link font-weight-bold" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
+                                            <small class="text-danger text-bold">(click)</small>
+                                            <br>
+                                            MANUAL PDF 
+                                            <i class="fa fa-file-pdf-o text-secondary" aria-hidden="true"></i>
+                                        </a> 
+                                    </li>
+                                </ul>
+                                <div class="tab-content pt-1" id="myTabContent">
+                                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                                        <div class="card bg-dark text-white">
+                                            <!-- <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/N7yxUvfPAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/6gkC9VvA1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade text-center" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                                        <iframe class="mx-auto" src="https://drive.google.com/file/d/11bm2443eQNa0cHuGca_eGpWXlVbkLU35/preview" width="100%" height="410" frameborder="0"></iframe>
+                                        <!-- <iframe src="https://drive.google.com/file/d/1-DQd5R7puXdfUzYq08xW2XLrRtr5NIS9/preview" width="640" height="480"></iframe> -->
+                                    </div>
+                                </div>
+                                <!--****** FIN MANUALES INSCRIPCIÓN -->
+
+
+                                <!-- COMUNICADOS -->
+                                <!-- <div class="glide3 sle3">
+                                    <div data-glide-el="track" class="glide__track">
+                                    <ul class="glide__slides">
+                                        <li class="glide__slide">
+                                            <div class="card" style="width: 100%">
+                                                <div class="card-body">
+                                                    <img src="public/img/slider/agro.JPG" class="card-img-top" alt="...">
+                                                    <h5 class="card-title">Card title</h5>
+                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor si</p>
+                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="glide__slide">
+                                            <div class="card" style="width: 100%;">
+                                                <div class="card-body">
+                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
+                                                    <h5 class="card-title">Card title</h5>
+                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore incidunt optio cum dolores, sequi, cumque labore reprehenderit voluptas numquam, adipisci excepturi iusto. Esse inventore cum incidunt perferendis ducimus totam iure?</p>
+                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="glide__slide">
+                                            <div class="card" style="width: 100%;">
+                                                <div class="card-body">
+                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
+                                                    <h5 class="card-title">Card title</h5>
+                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore incidunt optio cum dolores, sequi, cumque labore reprehenderit voluptas numquam, adipisci excepturi iusto. Esse inventore cum incidunt perferendis ducimus totam iure?</p>
+                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="glide__slide">
+                                            <div class="card" style="width: 100%;">
+                                                <div class="card-body">
+                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
+                                                    <h5 class="card-title">Card title</h5>
+                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore incidunt optio cum dolores, sequi, cumque labore reprehenderit voluptas numquam, adipisci excepturi iusto. Esse inventore cum incidunt perferendis ducimus totam iure?</p>
+                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    </div>
+                            
+                                    <div class="glide__arrows" data-glide-el="controls">
+                                        <button class="glide__arrow glide__arrow--left" data-glide-dir="<"> < </button>
+                                        <button class="glide__arrow glide__arrow--right" data-glide-dir=">"> > </button>
+                                    </div>
+                            
+                                    <div class="glide__bullets" data-glide-el="controls[nav]">
+                                        <button class="glide__bullet color-secundario" data-glide-dir="=0"></button>
+                                        <button class="glide__bullet color-secundario" data-glide-dir="=1"></button>
+                                        <button class="glide__bullet color-secundario" data-glide-dir="=2"></button>
+                                        <button class="glide__bullet color-secundario" data-glide-dir="=3"></button>    
+                                    </div>
+                                </div>  -->
+                            </div>
+
+
+
+                            <div class="col-md-12 pt-5 noticia">
                                 <!-- NOTICIAS -->
                                 <div class="glide2 sle2">
                                     <div data-glide-el="track" class="glide__track">
@@ -327,100 +444,12 @@
                                     include_once('sections/modal-noticia.html');
                                 ?>
                                 <!-- FIN modal Noticias -->
-
                             </div>
 
-
-                            <div class="col-md-12 comunicados seccion-comunicados" id="comunicados">
-
-    <!-- MANUALES INSCRIPCIÓN -->
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item">
-            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Manual VIDEO</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Manual PDF.</a>
-        </li>
-    </ul>
-    <div class="tab-content pt-1" id="myTabContent">
-        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-            <div class="card bg-dark text-white">
-                <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/N7yxUvfPAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-            </div>
-        </div>
-        <div class="tab-pane fade text-center" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-            <iframe class="mx-auto" src="https://drive.google.com/file/d/11bm2443eQNa0cHuGca_eGpWXlVbkLU35/preview" width="100%" height="410" frameborder="0"></iframe>
-            <!-- <iframe src="https://drive.google.com/file/d/1-DQd5R7puXdfUzYq08xW2XLrRtr5NIS9/preview" width="640" height="480"></iframe> -->
-        </div>
-    </div>
-    <!-- FIN MANUALES INSCRIPCIÓN -->
-
-
-
-
-
-                                <!-- COMUNICADOS -->
-                                <!-- <div class="glide3 sle3">
-                                    <div data-glide-el="track" class="glide__track">
-                                    <ul class="glide__slides">
-                                        <li class="glide__slide">
-                                            <div class="card" style="width: 100%">
-                                                <div class="card-body">
-                                                    <img src="public/img/slider/agro.JPG" class="card-img-top" alt="...">
-                                                    <h5 class="card-title">Card title</h5>
-                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor si</p>
-                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="glide__slide">
-                                            <div class="card" style="width: 100%;">
-                                                <div class="card-body">
-                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
-                                                    <h5 class="card-title">Card title</h5>
-                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore incidunt optio cum dolores, sequi, cumque labore reprehenderit voluptas numquam, adipisci excepturi iusto. Esse inventore cum incidunt perferendis ducimus totam iure?</p>
-                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="glide__slide">
-                                            <div class="card" style="width: 100%;">
-                                                <div class="card-body">
-                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
-                                                    <h5 class="card-title">Card title</h5>
-                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore incidunt optio cum dolores, sequi, cumque labore reprehenderit voluptas numquam, adipisci excepturi iusto. Esse inventore cum incidunt perferendis ducimus totam iure?</p>
-                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="glide__slide">
-                                            <div class="card" style="width: 100%;">
-                                                <div class="card-body">
-                                                    <img src="public/img/epis.jpg" class="card-img-top" alt="...">
-                                                    <h5 class="card-title">Card title</h5>
-                                                    <p class="card-text noticia-parrafo">Some quick example text to build on the card title and make up the bulk of the card's content. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore incidunt optio cum dolores, sequi, cumque labore reprehenderit voluptas numquam, adipisci excepturi iusto. Esse inventore cum incidunt perferendis ducimus totam iure?</p>
-                                                    <a href="#" class="btn btn-comunicado">ver mas</a>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    </div>
-                            
-                                    <div class="glide__arrows" data-glide-el="controls">
-                                        <button class="glide__arrow glide__arrow--left" data-glide-dir="<"> < </button>
-                                        <button class="glide__arrow glide__arrow--right" data-glide-dir=">"> > </button>
-                                    </div>
-                            
-                                    <div class="glide__bullets" data-glide-el="controls[nav]">
-                                        <button class="glide__bullet color-secundario" data-glide-dir="=0"></button>
-                                        <button class="glide__bullet color-secundario" data-glide-dir="=1"></button>
-                                        <button class="glide__bullet color-secundario" data-glide-dir="=2"></button>
-                                        <button class="glide__bullet color-secundario" data-glide-dir="=3"></button>    
-                                    </div>
-                                </div>  -->
-                            </div>
                         </div>
+
+
+
                         
                     </div>
 
