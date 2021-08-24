@@ -1,3 +1,56 @@
+
+$opcity-igm : .5;
+.appConsult{
+    background-color: rgba(0, 128, 128, 0.329);
+    border: none;
+    border-radius: 100%;
+    padding: 10px;
+
+    position: fixed;
+    right: 26px;
+    bottom: 170px;
+    width: 60px;
+    z-index: 1000;
+    transition: .5s all;
+    img{
+        width: 100%;
+        height: auto;
+        opacity: $opcity-igm;
+    }
+
+    &:hover{
+        padding: 0px;
+        img{
+            opacity: 1;
+        }
+    }
+}
+
+.appHome{
+    background-color: rgba(124, 0, 128, 0.329);
+    border: none;
+    border-radius: 100%;
+    padding: 10px;
+
+    position: fixed;
+    right: 26px;
+    bottom: 240px;
+    width: 60px;
+    z-index: 1000;
+    transition: .5s all;
+    img{
+        width: 100%;
+        height: auto;
+        opacity: $opcity-igm;
+    }
+    &:hover{
+        padding: 0px;
+        img{
+            opacity: 1;
+        }
+    }
+}
+
 // Estilos para el boton de wsp
 .appWhatsapp{
     position: fixed;

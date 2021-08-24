@@ -614,6 +614,54 @@
   padding: 0px auto;
 }
 
+.appConsult {
+  background-color: rgba(0, 128, 128, 0.329);
+  border: none;
+  border-radius: 100%;
+  padding: 10px;
+  position: fixed;
+  right: 26px;
+  bottom: 170px;
+  width: 60px;
+  z-index: 1000;
+  transition: 0.5s all;
+}
+.appConsult img {
+  width: 100%;
+  height: auto;
+  opacity: 0.5;
+}
+.appConsult:hover {
+  padding: 0px;
+}
+.appConsult:hover img {
+  opacity: 1;
+}
+
+.appHome {
+  background-color: rgba(124, 0, 128, 0.329);
+  border: none;
+  border-radius: 100%;
+  padding: 10px;
+  position: fixed;
+  right: 26px;
+  bottom: 240px;
+  width: 60px;
+  z-index: 1000;
+  transition: 0.5s all;
+}
+.appHome img {
+  width: 100%;
+  height: auto;
+  opacity: 0.5;
+}
+.appHome:hover {
+  padding: 0px;
+}
+.appHome:hover img {
+  opacity: 1;
+}
+
 .appWhatsapp {
   position: fixed;
   right: 26px;
