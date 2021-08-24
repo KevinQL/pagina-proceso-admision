@@ -32,7 +32,7 @@
                             <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="display-4 bold"> <!-- d-md-none  -->
-                                    <span class="text-admision">EXAMÉN DE</span> ADMISIÓN - 2021-2
+                                    <span class="text-admision">EXAMEN DE</span> ADMISIÓN - 2021-2
                                     <br>
                                     <a href="index.php#admision2" class="btn btn-outline-light btn-lg py-3 text-warning bold">
                                         <i class="fas fa-diagnoses"></i> 
@@ -189,7 +189,7 @@
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
-                        INSCRIBETE AQUI <br>
+                        INSCRÍBETE AQUÍ <br>
                         (ORDINARIO) <br>
                         <small class="text-success bold">
                             ( 
@@ -210,7 +210,7 @@
                     <div class="row">
                         <div class="col-6 txt-ins">
                             <a href="#admision" class="btn-inscribete21"> 
-                                INSCRIBETE AQUI <br>
+                                INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
                                 <small class="text-warning bold">
                                     (
@@ -226,7 +226,7 @@
                         ?>
                         <div class="col-6 txt-bcp gui-ins">
                             <a href="#admision2" class="btn-inscribete2">
-                                INSCRIBETE AQUÍ <br>
+                                INSCRÍBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
                                 <small class="text-success bold">
                                     ( 
