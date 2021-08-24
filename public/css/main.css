@@ -25,13 +25,27 @@
 
 .text-admision3 {
   color: #82431A;
-  font-weight: bolder;
+  font-weight: bold;
   font-style: unset;
+  font-size: 1.2em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-top: double;
+  border-bottom: double;
+  margin-right: 5px;
 }
 
 .text-admision4 {
-  color: #847FB5;
-  font-weight: bold;
+  color: tan;
+  font-size: 0.9em;
+  letter-spacing: 3px;
+  font-weight: bolder;
+}
+
+.ktext-parrafo {
+  color: tan;
+  font-size: 1.4em;
+  letter-spacing: 3px;
+  padding: 30px 0px;
 }
 
 .header-navegacion {
@@ -311,6 +325,12 @@
 .cinta-menu {
   width: 100%;
   background-color: rgba(5, 31, 66, 0.925);
+  background: rgba(5, 31, 66, 0.925);
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, rgba(5, 31, 66, 0.925), #183050);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, rgba(5, 31, 66, 0.925), #183050);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .cinta-menu .icono-d {
   display: flex;
@@ -326,7 +346,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  height: 90vh;
+  height: 100vh;
   position: relative;
   overflow: hidden;
 }
@@ -361,12 +381,9 @@
   border: 0.1px solid white;
   background-color: #e84218a8;
   font-size: 1.3rem;
-  padding: 0% 5%;
+  padding: 5vh 5%;
   height: 20vh;
   width: 70%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .seccion-admision .container .seccion-1 a:hover {
   background-color: #e84118;
@@ -377,7 +394,6 @@
   }
 }
 .seccion-admision .container .seccion-2 {
-  height: 30vh;
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -436,9 +452,9 @@
 .seccion-admision .opaco-admision {
   background: #183050;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to top, #4286f473, #183050);
+  background: -webkit-linear-gradient(to top, whitesmoke, #183050b7, #183050);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to top, #4286f473, #183050);
+  background: linear-gradient(to top, whitesmoke, #183050b7, #183050);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   position: absolute;
   display: block;
@@ -475,6 +491,15 @@
   .cuerpo-pagina {
     height: auto;
   }
+}
+
+.seccion-cuerpo {
+  background: rgba(5, 31, 66, 0.925);
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, white, whitesmoke);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, white, whitesmoke);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .seccion-noticias {
