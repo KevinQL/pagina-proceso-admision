@@ -32,7 +32,7 @@
                             <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="display-4 bold"> <!-- d-md-none  -->
-                                    <span class="text-admision">EXAMÉN DE</span> ADMISIÓN - 2021-2
+                                    <span class="text-admision">EXÁMEN DE</span> ADMISIÓN - 2021-2
                                     <br>
                                     <a href="index.php#admision2" class="btn btn-outline-light btn-lg py-3 text-warning bold">
                                         <i class="fas fa-diagnoses"></i> 
