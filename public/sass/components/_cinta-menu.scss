@@ -2,7 +2,14 @@
 .cinta-menu{
     // height: 50px;
     width: 100%;
+
+    // #82431b - inicio
+    //#183050 - #233d61 fin
     background-color: $color-primario1;
+    background: $color-primario1;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, $color-primario1, #183050);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, $color-primario1, #183050); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
     
     .icono-d{
         display: flex;

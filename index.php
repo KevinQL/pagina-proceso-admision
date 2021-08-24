@@ -149,14 +149,23 @@
             <div class="container text-white">
                 <div class="row text-center">
                     <div class="col-md-6">
-                        <h3 class="py-2"> <span class="text-admision3">EL ÉXITO </span> DEPENDE DE TI</h3>
-                        <p>El éxito depende de la preparación previa, y sin ella seguro que llega el fracaso.</p>
-                        <br><p><h3>(<span class="text-admision3">CONFUCIO</span>)</h3></p>                        
+                        <h3 class="py-2"> <span class="text-admision3">
+                            EL ÉXITO </span> DEPENDE DE TI
+                        </h3>
+                        <img src="./public/img/iconos/success.png" width="10%" alt="">
+                        <div class="lead ktext-parrafo">
+                            El éxito depende de la preparación previa, y sin ella seguro que llega el fracaso.
+                        </div>
+                        <small><span class="text-admision3">(CONFUCIO)</span></small>                     
                     </div>
                     <div class="col-md-6 icono-d">
                         <a href="https://examen.admisionunajma.pe/zetadmision/zet/index.php" class="text-white" target="_blank">
-                            <i class="fas fa-laptop fa-6x"></i>
-                            <h3 class="mt-3"> <span class="text-admision4">SISTEMA VIRTUAL UNAJMA</span> </h3>
+                            <img src="./public/img/iconos/operating-system.png" width="40%" alt="">
+                            <!-- <i class="fas fa-laptop fa-6x"></i> -->
+                            <h4 class="mt-3"> 
+                                <span class="text-admision4">SISTEMA INSCRIPCIÓN ADMISIÓN</span>
+                            </h4>
+                            <small class="">( by unajma )</small>
                         </a>
                     </div>
                 </div>
@@ -164,13 +173,13 @@
         </div>
 
         <!-- ADMISION SECCION QUINTO DE SECUNDARIA  -->
-        <section class="seccion-admision" id="admision2">
+        <section class="seccion-admision py-5" id="admision2">
             <div class="container">
                 <div class="col-md-12 seccion-1">
                     <a href="#" class="">
                         CUENTA BANCO DE LA NACIÓN : 
                         <br>
-                            <i class="fa fa-credit-card-alt" aria-hidden="true"></i>
+                            <i class="fa fa-credit-card-alt text-secondary" aria-hidden="true"></i> 
                             00 182 00 9784
                     </a>
                     <!-- <a href="#" class="">
@@ -242,7 +251,7 @@
 
 
         <!-- CUERPO PAGINA -->
-        <section>
+        <section class="seccion-cuerpo">
             <div class="container cuerpo-pagina">
                 <div class="row pt-4">
                     <div class="col-md-8 seccion-noticias">
@@ -476,7 +485,7 @@
                             </span>
                             <!-- <img src="public/img/iconos/rule.svg" alt="" class="material-icons"> -->
                             </br>
-                            <h4 class="texto-a">Formulario de inscripción </h4>
+                            <h4 class="texto-a">Formulario de inscripción docente</h4>
                         </a>
                         <!-- <img src="public/img/boton-pre-inscripcion.png" alt="" class="img img-fluid "> -->
                     </div>

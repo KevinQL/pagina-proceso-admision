@@ -12,7 +12,7 @@ $color3-h:#192a56;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    height: 90vh;
+    height: 100vh;
     // max-width: 100vw;
     position: relative; 
 
@@ -50,13 +50,13 @@ $color3-h:#192a56;
                 border: .1px solid white;
                 background-color: $color1;
                 font-size: 1.3rem; //modif 
-                padding: 0% 5%;
+                padding: 5vh 5%;
                 height: 20vh;
                 width: 70%;//modif
 
-                display: flex;
-                justify-content: center;
-                align-items: center;
+                // display: flex;
+                // justify-content: center;
+                // align-items: center;
 
                 &:hover{
                     background-color: $color1-h;
@@ -74,7 +74,7 @@ $color3-h:#192a56;
         //SECCION - 2
         .seccion-2{
             // background-color:green;
-            height: 30vh;
+            // height: 30vh;
             overflow: hidden;
 
             display: flex;
@@ -145,9 +145,10 @@ $color3-h:#192a56;
     .opaco-admision{
         // background-color: $c-fondo-opaco;
         background: #183050;  /* fallback for old browsers */
-        background: -webkit-linear-gradient(to top, #4286f473, #183050);  /* Chrome 10-25, Safari 5.1-6 */
-        background: linear-gradient(to top, #4286f473, #183050); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: -webkit-linear-gradient(to top, whitesmoke, #183050b7, #183050);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to top, whitesmoke, #183050b7, #183050); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         
+
 
         position: absolute;
         display: block;
