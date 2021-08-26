@@ -6,7 +6,7 @@
             require_once('partials/cdnsHeader.html');
         ?>
 
-        <title>Unajma admisión 2021-1</title>
+        <title>Unajma admisión 2021-2</title>
     </head>
     <body>
 
