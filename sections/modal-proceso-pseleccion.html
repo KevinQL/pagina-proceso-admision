@@ -1,0 +1,80 @@
+<!-- MODAL ORDINARIO -->
+    <!-- modificar esta seccion -->
+    <div class="d-none modal-inscripcion">
+        <h1 class="txtm-titulo20">
+            <strong class='txtm-titulo20'>IMPORTANTE <br> Postulante Primera Selección</strong>
+        </h1>
+
+        <div class="txt20 ">
+            <h4 class="txt-titulo">
+                El postulante debe de contar con los siguientes requisitos para su inscripcion en la modalidad de primera selección 2021-3:
+            </h4>
+            <ul class="text-left txt-indicaciones"> 
+                <li>Correo electrónico Gmail.</li>
+                <li>Documento Nacional de Identidad.</li>
+                <li>fotografía actualizada del postulante en formato .JPG</li>
+                <li>Comprobante de Pago por derecho de admisión: 
+                    <br> * CUENTA BANCO DE LA NACIÓN: <strong>00 182 00 9784</strong>
+                    </br> * Colegio Nacional (S/. 210.00 ) 
+                    </br> * Colegio Particular (S/. 255.00 )
+                </li>
+                <li>Constancia firmada por el director del colegio señalando que el postulante se encuentra cursando el último año de educación secundaria, que incluya la fotografía del alumno.</li>
+                <li>
+                    TENER A LA MANO SU CARNE DE VACUNACIÓN CONTRA EL COVID-19
+                </li>
+                <!-- <li>Certificado de estudios</li> -->
+<!--                 
+                <li>Estimado postulante recuerda que para poder rendir su examen virtual debe contar con los siguientes requisitos mínimos:</li>
+                <li>Un (01) ambiente privado, sin interrupción de equipos electrónicos encendidos (radio, televisión, celulares, computadoras u otros), acondicionado con una (01) silla y una (01) mesa, escritorio u otro de 1 metro por 60 cm. Aproximadamente.</li>
+                <li>Una (01) computadora o laptop con: -Cámara web operativo. - Conexión a internet por WiFi o cableado. - Capacidad de memoria de 4GB de RAM (recomendado). - Procesador Intel Celeron o superior. - Navegador web Mozilla, Chrome. - Conectada a energía o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
+                <li>Un (01) celular Smartphone con: - Cámara. – Conexión a internet. – Sistema Android compatible con Google Meet. – Conectada a energía eléctrica o con batería cargada al 100% que garantice una duración por más de dos (02) horas.</li>
+                <li>Servicio de internet por un periodo aproximado de dos (02) horas y un ancho de banda mínimo estable de 4 Mbps.</li> -->
+                <li>Despues de realizar tu preinscripción. Puedes realizar tu consulta virtual aquí: <br>
+                    <a href="https://examen.admisionunajma.pe/admision2000/?pg=consult" target="_blank" >
+                        (
+                            <img src="./public/img/iconos/user-interface.png" width="25px" alt=""> 
+                            CONSULTAR ESTADO INSCRIPCIÓN AQUÍ 
+                        )
+                    </a>
+                </li>
+
+                <li>Tener en cuenta los manuales para no tener incovenientes <br>
+                    <a href="index.php#comunicados" onclick="cerrar_modal()">(VER AQUI)</a>
+                </li>
+
+            </ul>
+
+            <a href="https://examen.admisionunajma.pe/zetadmision/zet/pre__inscripcion_ps.php" target="_blank" class="btn btn-sm btn-info">
+                ACEPTO Y CONTINUAR
+            </a> 
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <!-- script modal sweet -->
+    <script>
+        let titulo20 = document.querySelector(".txtm-titulo20").innerHTML
+        let msj20 = document.querySelector(".txt20").innerHTML;
+        let btn_inscribete20 = document.querySelector(".btn-inscribete20");
+
+        btn_inscribete20.addEventListener('click',function(e){
+            // e.preventDefault();
+            Swal.fire({
+                title: `<strong class='txt-titulo'>${titulo20}</strong>`,
+                icon: 'info',
+                html: `${msj20}`,
+                showCloseButton: true,
+                showConfirmButton: false,
+                showCancelButton: false,
+            })    
+        });
+    </script>
+<!-- FIN MODAL INSCRIBETE -->

@@ -6,7 +6,7 @@
             require_once('partials/cdnsHeader.html');
         ?>
 
-        <title>Unajma admisión 2021-2</title>
+        <title>Cronograma admisión 2021-3</title>
     </head>
     <body>
 
@@ -25,18 +25,20 @@
                 </h1>
             </div>            
 
-            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN 2021-II</h5>
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN 2021-III</h5>
             <hr class="line-reglamento">
 
             <p>
                 <ul>
                     
-                    <li><b>Publicidad</b> 	: del 01 de agosto al 09 de setiembre del 2021.</li><br>
-                    <li><b>Inscripción virtual Extraordinario</b> 	: del 16 de agosto al 09 de setiembre del 2021.</li><br>
-                    <li><b>Inscripción virtual Ordinario</b> 	: del 16 de agosto al 15 de setiembre del 2021</li><br>
-                    <li><b>EXAMEN EXTRAORDINARIO</b>			            : 11 de setiembre del 2021.</li><br>
-                    <li><b>EXAMEN ORDINARIO </b>		    : 17 y 18 de setiembre del 2021.</li><br>
-                    <li><b>ENTREGA DE CONSTANCIAS DE INGRESO </b>		    : 20 y 21 de setiembre del 2021.</li><br>
+                    <li><b>Publicidad</b> 	: desde 16 de noviembre del 2021.</li><br>
+                    <li><b>Inscripción virtual Primera Selección</b> : del 18 de noviembre al 16 de diciembre del 2021.</li><br>
+                    <li><b>Inscripción virtual cepre</b> : --</li>
+                    <br><br>
+                    <li><b>EXAMEN PRIMERA SELECCIÓN</b>	: 18 de diciembre del 2021.</li><br>
+                    <li><b>EXAMEN CEPRE </b>		    : --</li>
+                    <br><br>
+                    <li><b>ENTREGA DE CONSTANCIAS DE INGRESO </b> : --</li><br>
 
                     <!-- 
                         <h5 class="text-center text-lead ">TRASLADOS EXTERNOS DE ESTUDIANTES DE UNIVERSIDADES CON LICENCIAMIENTO DENEGADO 2021-1</h5>

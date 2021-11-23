@@ -10,7 +10,7 @@
         <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
-        <title>Unajma admisión 2021</title>
+        <title>Unajma admisión 2021-3</title>
     </head>
     
     <body>
@@ -29,14 +29,21 @@
 
                         <li class="glide__slide">
                             <!-- <img src="public/img/slider/admision_f.jpg" class="" alt="..."> -->
-                            <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
+                            <img src="public/img/slider/2021-3/ps1.jpeg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="display-4 bold"> <!-- d-md-none  -->
-                                    <span class="text-admision">EXAMEN DE</span> ADMISIÓN - 2021-2
+                                    <span class="">
+                                        <span class="text-sh1">EXAMEN </span> 
+                                        <span class="text-admision text-sh2">DE ADMISIÓN</span>
+                                        <br>
+                                        <span class="text-sh1">2021 - 3</span>
+                                    </span>
                                     <br>
-                                    <a href="index.php#admision2" class="btn btn-outline-light btn-lg py-3 text-warning bold">
+                                    <a href="index.php#admision2" class="btn btn-light btn-lg mt-4 py-3 px-5 txt-btn-inscr bold">
+                                        INSCRIPCIONES ABIERTAS
+                                        <br>
                                         <i class="fas fa-diagnoses"></i> 
-                                        INSCRIPCIONES <span class="text-admision2 bold">2021-2</span>
+                                        <span class="">(click aquí)</span>
                                         <i class="fas fa-diagnoses"></i> 
                                     </a>
                                 </h1>
@@ -176,26 +183,47 @@
         <section class="seccion-admision py-5" id="admision2">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="#" class="">
+                    <!-- <a href="#" class="">
                         CUENTA BANCO DE LA NACIÓN : 
                         <br>
                             <i class="fa fa-credit-card-alt text-secondary" aria-hidden="true"></i> 
                             00 182 00 9784
+                    </a> -->
+                    <a href="#admision" class="btn-inscribete20 text-admision3"> 
+                        INSCRÍBETE AQUÍ <br>
+                        (PRIMERA SELECCIÓN) <br>
+                        <!-- <small class="text-warning bold"> -->
+                        <!-- <small class="text-success bold"> -->
+                        <small class="text-success bold">
+                            ( 
+                                DISPONIBLE
+                                <!-- <i class="fa fa-window-close" aria-hidden="true"></i> -->
+                                <i class="fa fa-external-link-square" aria-hidden="true"></i>  
+                            )   
+                        </small>
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a> -->
                 </div>
+                <?php
+                    // EXTRAORDINARIO TRASLADO
+                    include_once("sections/modal-proceso-pseleccion.html");
+                    // MODAL EXTRAORDNIRIO  
+                    // include_once("sections/modal-proceso-extraordinario.html");
+                ?>
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRÍBETE AQUÍ <br>
                         (ORDINARIO) <br>
-                        <small class="text-success bold">
+                        <!-- <small class="text-success bold"> -->
+                        <small class="text-warning bold">
                             ( 
-                                ABIERTO
-                                <i class="fa fa-external-link-square" aria-hidden="true"></i>  
-                            )
+                                PENDIENTE
+                                <i class="fa fa-window-close" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
+                            )   
                         </small>
                     </a>
                 </div>
@@ -212,10 +240,11 @@
                             <a href="#admision" class="btn-inscribete21"> 
                                 INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
-                                <small class="text-warning bold">
+                                <small class="text-success bold">
                                     (
-                                        CERRADO
-                                        <i class="fa fa-window-close" aria-hidden="true"></i>
+                                        DISPONIBLE
+                                        <i class="fa fa-external-link-square" aria-hidden="true"></i>  
+                                        <!-- <i class="fa fa-window-close" aria-hidden="true"></i> -->
                                     )
                                 </small>
                             </a>
@@ -228,10 +257,10 @@
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRÍBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
-                                <small class="text-success bold">
+                                <small class="text-warning bold">
                                     ( 
-                                        ABIERTO
-                                        <i class="fa fa-external-link-square" aria-hidden="true"></i>                                        
+                                        PENDIENTE
+                                        <i class="fa fa-window-close" aria-hidden="true"></i>                                      
                                     )
                                 </small>
                             </a>
