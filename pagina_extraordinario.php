@@ -27,6 +27,10 @@
                 </h1>
             </div>
             
+            <b>DEPOSITO CUENTA BANCO DE LA NACIÓN: <span class="bg-danger text-white p-2">00 182 00 9784</span></b>
+            <br>
+            <br>
+
             <!-- acordion tpor temario -->
             <div class="accordion" id="accordionExample">
 

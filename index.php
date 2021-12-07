@@ -10,10 +10,22 @@
         <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
-        <title>Unajma admisión 2021-3</title>
+        <title>Unajma admisión 2022-1</title>
     </head>
     
     <body>
+
+        <!-- LOADER... -->
+        <section class="contain-loader">
+            <div class="loader">
+                <span></span>
+                <span></span>
+                <span></span>
+                <img src="public/img/logo_u.ico" alt="" height="95px">            
+                <small>admisión</small>
+                <h2>..CARGANDO..</h2>
+            </div>
+        </section>
 
         <!-- NAVEGACIÓN -->
         <?php
@@ -36,7 +48,7 @@
                                         <span class="text-sh1">EXAMEN </span> 
                                         <span class="text-admision text-sh2">DE ADMISIÓN</span>
                                         <br>
-                                        <span class="text-sh1">2021 - 3</span>
+                                        <span class="text-sh1">2022 - 1</span>
                                     </span>
                                     <br>
                                     <a href="index.php#admision2" class="btn btn-light btn-lg mt-4 py-3 px-5 txt-btn-inscr bold">
@@ -240,11 +252,11 @@
                             <a href="#admision" class="btn-inscribete21"> 
                                 INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
-                                <small class="text-success bold">
+                                <small class="text-danger bold">
                                     (
-                                        DISPONIBLE
-                                        <i class="fa fa-external-link-square" aria-hidden="true"></i>  
-                                        <!-- <i class="fa fa-window-close" aria-hidden="true"></i> -->
+                                        CERRADO
+                                        <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
+                                        <i class="fa fa-window-close" aria-hidden="true"></i>
                                     )
                                 </small>
                             </a>
@@ -311,7 +323,8 @@
                                     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                                         <div class="card bg-dark text-white">
                                             <!-- <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/N7yxUvfPAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/6gkC9VvA1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            <!--<iframe width="100%" height="410" src="https://www.youtube.com/embed/6gkC9VvA1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/7xfoN10bywg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                                         </div>
                                     </div>
@@ -623,6 +636,13 @@
 
             }else {
                 btnaviso.style.display = "none"
+            }
+
+
+            // loader display none update 2021-3
+            window.onload = function() {
+                let contain_loader = document.querySelector(".contain-loader");
+                contain_loader.style.transform = "translateX(-100%)" 
             }
 
         </script>
