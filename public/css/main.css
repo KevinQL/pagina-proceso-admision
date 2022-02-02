@@ -51,7 +51,7 @@
 .header-navegacion {
   position: sticky;
   top: 0px;
-  z-index: 500;
+  z-index: 991;
   background-color: rgba(237, 238, 238, 0.965);
   -webkit-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
   -moz-box-shadow: 0px 3px 5px 3px rgba(5, 31, 66, 0.801);
@@ -890,6 +890,113 @@
   animation-duration: 3s;
   border-radius: 57% 43% 44% 56%/35% 45% 55% 65%;
   box-shadow: 0px 0px 80px rgba(255, 255, 255, 0.308);
+}
+
+.contain-bank {
+  position: fixed;
+  background: rgba(106, 142, 35, 0.034);
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  bottom: 30px;
+  z-index: 990;
+  padding: 10px 30px;
+  transform: translateX(-98%);
+  transition: all 1s;
+}
+.contain-bank span.text {
+  background-color: #fc8512bf;
+  color: white;
+  padding: 18px 12px;
+  border-radius: 100px 20px;
+}
+.contain-bank label {
+  position: absolute;
+  top: -12px;
+  right: -10px;
+  background: rgba(255, 166, 0, 0.2);
+  padding: 2px 8px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.contain-bank.active {
+  transform: translateX(0px);
+  background: #38479aad;
+}
+
+@media only screen and (max-width: 600px) {
+  .contain-bank {
+    font-size: 0.8rem;
+    bottom: 0px;
+    padding: 10px 14px 10px 3px;
+  }
+}
+.contain-cepre {
+  background: rgba(0, 0, 0, 0.247);
+  position: fixed;
+  top: 0px;
+  left: 5%;
+  width: 90%;
+  max-height: 100vh;
+  z-index: 995;
+}
+.contain-cepre .contain-close {
+  color: white;
+  background: #38479a;
+  display: inline-block;
+  position: absolute;
+  right: 16px;
+  border-radius: 3px;
+  padding: 8px 10px;
+  margin-top: 13px;
+  font-weight: bold;
+  font-size: 0.9em;
+  z-index: 999;
+  cursor: pointer;
+}
+.contain-cepre .contain-img {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  padding: 10px;
+}
+.contain-cepre .contain-img img {
+  display: block;
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.c-anuncio-cepre {
+  position: absolute;
+  display: inline-block;
+  top: 120px;
+  left: 15px;
+  background-color: #000;
+  z-index: 990;
+  width: 140px;
+}
+.c-anuncio-cepre span {
+  display: none;
+  position: absolute;
+  top: 7px;
+  left: 80%;
+  background: #38479a;
+  color: white;
+  font-size: 0.7em;
+  padding: 7px 18px;
+  text-align: center;
+}
+.c-anuncio-cepre img {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+}
+.c-anuncio-cepre img:hover {
+  box-shadow: 0 0 20px 1px rgba(0, 19, 186, 0.534);
+}
+.c-anuncio-cepre img:hover + span {
+  display: block;
 }
 
 /*# sourceMappingURL=main.css.map */

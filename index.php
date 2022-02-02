@@ -27,6 +27,34 @@
             </div>
         </section>
 
+
+        <!-- SECTION ANUNCIO CEPRE -->
+        <section class="contain-cepre">
+            <span class="contain-close" onclick="closeAnuncioCepre(true)">Cerrar</span>
+            <div class="contain-img">
+                <!-- div container cepre -->
+                <img src="./public/img/cepre.jpeg" alt="cepre">
+            </div>
+        </section>
+            <!-- contenedor anuncio CEPRE -->
+            <section class="c-anuncio-cepre">
+                <img src="./public/img/cepre.jpeg" alt="cepre" onclick="closeAnuncioCepre(false)">
+                <span>ANUNCIO CEPRE</span>
+            </section>
+
+
+        <!-- SECTION NUMBER BANK -->
+        <section class="contain-bank">
+            <div>
+                CUENTA BANCO DE LA NACIÓN: 
+                <span class="text">00 182 00 9784</span>
+                <label class="btn-bx">X</label>
+            </div>
+        </section>
+
+
+
+
         <!-- NAVEGACIÓN -->
         <?php
             include_once('sections/navegacion.html');
@@ -205,12 +233,12 @@
                         INSCRÍBETE AQUÍ <br>
                         (PRIMERA SELECCIÓN) <br>
                         <!-- <small class="text-warning bold"> -->
+                        <small class="text-danger bold">
                         <!-- <small class="text-success bold"> -->
-                        <small class="text-success bold">
                             ( 
-                                DISPONIBLE
-                                <!-- <i class="fa fa-window-close" aria-hidden="true"></i> -->
-                                <i class="fa fa-external-link-square" aria-hidden="true"></i>  
+                                CERRADO
+                                <i class="fa fa-window-close" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
                             )   
                         </small>
                     </a>
@@ -229,8 +257,9 @@
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRÍBETE AQUÍ <br>
                         (ORDINARIO) <br>
-                        <!-- <small class="text-success bold"> -->
                         <small class="text-warning bold">
+                        <!-- <small class="text-danger bold"> -->
+                        <!-- <small class="text-success bold"> -->
                             ( 
                                 PENDIENTE
                                 <i class="fa fa-window-close" aria-hidden="true"></i>
@@ -252,7 +281,9 @@
                             <a href="#admision" class="btn-inscribete21"> 
                                 INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
-                                <small class="text-danger bold">
+                                    <!-- <small class="text-warning bold"> -->
+                                    <small class="text-danger bold">
+                                    <!-- <small class="text-success bold"> -->
                                     (
                                         CERRADO
                                         <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
@@ -269,7 +300,9 @@
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRÍBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
-                                <small class="text-warning bold">
+                                    <small class="text-warning bold">
+                                    <!-- <small class="text-danger bold"> -->
+                                    <!-- <small class="text-success bold"> -->
                                     ( 
                                         PENDIENTE
                                         <i class="fa fa-window-close" aria-hidden="true"></i>                                      
@@ -643,6 +676,32 @@
             window.onload = function() {
                 let contain_loader = document.querySelector(".contain-loader");
                 contain_loader.style.transform = "translateX(-100%)" 
+
+                // cinta de cuenta de banco de la nación 
+                let contBank = document.querySelector(".contain-bank")
+                let btn_contBank = document.querySelector(".btn-bx");
+                setTimeout(() => {
+                    
+                    btn_contBank.onclick = function() {
+                        contBank.classList.toggle("active");
+                    }
+
+                    btn_contBank.click();
+
+                }, 4000);
+
+                
+            }
+
+
+            // Anuncio CEPRE
+            function closeAnuncioCepre(action){
+                let containCepre = document.querySelector(".contain-cepre");
+                if(action){
+                    containCepre.style.display = "none";
+                }else{
+                    containCepre.style.display = "block";
+                }
             }
 
         </script>
