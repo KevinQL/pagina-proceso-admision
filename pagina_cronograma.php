@@ -31,14 +31,16 @@
             <p>
                 <ul>
                     
-                    <li><b>Publicidad</b> 	: desde 16 de noviembre del 2021.</li><br>
-                    <li><b>Inscripción virtual Primera Selección</b> : del 18 de noviembre al 16 de diciembre del 2021.</li><br>
-                    <li><b>Inscripción virtual cepre</b> : --</li>
+                    <!-- <li><b>Publicidad</b> 	: desde 16 de noviembre del 2021.</li><br> -->
+                    <li><b>Inscripción virtual Extraordinario</b> :  Del 02 de febrero al 24 de marzo de 2022</li>
+                    <li><b>Inscripción virtual Ordinario</b> : del 03 de febrero al 06 de abril de 2022</li>
+                    <li><b>Inscripción virtual Extraordinario-Cepre</b> : del 03 de febrero al 06 de abril de 2022</li>
                     <br><br>
-                    <li><b>EXAMEN PRIMERA SELECCIÓN</b>	: 18 de diciembre del 2021.</li><br>
-                    <li><b>EXAMEN CEPRE </b>		    : --</li>
+                    <li><b>EXAMEN EXTRAORDINARIO</b>	: 26 de marzo de 2022</li>
+                    <li><b>EXAMEN ORDINARIO </b> : 08 y 09 de abril de 2022</li>
+                    <li><b>EXAMEN EXTRAORDINARIO-CEPRE </b> : 19 de marzo de 2022</li>
                     <br><br>
-                    <li><b>ENTREGA DE CONSTANCIAS DE INGRESO </b> : --</li><br>
+                    <li><b>ENTREGA DE CONSTANCIAS DE INGRESO </b> : 11, 12 y 13 de abril de 2022</li><br>
 
                     <!-- 
                         <h5 class="text-center text-lead ">TRASLADOS EXTERNOS DE ESTUDIANTES DE UNIVERSIDADES CON LICENCIAMIENTO DENEGADO 2021-1</h5>
