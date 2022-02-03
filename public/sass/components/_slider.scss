@@ -44,6 +44,15 @@ $movil-hover-color-fondo : rgba(80, 23, 23, 0.801);
 
         min-width: $w-slider;
         max-width: $w-slider;
+
+        object-fit:cover;
+        object-position:-250px 0px;
+
+        // filter:contrast(200%);
+        // filter:saturate(8);
+        filter:drop-shadow(8px 8px 10px gray);
+        filter:blur(3px);
+
     }
     .texto-slider{
         position: absolute;
@@ -59,11 +68,28 @@ $movil-hover-color-fondo : rgba(80, 23, 23, 0.801);
         
         color: white;
         z-index: 1000;
-
+        font-family:serif;
+        
         display: flex;
         justify-content: center;
         align-items: center;
+        
+        .text-sh1{
+            // text-shadow: 1px 1px 2px white, 0 0 25px blue, 0 0 5px darkblue;
+            text-shadow: 1px 1px 20px white, 0 0 50px white, 0 0 5px darkgoldenrod;
+            font-family:fantasy;
+            letter-spacing: 9px;
+        }
+        .text-sh2{
+            // text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+            text-shadow: 1px 1px 15px aliceblue, 0 0 50px blue, 0 0 5px beige
+        }
 
+        .txt-btn-inscr{
+            text-shadow: 1px 1px 20px white, 0 0 50px white, 0 0 5px darkgoldenrod;
+            font-family:fantasy;
+            letter-spacing: 1px;
+        }
         @media all and (max-width:500px) {
             /*
             // para centrar el texto en modo resposivo

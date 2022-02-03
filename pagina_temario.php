@@ -26,14 +26,28 @@
                     TEMARIO
                 </h1>
             </div>
+
+
+            <!-- PROCESO DE ADMISON 2021-3 -->
             
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN  2021-3 </h5>
+            <hr class="line-reglamento">
+
+            <div class="t-pdf">
+                <a href="public/docs/temario_pseleccion_2021-III.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Descargar Temario Primera Selección.PDF</a>
+            </div>            
+
+            <br>
+            <br>
+
+            <!-- PROCESO DE ADMISON 2021-2 -->
 
             <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN  2021-2 </h5>
             <hr class="line-reglamento">
 
-<div class="t-pdf">
-    <a href="public/docs/temario_admision_2021-II.pdf"><i class="fas fa-cloud-download-alt"></i> Descargar Temario PDF</a>
-</div>
+            <div class="t-pdf">
+                <a href="public/docs/temario_admision_2021-II.pdf"><i class="fas fa-cloud-download-alt"></i> Descargar Temario PDF</a>
+            </div>
 
 <h3 class="display-6 titulo-temario my-3">
     ÁREA MATEMÁTICA

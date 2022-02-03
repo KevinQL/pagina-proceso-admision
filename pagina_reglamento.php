@@ -27,27 +27,30 @@
                 </h1>
             </div>  
 
-<!--
-            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2021</h5>
-            <hr class="line-reglamento">
 
             <div>
-                <b>El postulante que se presente al Proceso de Admisión 2021 - 1, que se realizará en su modalidad de ingreso:</b>
-                <br>
+                <b>El postulante que se presente al Proceso de Admisión 2021-3, que se realizará en sus dos modalidades de ingreso:</b>
                 <br>
                 <ul>
-                    <li>EXAMEN EXTRAORDINARIO</li>
+                    <li>EXAMEN PRIMERA SELECCIÓN</li>
                 </ul>
-                <b>LEER OBLIGATORIAMENTE LA DIRECTIVA PARA EL EXAMEN DE ADMISIÓN EXTRAORDINARIO. . . </b>
+                <b>DEBE LEER OBLIGATORIAMENTE LA RESOLUCIÓN DE ADMISIÓN</b>
                 <br>
-                <a href="public/docs/DIR-OCA-UNAJMA-2021-I-02-12-2020.pdf" class="display-5" target="_blank" download>
-                    <i class="fas fa-cloud-download-alt"></i> DESCARGAR EL REGLAMENTO AQUÍ .PDF
+                <a href="public/docs/2021_III_RESOLUCION_DE_ADMISION.pdf" 
+                    class="display-5" 
+                    target="_blank" 
+                    download
+                >
+                    <i class="fas fa-cloud-download-alt"></i> DESCARGAR LA RESOLUCIÓN PRIMERA SELECCIÓN
+                     2021-3.PDF
                 </a>
-            </div>   
-                
-            <h5 class="text-center mt-4 text-lead ">PROCESO DE ADMISIÓN 2021 - 1</h5>
-            <hr class="line-reglamento">
--->
+                <br>
+            </div>
+            
+
+            <hr>
+
+
             <div>
                 <b>El postulante que se presente al Proceso de Admisión 2021-2, que se realizará en sus dos modalidades de ingreso:</b>
                 <br>

@@ -10,10 +10,50 @@
         <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
-        <title>Unajma admisión 2021</title>
+        <title>Unajma admisión 2022-1</title>
     </head>
     
     <body>
+
+        <!-- LOADER... -->
+        <section class="contain-loader">
+            <div class="loader">
+                <span></span>
+                <span></span>
+                <span></span>
+                <img src="public/img/logo_u.ico" alt="" height="95px">            
+                <small>admisión</small>
+                <h2>..CARGANDO..</h2>
+            </div>
+        </section>
+
+
+        <!-- SECTION ANUNCIO CEPRE -->
+        <section class="contain-cepre">
+            <span class="contain-close" onclick="closeAnuncioCepre(true)">Cerrar</span>
+            <div class="contain-img">
+                <!-- div container cepre -->
+                <img src="./public/img/cepre.jpeg" alt="cepre">
+            </div>
+        </section>
+            <!-- contenedor anuncio CEPRE -->
+            <section class="c-anuncio-cepre">
+                <img src="./public/img/cepre.jpeg" alt="cepre" onclick="closeAnuncioCepre(false)">
+                <span>ANUNCIO CEPRE</span>
+            </section>
+
+
+        <!-- SECTION NUMBER BANK -->
+        <section class="contain-bank">
+            <div>
+                CUENTA BANCO DE LA NACIÓN: 
+                <span class="text">00 182 00 9784</span>
+                <label class="btn-bx">X</label>
+            </div>
+        </section>
+
+
+
 
         <!-- NAVEGACIÓN -->
         <?php
@@ -29,14 +69,21 @@
 
                         <li class="glide__slide">
                             <!-- <img src="public/img/slider/admision_f.jpg" class="" alt="..."> -->
-                            <img src="public/img/slider/pabellon-comedor.jpg" class="" alt="...">
+                            <img src="public/img/slider/2021-3/ps1.jpeg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="display-4 bold"> <!-- d-md-none  -->
-                                    <span class="text-admision">EXAMEN DE</span> ADMISIÓN - 2021-2
+                                    <span class="">
+                                        <span class="text-sh1">EXAMEN </span> 
+                                        <span class="text-admision text-sh2">DE ADMISIÓN</span>
+                                        <br>
+                                        <span class="text-sh1">2022 - 1</span>
+                                    </span>
                                     <br>
-                                    <a href="index.php#admision2" class="btn btn-outline-light btn-lg py-3 text-warning bold">
+                                    <a href="index.php#admision2" class="btn btn-light btn-lg mt-4 py-3 px-5 txt-btn-inscr bold">
+                                        INSCRIPCIONES ABIERTAS
+                                        <br>
                                         <i class="fas fa-diagnoses"></i> 
-                                        INSCRIPCIONES <span class="text-admision2 bold">2021-2</span>
+                                        <span class="">(click aquí)</span>
                                         <i class="fas fa-diagnoses"></i> 
                                     </a>
                                 </h1>
@@ -176,26 +223,48 @@
         <section class="seccion-admision py-5" id="admision2">
             <div class="container">
                 <div class="col-md-12 seccion-1">
-                    <a href="#" class="">
+                    <!-- <a href="#" class="">
                         CUENTA BANCO DE LA NACIÓN : 
                         <br>
                             <i class="fa fa-credit-card-alt text-secondary" aria-hidden="true"></i> 
                             00 182 00 9784
+                    </a> -->
+                    <a href="#admision" class="btn-inscribete20 text-admision3"> 
+                        INSCRÍBETE AQUÍ <br>
+                        (PRIMERA SELECCIÓN) <br>
+                        <!-- <small class="text-warning bold"> -->
+                        <small class="text-danger bold">
+                        <!-- <small class="text-success bold"> -->
+                            ( 
+                                CERRADO
+                                <i class="fa fa-window-close" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
+                            )   
+                        </small>
                     </a>
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a> -->
                 </div>
+                <?php
+                    // EXTRAORDINARIO TRASLADO
+                    include_once("sections/modal-proceso-pseleccion.html");
+                    // MODAL EXTRAORDNIRIO  
+                    // include_once("sections/modal-proceso-extraordinario.html");
+                ?>
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRÍBETE AQUÍ <br>
                         (ORDINARIO) <br>
-                        <small class="text-success bold">
+                        <small class="text-warning bold">
+                        <!-- <small class="text-danger bold"> -->
+                        <!-- <small class="text-success bold"> -->
                             ( 
-                                ABIERTO
-                                <i class="fa fa-external-link-square" aria-hidden="true"></i>  
-                            )
+                                PENDIENTE
+                                <i class="fa fa-window-close" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
+                            )   
                         </small>
                     </a>
                 </div>
@@ -212,9 +281,12 @@
                             <a href="#admision" class="btn-inscribete21"> 
                                 INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
-                                <small class="text-warning bold">
+                                    <!-- <small class="text-warning bold"> -->
+                                    <small class="text-danger bold">
+                                    <!-- <small class="text-success bold"> -->
                                     (
                                         CERRADO
+                                        <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
                                         <i class="fa fa-window-close" aria-hidden="true"></i>
                                     )
                                 </small>
@@ -228,10 +300,12 @@
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRÍBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
-                                <small class="text-success bold">
+                                    <small class="text-warning bold">
+                                    <!-- <small class="text-danger bold"> -->
+                                    <!-- <small class="text-success bold"> -->
                                     ( 
-                                        ABIERTO
-                                        <i class="fa fa-external-link-square" aria-hidden="true"></i>                                        
+                                        PENDIENTE
+                                        <i class="fa fa-window-close" aria-hidden="true"></i>                                      
                                     )
                                 </small>
                             </a>
@@ -282,7 +356,8 @@
                                     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                                         <div class="card bg-dark text-white">
                                             <!-- <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/N7yxUvfPAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/6gkC9VvA1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            <!--<iframe width="100%" height="410" src="https://www.youtube.com/embed/6gkC9VvA1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/7xfoN10bywg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                                         </div>
                                     </div>
@@ -594,6 +669,39 @@
 
             }else {
                 btnaviso.style.display = "none"
+            }
+
+
+            // loader display none update 2021-3
+            window.onload = function() {
+                let contain_loader = document.querySelector(".contain-loader");
+                contain_loader.style.transform = "translateX(-100%)" 
+
+                // cinta de cuenta de banco de la nación 
+                let contBank = document.querySelector(".contain-bank")
+                let btn_contBank = document.querySelector(".btn-bx");
+                setTimeout(() => {
+                    
+                    btn_contBank.onclick = function() {
+                        contBank.classList.toggle("active");
+                    }
+
+                    btn_contBank.click();
+
+                }, 4000);
+
+                
+            }
+
+
+            // Anuncio CEPRE
+            function closeAnuncioCepre(action){
+                let containCepre = document.querySelector(".contain-cepre");
+                if(action){
+                    containCepre.style.display = "none";
+                }else{
+                    containCepre.style.display = "block";
+                }
             }
 
         </script>
