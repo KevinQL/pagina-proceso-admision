@@ -28,20 +28,20 @@
         </section>
 
 
-        <!-- SECTION ANUNCIO CEPRE -->
+        <!-- SECTION ANUNCIO CEPRE 
         <section class="contain-cepre">
             <span class="contain-close" onclick="closeAnuncioCepre(true)">Cerrar</span>
-            <div class="contain-img">
-                <!-- div container cepre -->
+            <div class="contain-img"> -->
+                <!-- div container cepre 
                 <img src="./public/img/cepre.jpeg" alt="cepre">
             </div>
-        </section>
-            <!-- contenedor anuncio CEPRE -->
+        </section>-->
+            <!-- contenedor anuncio CEPRE 
             <section class="c-anuncio-cepre">
                 <img src="./public/img/cepre.jpeg" alt="cepre" onclick="closeAnuncioCepre(false)">
                 <span>ANUNCIO CEPRE</span>
-            </section>
-
+            </section>-->
+           
 
         <!-- SECTION NUMBER BANK -->
         <section class="contain-bank">
@@ -69,14 +69,15 @@
 
                         <li class="glide__slide">
                             <!-- <img src="public/img/slider/admision_f.jpg" class="" alt="..."> -->
-                            <img src="public/img/slider/2021-3/ps1.jpeg" class="" alt="...">
+                            <img src="public/img/slider/2022-1/ps1.jpg" class="" alt="...">
                             <div class="texto-slider text-center">
                                 <h1 class="display-4 bold"> <!-- d-md-none  -->
                                     <span class="">
-                                        <span class="text-sh1">EXAMEN </span> 
+                                        <span class="text-sh1">PROCESO</span> 
                                         <span class="text-admision text-sh2">DE ADMISIÓN</span>
                                         <br>
                                         <span class="text-sh1">2022 - 1</span>
+                                        <BR><span class="text-admision text-sh2">ORDINARIO:08 Y 09 DE ABRIL</span> </BR>
                                     </span>
                                     <br>
                                     <a href="index.php#admision2" class="btn btn-light btn-lg mt-4 py-3 px-5 txt-btn-inscr bold">
@@ -89,6 +90,30 @@
                                 </h1>
                             </div>  
                         </li>
+                        <li class="glide__slide">
+                            <!-- <img src="public/img/slider/admision_f.jpg" class="" alt="..."> -->
+                            <img src="public/img/slider/2022-1/ps2.jpg" class="" alt="...">
+                            <div class="texto-slider text-center">
+                                <h1 class="display-4 bold"> <!-- d-md-none  -->
+                                    <span class="">
+                                        <span class="text-sh1">PROCESO</span> 
+                                        <span class="text-admision text-sh2">DE ADMISIÓN</span>
+                                        <br>
+                                        <span class="text-sh1">2022 - 1</span>
+                                        <BR><span class="text-admision text-sh2">EXTRAORDINARIO: 27 DE MARZO</span> </BR>
+                                    </span>
+                                    <br>
+                                    <a href="index.php#admision2" class="btn btn-light btn-lg mt-4 py-3 px-5 txt-btn-inscr bold">
+                                        INSCRIPCIONES ABIERTAS
+                                        <br>
+                                        <i class="fas fa-diagnoses"></i> 
+                                        <span class="">(click aquí)</span>
+                                        <i class="fas fa-diagnoses"></i> 
+                                    </a>
+                                </h1>
+                            </div>  
+                        </li>
+                        
                         <!-- <li class="glide__slide">
                             <img src="public/img/slider/administracion.JPG" class="" alt="...">
                             <div class="texto-slider text-center">
@@ -212,7 +237,7 @@
                             <h4 class="mt-3"> 
                                 <span class="text-admision4">SISTEMA INSCRIPCIÓN ADMISIÓN</span>
                             </h4>
-                            <small class="">( by unajma )</small>
+                            <small class=""> </small>
                         </a>
                     </div>
                 </div>
@@ -222,36 +247,36 @@
         <!-- ADMISION SECCION QUINTO DE SECUNDARIA  -->
         <section class="seccion-admision py-5" id="admision2">
             <div class="container">
-                <div class="col-md-12 seccion-1">
+                <div class="col-md-12 seccion-1"> 
                     <!-- <a href="#" class="">
                         CUENTA BANCO DE LA NACIÓN : 
                         <br>
                             <i class="fa fa-credit-card-alt text-secondary" aria-hidden="true"></i> 
                             00 182 00 9784
                     </a> -->
-                    <a href="#admision" class="btn-inscribete20 text-admision3"> 
+                    <!-- <a href="#admision" class="btn-inscribete20 text-admision3"> 
                         INSCRÍBETE AQUÍ <br>
                         (PRIMERA SELECCIÓN) <br>
-                        <!-- <small class="text-warning bold"> -->
+                        <small class="text-warning bold">
                         <small class="text-danger bold">
-                        <!-- <small class="text-success bold"> -->
+                        <small class="text-success bold">
                             ( 
                                 CERRADO
                                 <i class="fa fa-window-close" aria-hidden="true"></i>
-                                <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
+                                <i class="fa fa-external-link-square" aria-hidden="true"></i>  
                             )   
                         </small>
-                    </a>
+                    </a> -->
                     <!-- <a href="#" class="">
                         SIMULACRO VIRTUAL ADMISIÓN UNAJMA - 2020
                     </a> -->
-                </div>
-                <?php
+                </div> 
+               <?php
                     // EXTRAORDINARIO TRASLADO
-                    include_once("sections/modal-proceso-pseleccion.html");
+                    /* include_once("sections/modal-proceso-pseleccion.html"); */
                     // MODAL EXTRAORDNIRIO  
                     // include_once("sections/modal-proceso-extraordinario.html");
-                ?>
+                ?> 
                 <div class="col-md-12 seccion-2">
                     <!-- <a href="https://admisionunajma.pe/zetadmision/zet/pre.php" target="_blank">INSCRIBETE AQUÍ</a> -->
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
@@ -278,14 +303,14 @@
                 <div class="col-md-12 seccion-3">
                     <div class="row">
                         <div class="col-6 txt-ins">
-                            <a href="#admision" class="btn-inscribete21"> 
+                            <a href="#admision" class="btn-inscribete21 text"> 
                                 INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
                                     <!-- <small class="text-warning bold"> -->
-                                    <small class="text-danger bold">
+                                    <small class="text-warning bold">
                                     <!-- <small class="text-success bold"> -->
                                     (
-                                        CERRADO
+                                        PENDIENTE
                                         <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
                                         <i class="fa fa-window-close" aria-hidden="true"></i>
                                     )

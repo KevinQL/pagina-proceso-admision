@@ -20,6 +20,17 @@
         
         <div class="container py-4">
 
+
+
+
+
+
+
+
+
+
+
+
             <div class="pt-3 pb-5">
                 <h1 class="display-4 titulo-temario">
                     CUADRO DE VACANTES POR CARRERA Y MODALIDAD
@@ -29,7 +40,7 @@
 
             <!-- PROCESO 2021-2 -->
             <h5 class="text-center mt-4 text-lead ">
-                PROCESO DE ADMISIÓN 2021 - III
+                PROCESO DE ADMISIÓN 2022 - 1
             </h5>
             <hr class="line-reglamento">
             <div class="text-small my-4"  style="width:100%; height:100%; overflow-x: scroll; ">
@@ -64,118 +75,120 @@
                     <tbody>
                         <tr>
                             <th class="p-3 mb-2 bg-primary text-white align-top">ADMINISTRACIÓN DE EMPRESAS</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">5</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">14</th>
+                            <th class="table-primary align-top text-center">10</th>
+                            <th class="table-primary align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">40</th>
                         </tr>
     
                         <tr>
                             <th class="p-3 mb-2 bg-primary text-white align-top">CONTABILIDAD</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">5</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">14</th>
+                            <th class="table-primary align-top text-center">10</th>
+                            <th class="table-primary align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">40</th>
                         </tr>
     
                         <tr>
                             <th class="p-3 mb-2 bg-primary text-white align-top">EDUCACIÓN PRIMARIA INTERCULTURAL</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">5</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">14</th>
+                            <th class="table-primary align-top text-center">10</th>
+                            <th class="table-primary align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">40</th>
                         </tr>
     
                         <tr>
                             <th class="p-3 mb-2 bg-primary text-white align-top">INGENIERÍA AMBIENTAL</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">5</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">14</th>
+                            <th class="table-primary align-top text-center">10</th>
+                            <th class="table-primary align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">40</th>
                         </tr>
     
                         <tr>
                             <th class="p-3 mb-2 bg-primary text-white align-top">INGENIERÍA DE SISTEMAS</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">5</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">14</th>
+                            <th class="table-primary align-top text-center">10</th>
+                            <th class="table-primary align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">40</th>
                         </tr>
     
                         <tr>
                             <th class="p-3 mb-2 bg-primary text-white align-top">INGENIERÍA AGROINDUSTRIAL</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">5</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="table-primary align-top text-center">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">14</th>
+                            <th class="table-primary align-top text-center">10</th>
+                            <th class="table-primary align-top text-center">05</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">01</th>
+                            <th class="table-primary align-top text-center">02</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">40</th>
                         </tr>
     
                         <tr class="text-center">
                             <th class="p-3 mb-2 bg-primary text-white align-top">TOTAL</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">84</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">60</th>
                             <th class="p-3 mb-2 bg-primary text-white align-top">30</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th> 
-                            <th class="p-3 mb-2 bg-primary text-white align-top">--</th>
-                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">30</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">06</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">12</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">12</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">06</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">06</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">06</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top">06</th> 
+                            <th class="p-3 mb-2 bg-primary text-white align-top">12</th>
+                            <th class="p-3 mb-2 bg-primary text-white align-top text-center">240</th>
                         </tr>
                     </tbody>
                 </table>
+                
             </div>
+            <span>*las vacantes que queden desiertas en el proceso extraordinario sera acumulativas para el proceso ordinario</span>
 
 
             <!-- PROCESO 2021-2 -->
@@ -324,9 +337,13 @@
                             <th class="p-3 mb-2 bg-primary text-white align-top">18</th>
                             <th class="p-3 mb-2 bg-primary text-white align-top text-center">240</th>
                         </tr>
+                        
                     </tbody>
+                    
                 </table>
+                
             </div>
+            
 
 
             <!-- PROCESO 2021-1 -->
