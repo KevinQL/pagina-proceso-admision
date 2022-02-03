@@ -100,7 +100,7 @@
                                         <span class="text-admision text-sh2">DE ADMISIÓN</span>
                                         <br>
                                         <span class="text-sh1">2022 - 1</span>
-                                        <BR><span class="text-admision text-sh2">EXTRAORDINARIO: 27 DE MARZO</span> </BR>
+                                        <BR><span class="text-admision text-sh2">EXTRAORDINARIO: 26 DE MARZO</span> </BR>
                                     </span>
                                     <br>
                                     <a href="index.php#admision2" class="btn btn-light btn-lg mt-4 py-3 px-5 txt-btn-inscr bold">
@@ -248,6 +248,11 @@
         <section class="seccion-admision py-5" id="admision2">
             <div class="container">
                 <div class="col-md-12 seccion-1"> 
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-device-laptop" width="200" height="200" viewBox="0 0 24 24" stroke-width="2" stroke="#ff9300" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                    <line x1="3" y1="19" x2="21" y2="19" />
+                    <rect x="5" y="6" width="14" height="10" rx="1" />
+                    </svg>
                     <!-- <a href="#" class="">
                         CUENTA BANCO DE LA NACIÓN : 
                         <br>
