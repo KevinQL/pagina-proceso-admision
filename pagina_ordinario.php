@@ -32,6 +32,7 @@
                     <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria el cual debe estar visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                     <li>Comprobante de pago por derecho de inscripción al examen de admisión. (Foto voucher)</li>
                     <li>Fotografía actualizada del postulante en archivo jpg o png.</li>
+                    <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
                 </ul>
 
                 <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i> </b> <br>
