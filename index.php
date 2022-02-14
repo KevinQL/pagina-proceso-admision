@@ -388,8 +388,10 @@
                                         <div class="card bg-dark text-white">
                                             <!-- <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/N7yxUvfPAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                                             <!--<iframe width="100%" height="410" src="https://www.youtube.com/embed/6gkC9VvA1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/7xfoN10bywg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                                            <!-- <iframe width="100%" height="410" src="https://www.youtube.com/embed/7xfoN10bywg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/EczYN5WxVTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade text-center" id="profile" role="tabpanel" aria-labelledby="profile-tab">
