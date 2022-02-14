@@ -287,13 +287,13 @@
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRÍBETE AQUÍ <br>
                         (ORDINARIO) <br>
-                        <small class="text-warning bold">
+                        <!-- <small class="text-warning bold"> -->
                         <!-- <small class="text-danger bold"> -->
-                        <!-- <small class="text-success bold"> -->
+                        <small class="text-success bold">
                             ( 
-                                PENDIENTE
-                                <i class="fa fa-window-close" aria-hidden="true"></i>
-                                <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
+                                DISPONIBLE
+                                <!-- <i class="fa fa-window-close" aria-hidden="true"></i> -->
+                                <i class="fa fa-external-link-square" aria-hidden="true"></i>  
                             )   
                         </small>
                     </a>
@@ -311,13 +311,13 @@
                             <a href="#admision" class="btn-inscribete21 text"> 
                                 INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
-                                    <!-- <small class="text-warning bold"> -->
                                     <small class="text-warning bold">
+                                    <!-- <small class="text-danger bold"> -->
                                     <!-- <small class="text-success bold"> -->
                                     (
                                         PENDIENTE
-                                        <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
                                         <i class="fa fa-window-close" aria-hidden="true"></i>
+                                        <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
                                     )
                                 </small>
                             </a>
@@ -330,12 +330,13 @@
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRÍBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
-                                    <small class="text-warning bold">
+                                    <!-- <small class="text-warning bold"> -->
                                     <!-- <small class="text-danger bold"> -->
-                                    <!-- <small class="text-success bold"> -->
+                                    <small class="text-success bold">
                                     ( 
-                                        PENDIENTE
-                                        <i class="fa fa-window-close" aria-hidden="true"></i>                                      
+                                        DISPONIBLE
+                                        <!-- <i class="fa fa-window-close" aria-hidden="true"></i>                                       -->
+                                        <i class="fa fa-external-link-square" aria-hidden="true"></i>
                                     )
                                 </small>
                             </a>
