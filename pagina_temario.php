@@ -27,6 +27,19 @@
                 </h1>
             </div>
 
+            <!-- PROCESO DE ADMISON 2022-1 -->
+            
+            <h5 class="text-center text-lead ">PROCESO DE ADMISIÓN  2022-1 </h5>
+            <hr class="line-reglamento">
+
+            <div class="t-pdf">
+                <a href="public/docs/temario 2022-1.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Descargar Temario 2022-1.PDF</a>
+            </div>            
+
+            <br>
+            <br>
+
+
 
             <!-- PROCESO DE ADMISON 2021-3 -->
             

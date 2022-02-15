@@ -29,6 +29,27 @@
 
 
             <div>
+                <b>El postulante que se presente al Proceso de Admisión 2022-1, que se realizará en sus dos modalidades de ingreso:</b>
+                <br>
+                <ul>
+                    <li>EXAMEN ORDINARIO</li>
+                    <li>EXAMEN EXTRAORDINARIO</li>
+                </ul>
+                <b>DEBE LEER OBLIGATORIAMENTE LA RESOLUCIÓN DE ADMISIÓN</b>
+                <br>
+                <a href="public/docs/REGLAMENTO 2022-1.pdf" 
+                    class="display-5" 
+                    target="_blank" 
+                    download
+                >
+                    <i class="fas fa-cloud-download-alt"></i> DESCARGAR REGLAMENTO DEL PROCESO DE ADMISIÓN 2022-1.PDF
+                </a>
+                <br>
+            </div>
+
+            <hr>
+
+            <div>
                 <b>El postulante que se presente al Proceso de Admisión 2021-3, que se realizará en sus dos modalidades de ingreso:</b>
                 <br>
                 <ul>
