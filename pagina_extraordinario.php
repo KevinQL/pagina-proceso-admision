@@ -69,10 +69,10 @@
 
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i> </b> <br>
                             <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio nacional: </b> <span class="badge badge-warning">S/. 200.00</span><br>
-                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio particular: </b> <span class="badge badge-warning">S/. 230.00</span><br>
+                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio particular: </b> <span class="badge badge-warning">S/. 235.00</span><br>
 
                             <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio nacional: </b> <span class="badge badge-warning">S/. 200.00</span><br>
-                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio particular: </b> <span class="badge badge-warning">S/. 230.00</span>
+                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio particular: </b> <span class="badge badge-warning">S/. 235.00</span>
 
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                             </ul>
 
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
-                            <i class="fas fa-tag"></i> <b>Graduados, Titulados y miembros de las Fuerzas Armadas </b> <span class="badge badge-warning">S/. 783.00</span> <br>                            
+                            <i class="fas fa-tag"></i> <b>Graduados, Titulados y miembros de las Fuerzas Armadas </b> <span class="badge badge-warning">S/. 535.00</span> <br>                            
                         </div>
                     </div>
                 </div>
@@ -137,8 +137,8 @@
                                 <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
-                            <i class="fas fa-tag"></i> <b>Víctima del Terrorismo egresado del colegio nacional</b> <span class="badge badge-warning">S/. 250.00</span> <br>
-                            <i class="fas fa-tag"></i> <b>Víctima del Terrorismo egresado del colegio particular</b> <span class="badge badge-warning">S/. 300.00</span>
+                            <i class="fas fa-tag"></i> <b>Víctima del Terrorismo egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Víctima del Terrorismo egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                         </div>
                     </div>
                 </div>
@@ -163,8 +163,8 @@
                                 <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
-                            <i class="fas fa-tag"></i> <b>Personas con Discapacidad egresado del colegio nacional</b> <span class="badge badge-warning">S/. 250.00</span> <br>
-                            <i class="fas fa-tag"></i> <b>Personas con Discapacidad egresado del colegio particular</b> <span class="badge badge-warning">S/. 300.00</span>
+                            <i class="fas fa-tag"></i> <b>Personas con Discapacidad egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Personas con Discapacidad egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                         </div>
                     </div>
                 </div>
@@ -193,8 +193,8 @@
                                 <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
-                            <i class="fas fa-tag"></i> <b>Deportista de Alto Nivel egresado de colegio nacional</b> <span class="badge badge-warning">S/. 300.00</span> <br>
-                            <i class="fas fa-tag"></i> <b>Deportista de Alto Nivel egresado de colegio particular</b> <span class="badge badge-warning">S/. 360.00</span>
+                            <i class="fas fa-tag"></i> <b>Deportista de Alto Nivel egresado de colegio nacional</b> <span class="badge badge-warning">S/. 200.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Deportista de Alto Nivel egresado de colegio particular</b> <span class="badge badge-warning">S/. 235.00</span>
                         </div>
                     </div>
                 </div>
@@ -219,8 +219,8 @@
                                 <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
-                            <i class="fas fa-tag"></i> <b>Becas VRAEM egresado del colegio nacional</b> <span class="badge badge-warning">S/. 250.00</span> <br>
-                            <i class="fas fa-tag"></i> <b>Becas VRAEM egresado del colegio particular</b> <span class="badge badge-warning">S/. 300.00</span>
+                            <i class="fas fa-tag"></i> <b>Becas VRAEM egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Becas VRAEM egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                         </div>
                     </div>
                 </div>
@@ -254,7 +254,7 @@
                                 <li>Aquellos que hayan realizado su traslado interno anteriormente.</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
-                            <i class="fas fa-tag"></i> <b>Derecho por Traslado Interno </b> <span class="badge badge-warning">S/. 396.00</span> <br>                            
+                            <i class="fas fa-tag"></i> <b>Derecho por Traslado Interno </b> <span class="badge badge-warning">S/. 275.00</span> <br>                            
                         </div>
                     </div>
                 </div>
@@ -308,8 +308,8 @@
                                 <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
-                            <i class="fas fa-tag"></i> <b>Becas 18 egresado del colegio nacional</b> <span class="badge badge-warning">S/. 250.00</span> <br>
-                            <i class="fas fa-tag"></i> <b>Becas 18 egresado del colegio particular</b> <span class="badge badge-warning">S/. 300.00</span>
+                            <i class="fas fa-tag"></i> <b>Becas 18 egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
+                            <i class="fas fa-tag"></i> <b>Becas 18 egresado del colegio particular</b> <span class="badge badge-warning">S/. 175.00</span>
                             <!-- <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>#</b> <span class="badge badge-warning">S/. </span> <br>
                             <i class="fas fa-tag"></i> <b>#</b> <span class="badge badge-warning">S/. </span> -->
