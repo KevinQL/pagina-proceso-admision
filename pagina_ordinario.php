@@ -36,8 +36,8 @@
                 </ul>
 
                 <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i> </b> <br>
-                <i class="fas fa-tag"></i> <b>Examen ordinario egresado de colegio nacional: </b> <span class="badge badge-warning">S/. 300.00</span><br>
-                <i class="fas fa-tag"></i> <b>Examen ordinario egresado de colegio particular: </b> <span class="badge badge-warning">S/. 360.00</span>
+                <i class="fas fa-tag"></i> <b>Examen ordinario egresado de colegio nacional: </b> <span class="badge badge-warning">S/. 210.00</span><br>
+                <i class="fas fa-tag"></i> <b>Examen ordinario egresado de colegio particular: </b> <span class="badge badge-warning">S/. 245.00</span>
                 <br>
                 <br>
                 <b>DEPOSITO CUENTA BANCO DE LA NACIÓN: <span class="bg-danger text-white p-2">00 182 00 9784</span></b>

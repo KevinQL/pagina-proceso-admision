@@ -68,11 +68,11 @@
                             </ul>
 
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i> </b> <br>
-                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio nacional: </b> <span class="badge badge-warning">S/. 300.00</span><br>
-                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio particular: </b> <span class="badge badge-warning">S/. 360.00</span><br>
+                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio nacional: </b> <span class="badge badge-warning">S/. 200.00</span><br>
+                            <i class="fas fa-tag"></i> <b>Por 1° y 2° puesto egresado de colegio particular: </b> <span class="badge badge-warning">S/. 230.00</span><br>
 
-                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio nacional: </b> <span class="badge badge-warning">S/. 300.00</span><br>
-                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio particular: </b> <span class="badge badge-warning">S/. 360.00</span>
+                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio nacional: </b> <span class="badge badge-warning">S/. 200.00</span><br>
+                            <i class="fas fa-tag"></i> <b>Tercio Superior egresados de colegio particular: </b> <span class="badge badge-warning">S/. 230.00</span>
 
                         </div>
                     </div>
