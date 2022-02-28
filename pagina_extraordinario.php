@@ -53,7 +53,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
 
                             <b>Para inscribirse como postulante de alto rendimiento, debe presentar los documentos siguientes:</b>
@@ -64,7 +64,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
 
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i> </b> <br>
@@ -96,7 +96,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
 
                             <b>Los graduados en las escuelas de oficiales de las Fuerzas Armadas y de la Policía Nacional, para inscribirse como titulado o graduados, deben presentar los documentos siguientes:</b>
@@ -107,7 +107,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
 
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
@@ -134,7 +134,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>Víctima del Terrorismo egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
@@ -160,7 +160,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>Personas con Discapacidad egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
@@ -190,7 +190,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>Deportista de Alto Nivel egresado de colegio nacional</b> <span class="badge badge-warning">S/. 200.00</span> <br>
@@ -216,7 +216,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>Becas VRAEM egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>
@@ -245,7 +245,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
 
                             <b>Los estudiantes no tendrán derecho al traslado interno en los casos siguientes:</b>
@@ -279,7 +279,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>Derecho por Traslado externo Nacional</b> <span class="badge badge-warning">S/. 725.00</span> <br> 
@@ -305,7 +305,7 @@
                                 <li>Copia del certificado de estudios originales de los cinco años de Educación Secundaria, visado por la DRE o por la UGEL a la cual pertenece la institución educativa, o Constancia de Logro de Aprendizajes.</li>
                                 <li>Comprobante de pago por derecho de inscripción al examen de admisión.</li>
                                 <li>Fotografía actualizada del postulante en archivo jpg.</li>
-                                <li>Carnet de vacunación contra COVID-19 dosis completa.</li>
+                                <li>Carnet de vacunación contra COVID-19 dosis completa(3 dosis).</li>
                             </ul>
                             <b class="bg-danger text-white pl-5 pr-2 py-1">COSTO <i class="fas fa-wallet"></i></b> <br>
                             <i class="fas fa-tag"></i> <b>Becas 18 egresado del colegio nacional</b> <span class="badge badge-warning">S/. 165.00</span> <br>

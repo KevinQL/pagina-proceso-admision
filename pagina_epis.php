@@ -78,7 +78,7 @@
                                 <li class="glide__slide">
                                     <div class="galeria-detalle">
                                         <div class="imagen">
-                                            <img src="public/img/slider/agro.JPG" alt="" class="img-fluid">
+                                            <img src="public/img/slider/epis/img1.jpg" alt="" class="img-fluid">
                                         </div>                                            
                                         <p class="text-center px-2 titulo-img"></p>
                                     </div>
@@ -86,7 +86,7 @@
                                 <li class="glide__slide">
                                     <div class="galeria-detalle">
                                         <div class="imagen">
-                                            <img src="public/img/slider/pabellon-comedor.jpg" alt="" class="img-fluid">
+                                            <img src="public/img/slider/epis/img2.jpg" alt="" class="img-fluid">
                                         </div>                                            
                                         <p class="text-center px-2 titulo-img"></p>
                                     </div>
@@ -94,7 +94,7 @@
                                 <li class="glide__slide">
                                     <div class="galeria-detalle">
                                         <div class="imagen">
-                                            <img src="public/img/slider/administracion.JPG" alt="" class="img-fluid">
+                                            <img src="public/img/slider/epis/img3.JPG" alt="" class="img-fluid">
                                         </div>                                            
                                         <p class="text-center px-2 titulo-img"></p>
                                     </div>                                	

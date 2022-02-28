@@ -28,14 +28,14 @@
         </section>
 
 
-        <!-- SECTION ANUNCIO CEPRE 
+        <!-- SECTION ANUNCIO CEPRE -->
         <section class="contain-cepre">
             <span class="contain-close" onclick="closeAnuncioCepre(true)">Cerrar</span>
-            <div class="contain-img"> -->
-                <!-- div container cepre 
-                <img src="./public/img/cepre.jpeg" alt="cepre">
+            <div class="contain-img"> 
+                <!-- div container cepre -->
+                <img src="./public/img/covid19.jpeg" alt="cepre">
             </div>
-        </section>-->
+        </section>
             <!-- contenedor anuncio CEPRE 
             <section class="c-anuncio-cepre">
                 <img src="./public/img/cepre.jpeg" alt="cepre" onclick="closeAnuncioCepre(false)">
@@ -287,11 +287,11 @@
                     <a href="#admision" class="btn-inscribete22 text-admision3"> 
                         INSCRÍBETE AQUÍ <br>
                         (ORDINARIO) <br>
-                        <small class="text-warning bold">
+                        <small class="text-success bold">
                         <!-- <small class="text-danger bold"> -->
                         <!-- <small class="text-success bold"> -->
                             ( 
-                                PENDIENTE
+                                ABIERTO
                                 <i class="fa fa-window-close" aria-hidden="true"></i>
                                 <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
                             )   
@@ -312,10 +312,10 @@
                                 INSCRÍBETE AQUÍ <br>
                                 (CEPRE) <br>
                                     <!-- <small class="text-warning bold"> -->
-                                    <small class="text-warning bold">
+                                    <small class="text-success bold">
                                     <!-- <small class="text-success bold"> -->
                                     (
-                                        PENDIENTE
+                                        ABIERTO
                                         <!-- <i class="fa fa-external-link-square" aria-hidden="true"></i>   -->
                                         <i class="fa fa-window-close" aria-hidden="true"></i>
                                     )
@@ -330,11 +330,11 @@
                             <a href="#admision2" class="btn-inscribete2">
                                 INSCRÍBETE AQUÍ <br>
                                 (EXTRAORDINARIO) <br>
-                                    <small class="text-warning bold">
+                                    <small class="text-success bold">
                                     <!-- <small class="text-danger bold"> -->
                                     <!-- <small class="text-success bold"> -->
                                     ( 
-                                        PENDIENTE
+                                        ABIERTO
                                         <i class="fa fa-window-close" aria-hidden="true"></i>                                      
                                     )
                                 </small>
@@ -387,7 +387,7 @@
                                         <div class="card bg-dark text-white">
                                             <!-- <iframe class="" width="100%" height="410" src="https://www.youtube.com/embed/N7yxUvfPAL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                                             <!--<iframe width="100%" height="410" src="https://www.youtube.com/embed/6gkC9VvA1yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/7xfoN10bywg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            <iframe width="100%" height="410" src="https://www.youtube.com/embed/EczYN5WxVTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fDdL3X2zkjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                                         </div>
                                     </div>
